@@ -1,681 +1,716 @@
 [
   {
+    "player": "Kristaps Porzingis",
+    "position": "C",
+    "status": "16 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
+  },
+  {
     "player": "Nikola Durisic",
     "position": "F",
-    "status": "13 Nov",
+    "status": "16 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Trae Young",
     "position": "G",
     "status": "30 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Jayson Tatum",
     "position": "F",
     "status": "1 Apr",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Day'Ron Sharpe",
     "position": "C",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Cam Thomas",
     "position": "G",
     "status": "18 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Haywood Highsmith",
     "position": "F",
     "status": "18 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
-    "player": "Grant Williams",
-    "position": "F",
-    "status": "17 Nov",
+    "player": "KJ Simpson",
+    "position": "G",
+    "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Liam McNeeley",
+    "position": "G",
+    "status": "14 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "LaMelo Ball",
     "position": "G",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Ryan Kalkbrenner",
+    "position": "C",
+    "status": "15 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Grant Williams",
+    "position": "F",
+    "status": "17 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Josh Green",
     "position": "G",
     "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Drew Peterson",
     "position": "F",
     "status": "13 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Brandon Miller",
     "position": "F",
     "status": "19 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Josh Giddey",
     "position": "G",
     "status": "16 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Coby White",
     "position": "G",
     "status": "19 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Zach Collins",
     "position": "F",
     "status": "16 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Darius Garland",
-    "position": "G",
-    "status": "13 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Jaylon Tyson",
     "position": "G",
-    "status": "13 Nov",
+    "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
-    "player": "Evan Mobley",
-    "position": "C",
-    "status": "13 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Donovan Mitchell",
+    "player": "Darius Garland",
     "position": "G",
-    "status": "13 Nov",
+    "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Lonzo Ball",
+    "position": "G",
+    "status": "15 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Max Strus",
     "position": "G",
     "status": "1 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "P.J. Washington",
-    "position": "F",
-    "status": "14 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Dereck Lively II",
     "position": "C",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "P.J. Washington",
+    "position": "F",
+    "status": "14 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Anthony Davis",
     "position": "F",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Dante Exum",
     "position": "G",
     "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Kyrie Irving",
     "position": "G",
     "status": "1 Jan",
     "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Christian Braun",
-    "position": "G",
-    "status": "15 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Cameron Johnson",
     "position": "F",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Christian Braun",
+    "position": "G",
+    "status": "15 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Isaiah Stewart",
     "position": "F",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Ausar Thompson",
+    "position": "G",
+    "status": "17 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Jalen Duren",
     "position": "C",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Cade Cunningham",
     "position": "G",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Ausar Thompson",
-    "position": "G",
-    "status": "14 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Tobias Harris",
     "position": "F",
     "status": "24 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Marcus Sasser",
     "position": "G",
     "status": "18 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Jaden Ivey",
     "position": "G",
     "status": "24 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Jonathan Kuminga",
     "position": "F",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Alex Toohey",
     "position": "F",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "De'Anthony Melton",
     "position": "G",
     "status": "21 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Dorian Finney-Smith",
     "position": "F",
     "status": "24 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Fred VanVleet",
     "position": "G",
     "status": "1 Jun",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Aaron Nesmith",
+    "position": "G",
+    "status": "17 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Cody Martin",
+    "position": "SF",
+    "status": "15 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Kam Jones",
     "position": "G",
     "status": "3 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Bennedict Mathurin",
     "position": "G",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Johnny Furphy",
     "position": "G",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Quenton Jackson",
     "position": "G",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Obi Toppin",
     "position": "F",
     "status": "2 Feb",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Tyrese Haliburton",
     "position": "G",
     "status": "1 Oct",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Kawhi Leonard",
+    "position": "F",
+    "status": "17 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Bradley Beal",
     "position": "G",
     "status": "1 Oct",
     "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Kawhi Leonard",
-    "position": "F",
-    "status": "14 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "LeBron James",
     "position": "F",
     "status": "18 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Adou Thiero",
+    "position": "F",
+    "status": "14 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Gabe Vincent",
     "position": "G",
     "status": "18 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Adou Thiero",
-    "position": "F",
-    "status": "18 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Ja Morant",
-    "position": "G",
-    "status": "15 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Kentavious Caldwell-Pope",
     "position": "G",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Ja Morant",
+    "position": "G",
+    "status": "15 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Zach Edey",
     "position": "C",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Javon Small",
     "position": "G",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Brandon Clarke",
     "position": "F",
     "status": "30 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Ty Jerome",
     "position": "G",
     "status": "18 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Scotty Pippen Jr.",
     "position": "G",
     "status": "15 Jan",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Bam Adebayo",
     "position": "C",
-    "status": "14 Nov",
+    "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Terry Rozier",
     "position": "G",
     "status": "1 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Tyler Herro",
     "position": "G",
     "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Taurean Prince",
+    "position": "F",
+    "status": "2 Jan",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Giannis Antetokounmpo",
     "position": "F",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Taurean Prince",
-    "position": "F",
-    "status": "18 Dec",
-    "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Kevin Porter Jr.",
     "position": "G",
     "status": "28 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Terrence Shannon Jr.",
     "position": "G",
-    "status": "14 Nov",
+    "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Zion Williamson",
     "position": "F",
-    "status": "26 Nov",
+    "status": "19 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Jordan Poole",
     "position": "G",
     "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Dejounte Murray",
     "position": "G",
     "status": "2 Jan",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Jalen Brunson",
     "position": "G",
-    "status": "14 Nov",
+    "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Kevin McCullar Jr.",
     "position": "G",
-    "status": "12 Nov",
+    "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Jalen Williams",
     "position": "G",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Aaron Wiggins",
     "position": "G",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Luguentz Dort",
     "position": "G",
     "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Kenrich Williams",
     "position": "G",
     "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Nikola Topic",
     "position": "G",
     "status": "20 Feb",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Thomas Sorber",
     "position": "C",
     "status": "1 Oct",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Paolo Banchero",
     "position": "F",
-    "status": "14 Nov",
+    "status": "16 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Moritz Wagner",
     "position": "F",
     "status": "18 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Joel Embiid",
     "position": "C",
+    "status": "17 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
+  },
+  {
+    "player": "VJ Edgecombe",
+    "position": "G",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Paul George",
     "position": "F",
-    "status": "14 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Dominick Barlow",
-    "position": "F",
     "status": "17 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
-    "player": "Johni Broome",
-    "position": "F",
-    "status": "14 Nov",
+    "player": "Grayson Allen",
+    "position": "G",
+    "status": "16 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Mark Williams",
+    "position": "C",
+    "status": "16 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Jalen Green",
     "position": "G",
     "status": "18 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Scoot Henderson",
     "position": "G",
     "status": "18 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Blake Wesley",
     "position": "G",
     "status": "30 Jan",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Matisse Thybulle",
     "position": "G",
     "status": "30 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Damian Lillard",
     "position": "G",
     "status": "1 Oct",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Malik Monk",
     "position": "G",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
-    "player": "Zach LaVine",
-    "position": "G",
+    "player": "Domantas Sabonis",
+    "position": "F",
     "status": "14 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Keegan Murray",
     "position": "F",
     "status": "30 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Dylan Harper",
     "position": "G",
     "status": "18 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Sandro Mamukelashvili",
-    "position": "F",
-    "status": "13 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
-  },
-  {
-    "player": "Ochai Agbaji",
-    "position": "G",
-    "status": "13 Nov",
-    "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Collin Murray-Boyles",
     "position": "F",
-    "status": "13 Nov",
+    "status": "15 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
+  },
+  {
+    "player": "Ochai Agbaji",
+    "position": "G",
+    "status": "15 Nov",
+    "injury_type": "",
+    "date": "2025-11-14"
   },
   {
     "player": "Taylor Hendricks",
     "position": "F",
     "status": "16 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Kyle Anderson",
     "position": "F",
     "status": "16 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Georges Niang",
     "position": "F",
     "status": "18 Nov",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Walker Kessler",
     "position": "C",
     "status": "1 Oct",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   },
   {
     "player": "Bilal Coulibaly",
     "position": "G",
-    "status": "16 Nov",
+    "status": "1 Dec",
     "injury_type": "",
-    "date": "2025-11-13"
+    "date": "2025-11-14"
   }
 ]
