@@ -1,709 +1,688 @@
 [
   {
     "player": "Nikola Durisic",
-    "position": "F",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Atlanta assigned Durisic (elbow) to the G League's College Park Skyhawks on Friday.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Eli John N'Diaye",
-    "position": "C",
-    "status": "16 Nov",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "Kristaps Porzingis",
-    "position": "C",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Ndiaye (coach's decision) has been ruled out for Saturday's game against the Thunder.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Trae Young",
-    "position": "G",
-    "status": "30 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "2 Nov: Young (knee) will be re-evaluated in four weeks, ESPN's Shams Charania reports.",
+    "est_return": "30 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jayson Tatum",
-    "position": "F",
-    "status": "1 Apr",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "10 Oct: The Celtics have not ruled Tatum (Achilles) out for the 2025-26 season, ESPN's Shams Charania reported on the Pat McAfee Show on Thursday.",
+    "est_return": "1 Apr",
     "date": "2025-11-16"
   },
   {
     "player": "Cam Thomas",
-    "position": "G",
-    "status": "18 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "8 Nov: Thomas has been diagnosed with a left hamstring strain and he will be re-evaluated in 3-4 weeks, Marc J. Spears of ESPN.com reports.",
+    "est_return": "18 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Haywood Highsmith",
-    "position": "F",
-    "status": "18 Dec",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "KJ Simpson",
-    "position": "G",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "20 Oct: Highsmith (knee) experienced swelling during rehab and will re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",
+    "est_return": "18 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Liam McNeeley",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: McNeeley (illness) is out for Saturday's game against the Thunder.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "LaMelo Ball",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Ball (rest) won't play Saturday against the Thunder.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Grant Williams",
-    "position": "F",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "12 Nov: Williams (knee) has been ruled out for Wednesday's game against the Bucks.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Josh Green",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "12 Nov: Green (shoulder) has been ruled out for Wednesday's game against the Bucks.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Brandon Miller",
-    "position": "F",
-    "status": "19 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "4 Nov: The Hornets announced Monday that Miller (shoulder) will be re-evaluated in about two weeks.",
+    "est_return": "19 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Zach Collins",
-    "position": "F",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Collins (wrist) is out for Sunday's game against the Jazz.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Tre Jones",
-    "position": "G",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Jones (left ankle impingement) is questionable for Sunday's game against the Jazz.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Josh Giddey",
-    "position": "G",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Giddey (ankle) is probable for Sunday's game against the Jazz.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Coby White",
-    "position": "G",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: White (calf) is listed as questionable for Sunday against the Jazz.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jaylon Tyson",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Tyson (concussion) will not suit up for Saturday's game against the Grizzlies.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Darius Garland",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Garland (toe) has been ruled out for Saturday's matchup with Memphis.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Max Strus",
-    "position": "G",
-    "status": "1 Dec",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "P.J. Washington",
-    "position": "F",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "1 Oct: Strus (foot) is no longer wearing a walking boot on Tuesday, but still has a lengthy recovery process ahead, Chris Fedor of The Cleveland Plain Dealer reports.",
+    "est_return": "1 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Anthony Davis",
-    "position": "F",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Davis (calf) is listed as doubtful for Sunday's game against the Trail Blazers.",
+    "est_return": "16 Nov",
+    "date": "2025-11-16"
+  },
+  {
+    "player": "P.J. Washington",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Washington (shoulder) is listed as probable for Sunday's game against Portland.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Dante Exum",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "11 Nov: Exum (knee) still does not have an official timetable to return.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Kyrie Irving",
-    "position": "G",
-    "status": "1 Jan",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "Nikola Jokic",
-    "position": "C",
-    "status": "15 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "30 Sep: At Media Day on Monday, Mavericks head coach Jason Kidd refuted the report that Irving (knee) is ahead of schedule in his recovery, Christian Clark reports.",
+    "est_return": "1 Jan",
     "date": "2025-11-16"
   },
   {
     "player": "Cameron Johnson",
-    "position": "F",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Johnson (biceps) won't play in Saturday's game against Minnesota.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Christian Braun",
-    "position": "G",
-    "status": "9 Jan",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Christian Braun (ankle) will be re-evaluated in six weeks after suffering a left ankle sprain during Wednesday's win over the Clippers, Shams Charania of ESPN reports.",
+    "est_return": "9 Jan",
     "date": "2025-11-16"
   },
   {
     "player": "Jalen Duren",
-    "position": "C",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Duren (ankle) will not suit up for Friday's game against the 76ers.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Cade Cunningham",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Cunningham (hip) has been ruled out for Friday's game against the 76ers.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jaden Ivey",
-    "position": "G",
-    "status": "24 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Ivey (knee) was spotted taking part in the Pistons' morning shootaround Friday, Natalie Kerwin of FanDuel Sports Network Detroit reports.",
+    "est_return": "24 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Ausar Thompson",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "14 Nov: Thompson (ankle) will miss Friday's game against the 76ers.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Tobias Harris",
-    "position": "F",
-    "status": "24 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "11 Nov: Head coach J.B. Bickerstaff said that Harris (ankle), who has already been ruled out for Monday's game against the Wizards, is trending in the right direction but remains without a timetable for return, Omari Sankofa II of the Detroit Free Press reports.",
+    "est_return": "24 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Marcus Sasser",
-    "position": "G",
-    "status": "18 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "9 Nov: Sasser (hip) will remain on the inactive list for Sunday's game in Philadelphia.",
+    "est_return": "18 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Jonathan Kuminga",
-    "position": "F",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Kuminga (knee) is out for Sunday's game against the Pelicans.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Alex Toohey",
-    "position": "F",
-    "status": "15 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "10 Nov: Toohey (knee) is not listed on the injury report for Friday's game against Denver.",
+    "est_return": "15 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "De'Anthony Melton",
-    "position": "G",
-    "status": "21 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "2 Nov: Golden State assigned Melton to the Santa Cruz Warriors before recalling him Friday.",
+    "est_return": "21 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Tari Eason",
-    "position": "F",
-    "status": "18 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Eason (hip) is expected to miss four to six weeks, coach Ime Udoka announced Saturday, according to Rockets reporter Vaneesa Richardson.",
+    "est_return": "18 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Dorian Finney-Smith",
-    "position": "F",
-    "status": "24 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "9 Nov: Finney-Smith (ankle surgery) will miss Sunday's game in Milwaukee and he remains without a timetable to return.",
+    "est_return": "24 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Fred VanVleet",
-    "position": "G",
-    "status": "1 Jun",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "23 Sep: VanVleet suffered a torn ACL and may be out for the entire 2025-26 campaign, Shams Charania of ESPN reports.",
+    "est_return": "1 Jun",
     "date": "2025-11-16"
   },
   {
     "player": "Bennedict Mathurin",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Mathurin (toe) is not ready to return yet but is \"getting close,\" head coach Rick Carlisle told Alex Golden of the 'Setting the Pace' podcast. \"He's moving in a good direction,\" Carlisle said.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Aaron Nesmith",
-    "position": "G",
-    "status": "18 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Nesmith (knee) is expected to be out for around four weeks, Dustin Dopirak of The Indianapolis Star reports.",
+    "est_return": "18 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Quenton Jackson",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Jackson (hamstring) will remain on the inactive list for Saturday's game versus the Raptors.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Johnny Furphy",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Furphy (ankle) is out for Saturday's game against Toronto.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Kam Jones",
-    "position": "G",
-    "status": "3 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "11 Nov: Pacers coach Rick Carlisle said Sunday that Jones (back) is still a \"ways out\" from returning, Dustin Dopirak of The Indianapolis Star reports.",
+    "est_return": "3 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Obi Toppin",
-    "position": "F",
-    "status": "2 Feb",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "1 Nov: Toppin will undergo surgery to place a screw in his right foot Monday, Dustin Dopirak of The Indianapolis Star reports.",
+    "est_return": "2 Feb",
     "date": "2025-11-16"
   },
   {
     "player": "Tyrese Haliburton",
-    "position": "G",
-    "status": "1 Oct",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "8 Jul: Haliburton will miss the entire 2025-26 season while recovering from surgery on his right Achilles tendon, Shams Charania of ESPN reports.",
+    "est_return": "1 Oct",
     "date": "2025-11-16"
   },
   {
     "player": "Kawhi Leonard",
-    "position": "F",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "14 Nov: Clippers president of basketball operations Lawrence Frank said Wednesday that Leonard is recovering from a right foot sprain in addition to the sprained right ankle he sustained in a Nov. 3 loss to the Heat, Ohm Youngmisuk of ESPN.com reports. \"With Kawhi, it wasn't just an ankle sprain,\" Frank said. \"He also had a significant sprain in his foot, as well. When he sprained his ankle, it kind of triggered a mechanism in his foot.\"",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Bradley Beal",
-    "position": "G",
-    "status": "1 Oct",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "Rui Hachimura",
-    "position": "F",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "13 Nov: Beal will undergo season-ending surgery on his left hip, ESPN's Shams Charania reports.",
+    "est_return": "1 Oct",
     "date": "2025-11-16"
   },
   {
     "player": "Marcus Smart",
-    "position": "G",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Smart (illness) has been ruled out for Saturday's game against the Bucks, Dan Woike of The Athletic reports.",
+    "est_return": "18 Nov",
+    "date": "2025-11-16"
+  },
+  {
+    "player": "Rui Hachimura",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Hachimura (calf) is out for Saturday's game against the Bucks, Khobi Price of The Orange County Register reports.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "LeBron James",
-    "position": "F",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "14 Nov: James was again able to get through full-contact, 5-on-5 work at Thursday's practice with the South Bay Lakers.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Gabe Vincent",
-    "position": "G",
-    "status": "18 Nov",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "Vince Williams Jr.",
-    "position": "G",
-    "status": "15 Nov",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "Ja Morant",
-    "position": "G",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "9 Nov: Vincent (ankle) has been ramping up his on-court work, but he still hasn't been cleared for 1-on-1, contact work, Law Murray of The Athletic reports.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Olivier-Maxence Prosper",
-    "position": "F",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Prosper (quadriceps) is out against the Cavaliers on Saturday.",
+    "est_return": "18 Nov",
+    "date": "2025-11-16"
+  },
+  {
+    "player": "Ja Morant",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Morant has been ruled out for the rest of Saturday's game against the Cavaliers due to right calf soreness.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Javon Small",
-    "position": "G",
-    "status": "7 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Small (toe) will be re-evaluated in three weeks, the Grizzlies announced Saturday.",
+    "est_return": "7 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Brandon Clarke",
-    "position": "F",
-    "status": "30 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "12 Nov: The Grizzlies announced Tuesday that Clarke (knee) is progressing well, but he will be sidelined for another six-to-nine weeks.",
+    "est_return": "30 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Ty Jerome",
-    "position": "G",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "21 Oct: The Grizzlies announced Monday that Jerome (calf) will be re-evaluated in four weeks.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Scotty Pippen Jr.",
-    "position": "G",
-    "status": "15 Jan",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "19 Oct: Pippen will undergo a procedure for a left big toe injury and will be re-evaluated in 12 weeks, ESPN's Shams Charania reported Saturday.",
+    "est_return": "15 Jan",
     "date": "2025-11-16"
   },
   {
     "player": "Bam Adebayo",
-    "position": "C",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "14 Nov: Adebayo (toe) is listed as out for Friday's game against the Knicks.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Terry Rozier",
-    "position": "G",
-    "status": "1 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "24 Oct: The NBA placed Rozier on immediate leave from the Heat on Thursday, ESPN's Shams Charania reports.",
+    "est_return": "1 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Tyler Herro",
-    "position": "G",
-    "status": "1 Dec",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "Giannis Antetokounmpo",
-    "position": "F",
-    "status": "15 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "1 Oct: Herro (foot/ankle) said Tuesday that he's ahead of schedule in his recovery and expects to be back in 8-12 weeks, Wes Goldberg of the Locked On Podcast Network reports.",
+    "est_return": "1 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Taurean Prince",
-    "position": "F",
-    "status": "2 Jan",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "14 Nov: Prince underwent surgery Thursday to repair the herniated disc in his neck and will remain out indefinitely.",
+    "est_return": "2 Jan",
     "date": "2025-11-16"
   },
   {
     "player": "Kevin Porter Jr.",
-    "position": "G",
-    "status": "28 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "6 Nov: The Bucks announced that Porter underwent surgery on his right knee meniscus injury Monday, Eric Nehm of The Athletic reports.",
+    "est_return": "28 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Terrence Shannon Jr.",
-    "position": "G",
-    "status": "24 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Shannon (foot) will be re-evaluated in one week, the Timberwolves announced Friday, Michael Scotto of USA Today reports.",
+    "est_return": "24 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Zion Williamson",
-    "position": "F",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Williamson (hamstring) is questionable for Sunday's game against the Warriors.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jordan Poole",
-    "position": "G",
-    "status": "21 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: The Pelicans announced Friday that Poole (quadriceps) will be re-assessed in approximately one week.",
+    "est_return": "21 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Dejounte Murray",
-    "position": "G",
-    "status": "2 Jan",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "26 Sep: ESPN's Shams Charania reported Wednesday that Murray (Achilles) could return right after New Years, according to Pelicans Film Room.",
+    "est_return": "2 Jan",
     "date": "2025-11-16"
   },
   {
     "player": "Jalen Brunson",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Brunson (foot), who's already been ruled out for Friday's game against Miami, might not travel with the team during its five-game road trip, which begins Monday, Stefan Bondy of The New York Post reports.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "OG Anunoby",
-    "position": "F",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Anunoby has been ruled out for the remainder of Friday's game against the Heat due to a left hamstring strain.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Kevin McCullar Jr.",
-    "position": "G",
-    "status": "22 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "10 Nov: McCullar (nose) signed a two-way contract with the Knicks on Tuesday.",
+    "est_return": "22 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jaylin Williams",
-    "position": "F",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Williams (shoulder) is out for Saturday's game against the Hornets.",
+    "est_return": "17 Nov",
+    "date": "2025-11-16"
+  },
+  {
+    "player": "Alex Caruso",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Caruso has been ruled out for the rest of Saturday's game against the Hornets due to right hand soreness, Marc J. Spears of ESPN.com reports.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jalen Williams",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Williams (wrist) is listed as out for Saturday's game against Charlotte.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Aaron Wiggins",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "15 Nov: Wiggins (thigh) will not play Saturday against the Hornets.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Kenrich Williams",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "11 Nov: Williams (knee) is out for Tuesday's game against the Warriors.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Nikola Topic",
-    "position": "G",
-    "status": "20 Feb",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "31 Oct: Topic has been diagnosed with testicular cancer, Thunder general manager Sam Presti announced Thursday, Justin Martinez of The Oklahoman reports.",
+    "est_return": "20 Feb",
     "date": "2025-11-16"
   },
   {
     "player": "Thomas Sorber",
-    "position": "C",
-    "status": "1 Oct",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "6 Sep: The Thunder announced Friday that Sorber has sustained a torn ACL in his right knee during an offseason workout, NBA reporter Marc Stein reports.",
+    "est_return": "1 Oct",
     "date": "2025-11-16"
   },
   {
     "player": "Paolo Banchero",
-    "position": "F",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Banchero (groin) will not play Sunday against the Rockets.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Moritz Wagner",
-    "position": "F",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "12 Nov: Wagner (knee) won't play Wednesday against the Knicks.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Kelly Oubre Jr.",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Oubre will not return to Friday's game versus the Pistons due to a left knee hyperextension, Keith Pompey of The Philadelphia Inquirer reports.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Joel Embiid",
-    "position": "C",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "14 Nov: Embiid (knee) will remain on the sidelines for Friday's game in Detroit.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Paul George",
-    "position": "F",
-    "status": "17 Nov",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "Mark Williams",
-    "position": "C",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "14 Nov: George (knee) will not play Friday against Detroit, Adam Aaronson of PhillyVoice.com reports.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Grayson Allen",
-    "position": "G",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Allen (quadriceps) is out for Sunday's game against the Hawks, Duane Rankin of The Arizona Republic reports.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jalen Green",
-    "position": "G",
-    "status": "18 Dec",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "12 Nov: Green (hamstring) will be re-evaluated in four-to-six weeks, Shams Charania of ESPN reports.",
+    "est_return": "18 Dec",
     "date": "2025-11-16"
   },
   {
     "player": "Scoot Henderson",
-    "position": "G",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "12 Nov: Henderson (hamstring) has been ruled out for Wednesday's game against the Pelicans.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Blake Wesley",
-    "position": "G",
-    "status": "30 Jan",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "6 Nov: Wesley underwent a successful procedure to repair a fracture of the fifth metatarsal base in his right foot Wednesday, and he's expected to be sidelined for 8-12 weeks, Brett Siegel of ClutchPoints.com reports.",
+    "est_return": "30 Jan",
     "date": "2025-11-16"
   },
   {
     "player": "Matisse Thybulle",
-    "position": "G",
-    "status": "30 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "1 Nov: Thybulle underwent surgery Friday to repair torn UCL in his left thumb and will miss 4-6 weeks.",
+    "est_return": "30 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Damian Lillard",
-    "position": "G",
-    "status": "1 Oct",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "26 Sep: Lillard won't be back on the court for the 2025-26 season, as he made clear during an interview with YouTube influencer Speed on Wednesday.",
+    "est_return": "1 Oct",
+    "date": "2025-11-16"
+  },
+  {
+    "player": "Precious Achiuwa",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Achiuwa is questionable for Sunday's game against the Spurs due to an illness.",
+    "est_return": "16 Nov",
+    "date": "2025-11-16"
+  },
+  {
+    "player": "Domantas Sabonis",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Sabonis is questionable for Sunday's game against the Spurs due to a left ribcage contusion.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Keegan Murray",
-    "position": "F",
-    "status": "30 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Oct: The Kings signed Murray (thumb) to a five-year, $140 million rookie contract extension Wednesday, Shams Charania of ESPN reports.",
+    "est_return": "30 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Victor Wembanyama",
-    "position": "F",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Wembanyama is listed as questionable for Sunday's game against the Kings due to left calf tightness, Jared Weiss of The Athletic reports.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Dylan Harper",
-    "position": "G",
-    "status": "18 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "4 Nov: Harper is set to be out for multiple weeks due to a strained left calf, Shams Charania of ESPN reports.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jamison Battle",
-    "position": "F",
-    "status": "17 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Battle (knee) won't play in Saturday's game against the Pacers, Dustin Dopirak of The Indianapolis Star reports.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Ochai Agbaji",
-    "position": "G",
-    "status": "17 Nov",
-    "injury_type": "",
-    "date": "2025-11-16"
-  },
-  {
-    "player": "Georges Niang",
-    "position": "F",
-    "status": "23 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Agbaji (back) has been ruled out for Saturday's game against the Pacers, Dustin Dopirak of The Indianapolis Star reports.",
+    "est_return": "17 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Taylor Hendricks",
-    "position": "F",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Hendricks (hamstring) has been ruled out for Sunday's game against the Bulls.",
+    "est_return": "18 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Kyle Anderson",
-    "position": "F",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Anderson (back) is listed as questionable for Sunday's game against the Bulls.",
+    "est_return": "16 Nov",
+    "date": "2025-11-16"
+  },
+  {
+    "player": "Georges Niang",
+    "status": "Out",
+    "injury_type": "15 Nov: Niang (foot) will be re-evaluated in one week, the Jazz announced Friday.",
+    "est_return": "23 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Walker Kessler",
-    "position": "C",
-    "status": "1 Oct",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "6 Nov: Kessler will undergo left shoulder surgery and will miss the remainder of the 2025-26 season, Tony Jones of The Athletic reports.",
+    "est_return": "1 Oct",
     "date": "2025-11-16"
   },
   {
     "player": "Bilal Coulibaly",
-    "position": "G",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Out",
+    "injury_type": "16 Nov: Coulibaly (calf) is listed as questionable for Sunday's game against the Nets.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   },
   {
     "player": "Jamir Watkins",
-    "position": "G",
-    "status": "16 Nov",
-    "injury_type": "",
+    "status": "Day-To-Day",
+    "injury_type": "16 Nov: Watkins tallied 23 points (8-18 FG, 4-11 3Pt, 3-4 FT), eight rebounds, two assists and five steals across 34 minutes during Saturday's 94-85 Summer League win against the Knicks.",
+    "est_return": "16 Nov",
     "date": "2025-11-16"
   }
 ]
