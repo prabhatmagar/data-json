@@ -28,9 +28,16 @@
     "date": "2025-11-28"
   },
   {
+    "player": "Michael Porter Jr.",
+    "status": "Out",
+    "injury_type": "28 Nov: Porter is out for Friday's game against the 76ers due to low back tightness, Brian Lewis of the New York Post reports.",
+    "est_return": "29 Nov",
+    "date": "2025-11-28"
+  },
+  {
     "player": "Ben Saraf",
     "status": "Out",
-    "injury_type": "19 Nov: Brooklyn recalled Saraf from the G League's Long Island Nets on Monday after the team announced that he will be sidelined at least 10 days with a left ankle injury, Meghan Triplett of YES Network reports.",
+    "injury_type": "28 Nov: Saraf (ankle) has been upgraded to questionable ahead of Friday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
@@ -51,7 +58,7 @@
   {
     "player": "Pat Connaughton",
     "status": "Out",
-    "injury_type": "26 Nov: Connaughton (calf) has been ruled out for Wednesday's game against the Knicks.",
+    "injury_type": "28 Nov: Connaughton (calf) is out for Friday's game against the Bulls.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
@@ -70,16 +77,44 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Nikola Vucevic",
-    "status": "Day-To-Day",
-    "injury_type": "25 Nov: Vucevic (knee) has been ruled out for Monday's game against the Pelicans.",
+    "player": "Isaac Okoro",
+    "status": "Out",
+    "injury_type": "28 Nov: Okoro (back) is doubtful for Friday's game against Charlotte.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
+    "player": "Dalen Terry",
+    "status": "Out",
+    "injury_type": "28 Nov: Terry (calf) is questionable for Friday's game against Charlotte.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
   {
     "player": "Kevin Huerter",
     "status": "Day-To-Day",
-    "injury_type": "25 Nov: Huerter (pelvis) has been ruled out for Monday's game against the Pelicans.",
+    "injury_type": "28 Nov: Huerter (pelvic contusion) is questionable for Friday's game against the Hornets.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
+    "player": "Patrick Williams",
+    "status": "Day-To-Day",
+    "injury_type": "28 Nov: Williams is questionable for Friday's game against the Hornets with a left wrist sprain.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
+    "player": "Nikola Vucevic",
+    "status": "Day-To-Day",
+    "injury_type": "28 Nov: Vucevic (knee) is questionable for Friday's game against the Hornets.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
+    "player": "Coby White",
+    "status": "Day-To-Day",
+    "injury_type": "28 Nov: White (rest) is questionable for Friday's game against the Hornets.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
@@ -91,20 +126,6 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Dalen Terry",
-    "status": "Out",
-    "injury_type": "24 Nov: Terry (calf) has been ruled out for Monday's game against the Pelicans.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
-    "player": "Isaac Okoro",
-    "status": "Out",
-    "injury_type": "24 Nov: Okoro (back) has been ruled out for Monday's game against the Pelicans.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
     "player": "Zach Collins",
     "status": "Out",
     "injury_type": "19 Nov: Collins (wrist) will remain on the inactive list for Wednesday's game in Portland.",
@@ -112,44 +133,30 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Dean Wade",
-    "status": "Day-To-Day",
-    "injury_type": "25 Nov: Wade (knee) has been ruled out for Monday's game against the Raptors, Chris Fedor of The Cleveland Plain Dealer reports.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
     "player": "Craig Porter Jr.",
     "status": "Day-To-Day",
-    "injury_type": "25 Nov: Porter (hamstring) will not play Monday against the Raptors.",
+    "injury_type": "28 Nov: Porter (hamstring) is questionable for Friday's game against the Hawks.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
   {
-    "player": "De'Andre Hunter",
+    "player": "Dean Wade",
     "status": "Day-To-Day",
-    "injury_type": "25 Nov: Hunter (rest) is out for Monday's game against the Raptors.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
-    "player": "Darius Garland",
-    "status": "Day-To-Day",
-    "injury_type": "25 Nov: Garland (toe) is out for Monday's game against the Raptors.",
+    "injury_type": "28 Nov: Wade (knee) is questionable for Friday's game against the Hawks.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
   {
     "player": "Sam Merrill",
     "status": "Out",
-    "injury_type": "25 Nov: Merrill (hand) is out for Monday's game against the Raptors.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Merrill (hand) is out for Friday's game against the Hawks.",
+    "est_return": "30 Nov",
     "date": "2025-11-28"
   },
   {
     "player": "Jarrett Allen",
     "status": "Out",
-    "injury_type": "25 Nov: Allen (finger) will miss Monday's game against the Raptors.",
+    "injury_type": "28 Nov: Allen (finger) is probable for Friday's game against the Hawks.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
@@ -198,8 +205,8 @@
   {
     "player": "Julian Strawther",
     "status": "Out",
-    "injury_type": "24 Nov: Strawther (back) has been ruled out for Monday's game against the Grizzlies.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Strawther (back) is out for Friday's game against the Spurs.",
+    "est_return": "29 Nov",
     "date": "2025-11-28"
   },
   {
@@ -217,10 +224,17 @@
     "date": "2025-11-28"
   },
   {
+    "player": "Jaden Ivey",
+    "status": "Day-To-Day",
+    "injury_type": "28 Nov: Ivey is questionable to play Friday against the Magic due to return to competition reconditioning.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
     "player": "Bobi Klintman",
     "status": "Out",
-    "injury_type": "26 Nov: Klintman (ankle) has been ruled out for Wednesday's game against the Celtics.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Klintman (ankle) is out for Friday's game against the Magic.",
+    "est_return": "29 Nov",
     "date": "2025-11-28"
   },
   {
@@ -233,7 +247,7 @@
   {
     "player": "Stephen Curry",
     "status": "Out",
-    "injury_type": "28 Nov: Curry is expected to miss at least one week of action with his right quad contusion, ESPN's Shams Charania reports.",
+    "injury_type": "28 Nov: The Warriors announced Wednesday that Curry (quadriceps) will be re-evaluated in one week.",
     "est_return": "6 Dec",
     "date": "2025-11-28"
   },
@@ -308,6 +322,13 @@
     "date": "2025-11-28"
   },
   {
+    "player": "Andrew Nembhard",
+    "status": "Day-To-Day",
+    "injury_type": "28 Nov: Nembhard is questionable for Friday's game against the Wizards due to a right quadriceps contusion.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
     "player": "Johnny Furphy",
     "status": "Out",
     "injury_type": "24 Nov: Furphy (ankle) is out for Monday's game against the Pistons.",
@@ -350,17 +371,17 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Bogdan Bogdanovic",
+    "player": "Jordan Miller",
     "status": "Out",
-    "injury_type": "26 Nov: Bogdanovic (hip) has been ruled out for Tuesday's game against the Lakers, Law Murray of The Athletic reports.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Miller (hamstring) has been ruled out for Friday's game against Memphis, independent NBA writer Justin Russo reports.",
+    "est_return": "29 Nov",
     "date": "2025-11-28"
   },
   {
-    "player": "Jordan Miller",
+    "player": "Bogdan Bogdanovic",
     "status": "Out",
-    "injury_type": "25 Nov: Miller (hamstring) will remain on the inactive list for Tuesday's game against the Lakers, independent NBA writer Justin Russo reports.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Bogdanovic (hip) has been ruled out for Friday's game against the Grizzlies, independent NBA writer Justin Russo reports.",
+    "est_return": "29 Nov",
     "date": "2025-11-28"
   },
   {
@@ -378,9 +399,16 @@
     "date": "2025-11-28"
   },
   {
+    "player": "Marcus Smart",
+    "status": "Day-To-Day",
+    "injury_type": "28 Nov: Smart (back) is listed as questionable for Friday's game against the Mavericks, Law Murray of The Athletic reports.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
     "player": "Deandre Ayton",
     "status": "Day-To-Day",
-    "injury_type": "26 Nov: Ayton (knee) has been ruled out for Tuesday's game against the Clippers, Law Murray of The Athletic reports.",
+    "injury_type": "28 Nov: Ayton (knee) is listed as probable for Friday's game against the Mavericks, Law Murray of The Athletic reports.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
@@ -427,16 +455,16 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Giannis Antetokounmpo",
+    "player": "Kevin Porter Jr.",
     "status": "Out",
-    "injury_type": "27 Nov: Antetokounmpo (groin) won't play in Wednesday's game against the Heat, Eric Nehm of The Athletic reports.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Porter (knee) will not play Friday against the Knicks.",
+    "est_return": "29 Nov",
     "date": "2025-11-28"
   },
   {
-    "player": "Kevin Porter Jr.",
+    "player": "Giannis Antetokounmpo",
     "status": "Out",
-    "injury_type": "27 Nov: The Bucks recalled Porter from the team's G League affiliate Wednesday.",
+    "injury_type": "28 Nov: Antetokounpo (thigh) is questionable for Friday's game against the Knicks.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
@@ -497,17 +525,10 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Jalen Williams",
-    "status": "Out",
-    "injury_type": "26 Nov: Williams (wrist) is out for Wednesday's game against Minnesota.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
     "player": "Aaron Wiggins",
     "status": "Out",
-    "injury_type": "23 Nov: Wiggins (thigh) will remain on the inactive list for Sunday's game against the Trail Blazers.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Wiggins (thigh) is out for Friday's game against the Suns, Clemente Almanza of USA Today reports.",
+    "est_return": "30 Nov",
     "date": "2025-11-28"
   },
   {
@@ -528,7 +549,7 @@
     "player": "Paolo Banchero",
     "status": "Out",
     "injury_type": "28 Nov: Banchero (groin) is listed as out for Friday's game against the Pistons.",
-    "est_return": "28 Nov",
+    "est_return": "1 Dec",
     "date": "2025-11-28"
   },
   {
@@ -547,15 +568,29 @@
   },
   {
     "player": "VJ Edgecombe",
-    "status": "Day-To-Day",
-    "injury_type": "27 Nov: Edgecombe (calf) practiced Wednesday, Noah Levick of NBC Sports Philadelphia reports.",
-    "est_return": "28 Nov",
+    "status": "Out",
+    "injury_type": "28 Nov: Edgecombe (calf) is out for Friday's game against the Nets.",
+    "est_return": "30 Nov",
+    "date": "2025-11-28"
+  },
+  {
+    "player": "Joel Embiid",
+    "status": "Out",
+    "injury_type": "28 Nov: Embiid (knee) is out for Friday's game against the Nets.",
+    "est_return": "30 Nov",
     "date": "2025-11-28"
   },
   {
     "player": "Paul George",
     "status": "Day-To-Day",
-    "injury_type": "27 Nov: George (ankle) was a full participant at Wednesday's practice, Noah Levick of NBC Sports Philadelphia reports.",
+    "injury_type": "28 Nov: George (ankle) is questionable for Friday's game against the Nets.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
+    "player": "Adem Bona",
+    "status": "Out",
+    "injury_type": "28 Nov: Bona (ankle) is probable for Friday's game against the Nets.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
@@ -567,20 +602,6 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Joel Embiid",
-    "status": "Out",
-    "injury_type": "27 Nov: Embiid (knee) was limited to an individual strength and conditioning session Wednesday, Noah Levick of NBC Sports Philadelphia reports.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
-    "player": "Adem Bona",
-    "status": "Out",
-    "injury_type": "23 Nov: Bona (ankle) will miss two more games before being re-evaluated, Adam Aaronson of PhillyVoice.com reports.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
     "player": "Kelly Oubre Jr.",
     "status": "Out",
     "injury_type": "20 Nov: Oubre (knee) will miss at least two weeks, Tony Jones of The Athletic reports.",
@@ -588,17 +609,17 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Ryan Dunn",
+    "player": "Grayson Allen",
     "status": "Out",
-    "injury_type": "26 Nov: Dunn (wrist) has been ruled out for Wednesday's game against the Kings.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Allen (quadriceps) is out for Friday's game against the Thunder, Duane Rankin of The Arizona Republic reports.",
+    "est_return": "29 Nov",
     "date": "2025-11-28"
   },
   {
-    "player": "Grayson Allen",
+    "player": "Ryan Dunn",
     "status": "Out",
-    "injury_type": "26 Nov: Allen (quadriceps) has been ruled out for Wednesday's game against the Kings.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: Dunn (wrist) is out for Friday's game against the Thunder, Duane Rankin of The Arizona Republic reports.",
+    "est_return": "29 Nov",
     "date": "2025-11-28"
   },
   {
@@ -646,7 +667,7 @@
   {
     "player": "Dennis Schroder",
     "status": "Day-To-Day",
-    "injury_type": "27 Nov: Schroder (hip) has been ruled out for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports.",
+    "injury_type": "28 Nov: Schroder (hip) is questionable for Friday's game against the Jazz.",
     "est_return": "28 Nov",
     "date": "2025-11-28"
   },
@@ -660,8 +681,8 @@
   {
     "player": "Jordan McLaughlin",
     "status": "Out",
-    "injury_type": "26 Nov: McLaughlin (hamstring) has been ruled out for Wednesday's game against the Trail Blazers, Jeff Garcia of KENS 5 San Antonio reports.",
-    "est_return": "28 Nov",
+    "injury_type": "28 Nov: McLaughlin (hamstring) has been ruled out for Friday's game against the Nuggets, Paul Garcia of ProjectSpurs.com reports.",
+    "est_return": "30 Nov",
     "date": "2025-11-28"
   },
   {
@@ -700,13 +721,6 @@
     "date": "2025-11-28"
   },
   {
-    "player": "Kevin Love",
-    "status": "Day-To-Day",
-    "injury_type": "25 Nov: Love (rest) is out for Monday's game against the Warriors.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
     "player": "Georges Niang",
     "status": "Out",
     "injury_type": "23 Nov: Niang will have his left foot injury re-evaluated by Jazz medical staff in 10-to-14 days, Ben Anderson of KSL News Salt Lake City reports.",
@@ -721,24 +735,17 @@
     "date": "2025-11-28"
   },
   {
+    "player": "Kyshawn George",
+    "status": "Day-To-Day",
+    "injury_type": "28 Nov: George (illness) is questionable for Friday's game against the Pacers.",
+    "est_return": "28 Nov",
+    "date": "2025-11-28"
+  },
+  {
     "player": "Corey Kispert",
     "status": "Out",
     "injury_type": "28 Nov: Kispert suffered a fractured right thumb Tuesday and is expected to miss a few weeks of action, Josh Robbins of The Athletic reports.",
     "est_return": "17 Dec",
-    "date": "2025-11-28"
-  },
-  {
-    "player": "Kyshawn George",
-    "status": "Day-To-Day",
-    "injury_type": "26 Nov: George (illness) has been ruled out for Tuesday's game against the Hawks, Varun Shankar of The Washington Post reports.",
-    "est_return": "28 Nov",
-    "date": "2025-11-28"
-  },
-  {
-    "player": "Marvin Bagley III",
-    "status": "Out",
-    "injury_type": "26 Nov: Bagley (hip) has been ruled out for Tuesday's game against the Hawks.",
-    "est_return": "28 Nov",
     "date": "2025-11-28"
   },
   {
