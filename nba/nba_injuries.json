@@ -1,19 +1,5 @@
 [
   {
-    "player": "Kristaps Porzingis",
-    "status": "Out",
-    "injury_type": "6 Dec: Porzingis, who's officially listed as questionable for Friday's game against the Nuggets due to an illness, was spotted getting shots up after the Hawks' morning shootaround, Kevin Chouinard of the Hawks' official site reports.",
-    "est_return": "5 Dec",
-    "date": "2025-12-06"
-  },
-  {
-    "player": "Jalen Johnson",
-    "status": "Day-To-Day",
-    "injury_type": "6 Dec: Johnson, who's officially listed as questionable for Friday's game against the Nuggets due to right calf tightness, was spotted getting shots up following the Hawks' morning shootaround, Kevin Chouinard of the Hawks' official site reports.",
-    "est_return": "5 Dec",
-    "date": "2025-12-06"
-  },
-  {
     "player": "N'Faly Dante",
     "status": "Out",
     "injury_type": "6 Dec: Dante (concussion) won't play Friday against the Nuggets.",
@@ -42,16 +28,9 @@
     "date": "2025-12-06"
   },
   {
-    "player": "Michael Porter Jr.",
+    "player": "Noah Clowney",
     "status": "Day-To-Day",
-    "injury_type": "6 Dec: Porter (back) won't play Thursday against the Jazz, Erik Slater of ClutchPoints.com reports.",
-    "est_return": "6 Dec",
-    "date": "2025-12-06"
-  },
-  {
-    "player": "Drake Powell",
-    "status": "Day-To-Day",
-    "injury_type": "5 Dec: Powell (knee) is out for Thursday's game against the Jazz, Erik Slater of ClutchPoints.com reports.",
+    "injury_type": "6 Dec: Clowney (back) is probable for Saturday's game against the Pelicans, Brian Lewis of the New York Post reports.",
     "est_return": "6 Dec",
     "date": "2025-12-06"
   },
@@ -70,6 +49,20 @@
     "date": "2025-12-06"
   },
   {
+    "player": "Tre Mann",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Mann (ankle) has been downgraded to doubtful for Friday's game against Toronto.",
+    "est_return": "5 Dec",
+    "date": "2025-12-06"
+  },
+  {
+    "player": "Brandon Miller",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Miller (shoulder) is now probable for Friday's game against Toronto.",
+    "est_return": "5 Dec",
+    "date": "2025-12-06"
+  },
+  {
     "player": "Josh Green",
     "status": "Out",
     "injury_type": "6 Dec: Charlotte recalled Green (shoulder) from the G League's Greensboro Swarm on Friday.",
@@ -77,23 +70,9 @@
     "date": "2025-12-06"
   },
   {
-    "player": "Tre Mann",
-    "status": "Day-To-Day",
-    "injury_type": "5 Dec: Mann (knee) is questionable for Friday's game against Toronto.",
-    "est_return": "5 Dec",
-    "date": "2025-12-06"
-  },
-  {
     "player": "Ryan Kalkbrenner",
     "status": "Day-To-Day",
     "injury_type": "5 Dec: Kalkbrenner is questionable for Friday's game against the Raptors with a left ankle contusion.",
-    "est_return": "5 Dec",
-    "date": "2025-12-06"
-  },
-  {
-    "player": "Brandon Miller",
-    "status": "Day-To-Day",
-    "injury_type": "5 Dec: Miller (shoulder) is being listed as questionable for Friday's game versus the Raptors.",
     "est_return": "5 Dec",
     "date": "2025-12-06"
   },
@@ -245,17 +224,17 @@
     "date": "2025-12-06"
   },
   {
-    "player": "Daniel Gafford",
-    "status": "Day-To-Day",
-    "injury_type": "5 Dec: Gafford (ankle) is questionable for Friday's game in Oklahoma City.",
-    "est_return": "5 Dec",
+    "player": "P.J. Washington",
+    "status": "Out",
+    "injury_type": "6 Dec: Washington (ankle) has been ruled out for Friday's game against the Thunder, Grant Afseth of DallasHoopsJournal.com reports.",
+    "est_return": "6 Dec",
     "date": "2025-12-06"
   },
   {
-    "player": "P.J. Washington",
+    "player": "Daniel Gafford",
     "status": "Out",
-    "injury_type": "5 Dec: Washington is questionable for Friday's game against the Thunder with a right ankle sprain.",
-    "est_return": "5 Dec",
+    "injury_type": "6 Dec: Gafford (ankle) has been ruled out for Friday's game against the Thunder, Grant Afseth of DallasHoopsJournal.com reports.",
+    "est_return": "6 Dec",
     "date": "2025-12-06"
   },
   {
@@ -329,23 +308,44 @@
     "date": "2025-12-06"
   },
   {
-    "player": "Jimmy Butler III",
+    "player": "Seth Curry",
     "status": "Day-To-Day",
-    "injury_type": "6 Dec: Butler (knee) will not play Thursday against the 76ers, Anthony Slater of ESPN.com reports.",
+    "injury_type": "6 Dec: Curry (toe) is questionable for Saturday's game against the Cavaliers.",
     "est_return": "6 Dec",
     "date": "2025-12-06"
   },
   {
-    "player": "Draymond Green",
+    "player": "De'Anthony Melton",
     "status": "Day-To-Day",
-    "injury_type": "5 Dec: Green was wearing a walking boot after Thursday's game against the 76ers but intends to continue playing through a right foot injury, Anthony Slater of ESPN.com reports.",
+    "injury_type": "6 Dec: Melton (left knee injury management) is listed as questionable for Saturday's game against Cleveland.",
     "est_return": "6 Dec",
     "date": "2025-12-06"
   },
   {
     "player": "Alex Toohey",
     "status": "Out",
-    "injury_type": "4 Dec: Toohey (knee) is out for Thursday's game against the 76ers.",
+    "injury_type": "6 Dec: Toohey (knee) won't play in Saturday's game against the Cavaliers.",
+    "est_return": "7 Dec",
+    "date": "2025-12-06"
+  },
+  {
+    "player": "Al Horford",
+    "status": "Out",
+    "injury_type": "6 Dec: Horford has been ruled out for Saturday's game against Cleveland due to right sciatic nerve irritation.",
+    "est_return": "7 Dec",
+    "date": "2025-12-06"
+  },
+  {
+    "player": "Draymond Green",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Green (foot) is listed as questionable for Saturday's game against Cleveland.",
+    "est_return": "6 Dec",
+    "date": "2025-12-06"
+  },
+  {
+    "player": "Jimmy Butler III",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Butler (knee) is questionable for Saturday's game against Cleveland.",
     "est_return": "6 Dec",
     "date": "2025-12-06"
   },
@@ -354,6 +354,13 @@
     "status": "Out",
     "injury_type": "3 Dec: Head coach Steve Kerr said after Tuesday's 124-112 loss to the Thunder that Curry (quadriceps) will miss at least three more games, Sam Gordon of the San Francisco Chronicle reports.",
     "est_return": "12 Dec",
+    "date": "2025-12-06"
+  },
+  {
+    "player": "Alperen Sengun",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Sengun is listed as questionable for Friday's game against Phoenix due to illness.",
+    "est_return": "5 Dec",
     "date": "2025-12-06"
   },
   {
@@ -448,23 +455,23 @@
     "date": "2025-12-06"
   },
   {
-    "player": "Marcus Smart",
+    "player": "Luka Doncic",
     "status": "Out",
-    "injury_type": "6 Dec: Smart (back) won't play in Friday's game against the Celtics, Daniel Starkand of LakersNation.com reports.",
+    "injury_type": "6 Dec: Head coach JJ Redick said Friday that Doncic (personal), who has already been ruled out for Friday's game against the Celtics, could return as soon as Sunday's matchup against the 76ers, Dave McMenamin of ESPN.com reports.",
     "est_return": "7 Dec",
     "date": "2025-12-06"
   },
   {
     "player": "LeBron James",
-    "status": "Day-To-Day",
-    "injury_type": "6 Dec: James is listed as doubtful for Friday's game against Boston due to left foot joint arthritis and a right sciatica injury, Daniel Starkand of LakersNation.com reports.",
+    "status": "Out",
+    "injury_type": "6 Dec: James (sciatica/foot) has been ruled out for Friday's game against the Celtics, Dan Woike of The Athletic reports.",
     "est_return": "7 Dec",
     "date": "2025-12-06"
   },
   {
-    "player": "Luka Doncic",
+    "player": "Marcus Smart",
     "status": "Out",
-    "injury_type": "6 Dec: Doncic (personal) won't play in Friday's game against Boston, Daniel Starkand of LakersNation.com reports.",
+    "injury_type": "6 Dec: Smart (back) won't play in Friday's game against the Celtics, Daniel Starkand of LakersNation.com reports.",
     "est_return": "7 Dec",
     "date": "2025-12-06"
   },
@@ -505,9 +512,9 @@
   },
   {
     "player": "Tyler Herro",
-    "status": "Day-To-Day",
-    "injury_type": "6 Dec: Herro (toe) has been downgraded to doubtful for Friday's game against the Magic, Anthony Chiang of the Miami Herald reports.",
-    "est_return": "5 Dec",
+    "status": "Out",
+    "injury_type": "6 Dec: Herro (toe) won't play in Friday's game against the Magic, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "est_return": "6 Dec",
     "date": "2025-12-06"
   },
   {
@@ -532,24 +539,24 @@
     "date": "2025-12-06"
   },
   {
-    "player": "Yves Missi",
-    "status": "Day-To-Day",
-    "injury_type": "6 Dec: Missi (foot, ankle) won't play in Thursday's game against Minnesota.",
-    "est_return": "6 Dec",
+    "player": "Herbert Jones",
+    "status": "Out",
+    "injury_type": "6 Dec: Jones has been ruled out for Saturday's game against the Nets.",
+    "est_return": "8 Dec",
     "date": "2025-12-06"
   },
   {
-    "player": "Herbert Jones",
-    "status": "Out",
-    "injury_type": "4 Dec: Jones (calf) won't play Thursday against the Timberwolves.",
+    "player": "Yves Missi",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Missi (foot/ankle) is listed as questionable for Saturday's game against the Nets.",
     "est_return": "6 Dec",
     "date": "2025-12-06"
   },
   {
     "player": "Jordan Poole",
     "status": "Out",
-    "injury_type": "4 Dec: Poole (quadriceps) is out for Thursday's game against Minnesota.",
-    "est_return": "6 Dec",
+    "injury_type": "6 Dec: Poole (quad) won't play Saturday versus Brooklyn.",
+    "est_return": "14 Dec",
     "date": "2025-12-06"
   },
   {
@@ -585,6 +592,13 @@
     "status": "Out",
     "injury_type": "27 Nov: Shamet (shoulder) will be re-evaluated in four weeks, Shams Charania of ESPN reports.",
     "est_return": "24 Dec",
+    "date": "2025-12-06"
+  },
+  {
+    "player": "Isaiah Joe",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Joe is questionable for Friday's game against Dallas due to knee soreness, Clemente Almanza of USA Today reports.",
+    "est_return": "5 Dec",
     "date": "2025-12-06"
   },
   {
@@ -638,16 +652,9 @@
   },
   {
     "player": "Joel Embiid",
-    "status": "Day-To-Day",
-    "injury_type": "6 Dec: Embiid finished Thursday's 99-98 win over the Warriors with 12 points (5-13 FG, 0-5 3Pt, 2-2 FT), six rebounds, three assists and one block over 25 minutes.",
-    "est_return": "5 Dec",
-    "date": "2025-12-06"
-  },
-  {
-    "player": "Paul George",
-    "status": "Day-To-Day",
-    "injury_type": "6 Dec: George (knee) will not play Thursday against the Warriors, Noah Levick of NBC Sports Philadelphia reports.",
-    "est_return": "5 Dec",
+    "status": "Out",
+    "injury_type": "6 Dec: Embiid (left knee injury management) won't play in Friday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports.",
+    "est_return": "7 Dec",
     "date": "2025-12-06"
   },
   {
@@ -744,8 +751,8 @@
   {
     "player": "Dennis Schroder",
     "status": "Out",
-    "injury_type": "4 Dec: Schroder (hip) will not play Wednesday against the Rockets.",
-    "est_return": "6 Dec",
+    "injury_type": "6 Dec: Schroder (hip) has been ruled out for Saturday's game against the Heat.",
+    "est_return": "8 Dec",
     "date": "2025-12-06"
   },
   {
@@ -798,13 +805,6 @@
     "date": "2025-12-06"
   },
   {
-    "player": "Jusuf Nurkic",
-    "status": "Day-To-Day",
-    "injury_type": "6 Dec: Nurkic (ribs) is questionable for Friday's game against the Knicks.",
-    "est_return": "5 Dec",
-    "date": "2025-12-06"
-  },
-  {
     "player": "Georges Niang",
     "status": "Out",
     "injury_type": "23 Nov: Niang will have his left foot injury re-evaluated by Jazz medical staff in 10-to-14 days, Ben Anderson of KSL News Salt Lake City reports.",
@@ -819,24 +819,38 @@
     "date": "2025-12-06"
   },
   {
-    "player": "Bilal Coulibaly",
+    "player": "Sharife Cooper",
     "status": "Out",
-    "injury_type": "4 Dec: Coulibaly (oblique) is likely to be sidelined for multiple weeks, Josh Robbins of The Athletic reports.",
-    "est_return": "17 Dec",
+    "injury_type": "6 Dec: Cooper (calf) won't play in Saturday's game against Atlanta.",
+    "est_return": "12 Dec",
     "date": "2025-12-06"
   },
   {
-    "player": "Sharife Cooper",
-    "status": "Out",
-    "injury_type": "4 Dec: Cooper (calf) won't play in Thursday's game against Boston.",
+    "player": "Tristan Vukcevic",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Vukcevic is questionable for Saturday's game against the Hawks due to a right knee contusion.",
+    "est_return": "6 Dec",
+    "date": "2025-12-06"
+  },
+  {
+    "player": "Cam Whitmore",
+    "status": "Day-To-Day",
+    "injury_type": "6 Dec: Whitmore is listed as questionable for Saturday's game against Atlanta due to illness.",
     "est_return": "6 Dec",
     "date": "2025-12-06"
   },
   {
     "player": "Alex Sarr",
     "status": "Out",
-    "injury_type": "4 Dec: Sarr (thigh) has been ruled out for Thursday's game against the Celtics.",
-    "est_return": "6 Dec",
+    "injury_type": "6 Dec: Sarr (thigh) will remain on the inactive list for Saturday's game versus the Hawks.",
+    "est_return": "12 Dec",
+    "date": "2025-12-06"
+  },
+  {
+    "player": "Bilal Coulibaly",
+    "status": "Out",
+    "injury_type": "4 Dec: Coulibaly (oblique) is likely to be sidelined for multiple weeks, Josh Robbins of The Athletic reports.",
+    "est_return": "17 Dec",
     "date": "2025-12-06"
   },
   {
