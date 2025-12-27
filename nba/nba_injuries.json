@@ -1,793 +1,730 @@
 [
   {
-    "player": "Mouhamed Gueye",
+    "player": "Trae Young",
     "status": "Day-To-Day",
-    "injury_type": "24 Dec: Gueye (shoulder) has been ruled out for Tuesday's game against the Bulls.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Dyson Daniels",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Daniels won't play Tuesday against the Bulls with right hip inflammation.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Young (quadriceps) is listed as probable for Saturday's game against the Knicks.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "N'Faly Dante",
     "status": "Out",
     "injury_type": "24 Dec: Dante will undergo season-ending surgery to repair a torn ACL in his right knee, Michael Scotto of USA Today reports.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Eli John Ndiaye",
     "status": "Out",
     "injury_type": "22 Dec: Ndiaye has been diagnosed with a torn left labrum and will miss the remainder of the 2025-26 season, Brad Rowland of the Locked On Podcast Network reports.",
     "est_return": "2 Jul",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Kristaps Porzingis",
     "status": "Out",
     "injury_type": "15 Dec: Porzingis will miss at least the next two weeks of action as he undergoes further testing for the illness he's dealing with, Shams Charania of ESPN reports.",
     "est_return": "29 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
-    "player": "Jordan Walsh",
+    "player": "Chris Boucher",
     "status": "Day-To-Day",
-    "injury_type": "23 Dec: Walsh (illness) won't play Monday against the Pacers, Taylor Snow of the Celtics' official site reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "27 Dec: Boucher is out for Friday's game against the Pacers due to personal reasons.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Jayson Tatum",
     "status": "Out",
     "injury_type": "10 Oct: The Celtics have not ruled Tatum (Achilles) out for the 2025-26 season, ESPN's Shams Charania reported on the Pat McAfee Show on Thursday.",
     "est_return": "1 Apr",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Drake Powell",
-    "status": "Out",
-    "injury_type": "23 Dec: Powell (ankle) is out for Tuesday's game against the 76ers.",
-    "est_return": "27 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Cam Thomas",
-    "status": "Out",
-    "injury_type": "23 Dec: Thomas (hamstring) is out for Tuesday's game against the 76ers.",
-    "est_return": "29 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Haywood Highsmith",
     "status": "Out",
     "injury_type": "19 Dec: Highsmith (knee) has progressed to going through on-court work, but he's still not been cleared for full-contact, 5-on-5 drills, Erik Slater of ClutchPoints.com reports.",
     "est_return": "4 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Kon Knueppel",
+    "status": "Day-To-Day",
+    "injury_type": "27 Dec: Head coach Charles Lee said after Friday's 120-105 win over Orlando that X-rays on Knueppel's right ankle came back negative, and he'll undergo further testing when the team returns to Charlotte, Cody Taylor of USA Today reports.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Mason Plumlee",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Plumlee is out for Tuesday's game against the Wizards with a strained right groin.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "status": "Out",
+    "injury_type": "26 Dec: Plumlee (groin) will not play in Friday's matchup against the Magic.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Ryan Kalkbrenner",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Kalkbrenner is out  for Tuesday's game against the Wizards with a sprained left elbow.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "status": "Out",
+    "injury_type": "26 Dec: Kalkbrenner (elbow) will be sidelined for Friday's game against the Magic.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Grant Williams",
     "status": "Out",
     "injury_type": "14 Dec: Williams (knee) has been ruled out for Sunday's game against Cleveland.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
-    "player": "Matas Buzelis",
+    "player": "Josh Giddey",
     "status": "Day-To-Day",
-    "injury_type": "24 Dec: Buzelis sustained an apparent leg injury in the fourth quarter of Tuesday's 126-123 win over the Hawks and did not return.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Giddey (ankle) is listed as questionable for Saturday's game against the Bucks.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Noa Essengue",
     "status": "Out",
     "injury_type": "4 Dec: Essengue will undergo left shoulder surgery and will miss the remainder of the 2025-26 season, K.C. Johnson of Chicago Sports Network reports.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
-    "player": "Evan Mobley",
-    "status": "Out",
-    "injury_type": "25 Dec: Mobley (calf) is listed as questionable for Thursday's game against the Knicks.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
+    "player": "Darius Garland",
+    "status": "Day-To-Day",
+    "injury_type": "28 Dec: Garland (illness) is listed as probable for Saturday's game against the Rockets.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Larry Nance Jr.",
     "status": "Out",
     "injury_type": "22 Dec: Nance (calf) will not play Monday against the Hornets and remains week-to-week.",
     "est_return": "29 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Max Strus",
     "status": "Out",
     "injury_type": "22 Dec: Strus (foot) won't play Monday against the Hornets and remains without a timetable to return.",
     "est_return": "29 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Anthony Davis",
+    "status": "Out",
+    "injury_type": "28 Dec: Davis (adductor) has been ruled out for Saturday's game against the Kings, NBA reporter Marc Stein reports.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Brandon Williams",
     "status": "Day-To-Day",
-    "injury_type": "25 Dec: Williams (ankle) is listed as probable for Thursday's game against the Warriors.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Dwight Powell",
-    "status": "Day-To-Day",
-    "injury_type": "25 Dec: Powell (illness) is listed as probable for Thursday's game against the Warriors.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Klay Thompson",
-    "status": "Day-To-Day",
-    "injury_type": "25 Dec: Thompson (knee) is listed as probable for Thursday's game against Golden State.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "P.J. Washington",
-    "status": "Day-To-Day",
-    "injury_type": "25 Dec: Washington (foot) is listed as questionable for Thursday's game against the Warriors.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Max Christie",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Christie (illness) has been ruled out for Tuesday's game against the Nuggets, Noah Weber of TheSmokingCuban.com reports.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Williams (calf) is listed as questionable for Saturday's game against the Kings.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Dereck Lively II",
     "status": "Out",
     "injury_type": "22 Dec: Lively successfully underwent surgery on his right foot Sunday.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Kyrie Irving",
     "status": "Out",
     "injury_type": "14 Dec: Irving (knee) remains out indefinitely and doesn't have a return timetable, Mavericks reporter Grant Afseth said during an appearance on HoopsHype's podcast 'Around the Beat' on Friday.",
     "est_return": "12 Feb",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Dante Exum",
     "status": "Out",
     "injury_type": "21 Nov: The Mavericks announced Thursday that Exum will undergo season-ending knee surgery.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Cameron Johnson",
     "status": "Out",
-    "injury_type": "25 Dec: Johnson (knee) is expected to miss \"some time\", Shams Charania of ESPN reports.",
-    "est_return": "2 Jan",
-    "date": "2025-12-25"
+    "injury_type": "26 Dec: Johnson will be reevaluated in 4-to-6 weeks due to a right knee contusion, Shams Charania of ESPN reports.",
+    "est_return": "22 Jan",
+    "date": "2025-12-28"
   },
   {
     "player": "Tamar Bates",
     "status": "Out",
     "injury_type": "23 Dec: The Nuggets announced Monday that Bates (foot) will be re-evaluated in 12 weeks.",
     "est_return": "1 Apr",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Christian Braun",
     "status": "Out",
     "injury_type": "14 Dec: Braun (ankle) was spotted doing some training off to the side during Saturday's practice, Brendan Vogt of TheDNVR.com reports.",
     "est_return": "9 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Aaron Gordon",
     "status": "Out",
     "injury_type": "10 Dec: Gordon (hamstring) is not expected to return before Christmas, Vinny Benedetto of The Denver Gazette reports.",
     "est_return": "2 Jan",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Ronald Holland II",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Holland (knee) has been ruled out for Tuesday's game against Sacramento.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Isaac Jones",
     "status": "Day-To-Day",
     "injury_type": "24 Dec: Detroit assigned Jones (knee) to the G League's Motor City Cruise on Saturday.",
     "est_return": "27 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
-    "player": "L.J. Cryer",
-    "status": "Out",
-    "injury_type": "25 Dec: Cryer signed a two-way contract with the Warriors on Monday, Brett Siegel of ClutchPoints.com reports.",
+    "player": "Brandin Podziemski",
+    "status": "Day-To-Day",
+    "injury_type": "28 Dec: Podziemski (abdomen) is listed as probable for Sunday's game against the Raptors.",
     "est_return": "28 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
-    "player": "Al Horford",
+    "player": "De'Anthony Melton",
     "status": "Out",
-    "injury_type": "25 Dec: Horford (back) is probable for Thursday's game against the Mavericks, Danny Emerman of SFStandard.com reports.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Melton (knee) has been ruled out for Sunday's game against the Raptors.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Seth Curry",
     "status": "Out",
-    "injury_type": "25 Dec: Curry (thigh) won't play in Thursday's game against the Mavericks, per Danny Emerman of SFStandard.com.",
-    "est_return": "28 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Curry has been ruled out for Sunday's game against the Raptors due to left sciatic nerve irritation.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
-    "player": "Dorian Finney-Smith",
-    "status": "Out",
-    "injury_type": "25 Dec: Finney-Smith (ankle) is listed as questionable for Thursday's game against the Lakers.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
+    "player": "L.J. Cryer",
+    "status": "Day-To-Day",
+    "injury_type": "27 Dec: Cryer has been ruled out for Thursday's game against the Mavericks due to a low back strain.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Alperen Sengun",
     "status": "Day-To-Day",
-    "injury_type": "25 Dec: Sengun is listed as questionable for Thursday's game against the Lakers due to left calf tightness.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Jae'Sean Tate",
-    "status": "Day-To-Day",
-    "injury_type": "25 Dec: Tate is listed as questionable for Thursday's game against the Lakers due to a left wrist contusion.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
+    "injury_type": "27 Dec: Sengun is listed as questionable for Saturday's game against the Cavaliers due to left calf tightness.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Fred VanVleet",
     "status": "Out",
     "injury_type": "23 Sep: VanVleet suffered a torn ACL and may be out for the entire 2025-26 campaign, Shams Charania of ESPN reports.",
     "est_return": "1 Jun",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Isaiah Jackson",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Jackson (concussion) is out for Tuesday's game against the Bucks.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "status": "Out",
+    "injury_type": "28 Dec: Jackson (concussion) has been ruled out for Saturday's game against the Heat.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
+  },
+  {
+    "player": "T.J. McConnell",
+    "status": "Out",
+    "injury_type": "28 Dec: McConnell (hamstring) has been ruled out for Saturday's game against the Heat.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Ben Sheppard",
     "status": "Out",
-    "injury_type": "20 Dec: Sheppard (calf) has been ruled out for Saturday's game against the Pelicans.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Sheppard (calf) has been ruled out for Saturday's game against the Heat.",
+    "est_return": "2 Jan",
+    "date": "2025-12-28"
   },
   {
     "player": "Aaron Nesmith",
     "status": "Out",
-    "injury_type": "16 Nov: Nesmith (knee) is expected to be out for around four weeks, Dustin Dopirak of The Indianapolis Star reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Nesmith (knee) is listed as questionable for Saturday's game against the Heat.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Obi Toppin",
     "status": "Out",
     "injury_type": "1 Nov: Toppin will undergo surgery to place a screw in his right foot Monday, Dustin Dopirak of The Indianapolis Star reports.",
     "est_return": "2 Feb",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Tyrese Haliburton",
     "status": "Out",
     "injury_type": "8 Jul: Haliburton will miss the entire 2025-26 season while recovering from surgery on his right Achilles tendon, Shams Charania of ESPN reports.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Bogdan Bogdanovic",
+    "status": "Day-To-Day",
+    "injury_type": "27 Dec: Bogdanovic (hip) won't return to Friday's game against Portland, Law Murray of The Athletic reports.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Ivica Zubac",
     "status": "Out",
     "injury_type": "22 Dec: Zubac sustained a Grade 2 left ankle sprain during the Clippers' 103-88 win over the Lakers on Saturday and is expected to be sidelined for at least three weeks, NBA reporter Chris Haynes reports.",
     "est_return": "12 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Derrick Jones Jr.",
     "status": "Out",
     "injury_type": "21 Dec: Jones (knee) has progressed to going through 5-on-5 work, Law Murray of The Athletic reports.",
     "est_return": "30 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Bradley Beal",
     "status": "Out",
     "injury_type": "13 Nov: Beal will undergo season-ending surgery on his left hip, ESPN's Shams Charania reports.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Austin Reaves",
+    "status": "Out",
+    "injury_type": "27 Dec: Reaves has been diagnosed with a grade 2 left gastrocnemius strain and will be re-evaluated in approximately four weeks, Dan Woike of The Athletic reports.",
+    "est_return": "22 Jan",
+    "date": "2025-12-28"
   },
   {
     "player": "Jaxson Hayes",
     "status": "Day-To-Day",
-    "injury_type": "25 Dec: Hayes (ankle) is questionable for Thursday's game against the Rockets, Daniel Starkand of LakersNation.com reports.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Luka Doncic",
-    "status": "Day-To-Day",
-    "injury_type": "25 Dec: Doncic is questionable for Thursday's game against the Rockets, Daniel Starkand of LakersNation.com reports.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Rui Hachimura",
-    "status": "Day-To-Day",
-    "injury_type": "25 Dec: Hachimura (groin) is listed as probable for Thursday's game against the Rockets, Daniel Starkand of LakersNation.com reports.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
+    "injury_type": "26 Dec: Hayes (ankle) has been ruled out for Thursday's game against the Rockets.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Gabe Vincent",
     "status": "Out",
     "injury_type": "19 Dec: Vincent (back) will miss at least one week of action, Dan Woike of The Athletic reports.",
     "est_return": "28 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
-    "player": "Cedric Coward",
+    "player": "Jock Landale",
     "status": "Day-To-Day",
-    "injury_type": "24 Dec: Coward (heel) is out for Tuesday's game against the Jazz.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "27 Dec: Landale is out for Friday's game against the Bucks due to right calf soreness.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Vince Williams Jr.",
     "status": "Out",
-    "injury_type": "24 Dec: Williams (knee) is out for Tuesday's game against the Jazz.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Ja Morant",
-    "status": "Out",
-    "injury_type": "24 Dec: Morant is out for Tuesday's game against the Jazz due to a sprained left ankle.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "26 Dec: Williams (knee) will not play Friday against the Bucks.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Brandon Clarke",
     "status": "Out",
     "injury_type": "23 Dec: Clarke (calf) has sustained a Grade 2 right calf strain and will be reevaluated in about three weeks.",
     "est_return": "15 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "John Konchar",
     "status": "Out",
     "injury_type": "16 Dec: Konchar underwent successful left thumb surgery Thursday and will be re-evaluated in three weeks.",
     "est_return": "6 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Zach Edey",
     "status": "Out",
     "injury_type": "12 Dec: Edey (ankle) will be re-evaluated in about four weeks, Shams Charania of ESPN reports.",
     "est_return": "9 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Ty Jerome",
     "status": "Out",
     "injury_type": "23 Nov: Jerome (calf) will be held out of games for at least 6-to-9 weeks.",
     "est_return": "15 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Scotty Pippen Jr.",
     "status": "Out",
     "injury_type": "19 Oct: Pippen will undergo a procedure for a left big toe injury and will be re-evaluated in 12 weeks, ESPN's Shams Charania reported Saturday.",
     "est_return": "15 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
-    "player": "Pelle Larsson",
-    "status": "Out",
-    "injury_type": "23 Dec: Larsson is out for Tuesday's game against the Raptors due to a sprained left ankle.  Anthony Chiang of the Miami Herald reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "player": "Kel'el Ware",
+    "status": "Day-To-Day",
+    "injury_type": "28 Dec: Ware (quadriceps) is listed as probable for Saturday's game against the Pacers.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Tyler Herro",
     "status": "Out",
-    "injury_type": "23 Dec: Herro (toe) will not play Tuesday against the Raptors, Anthony Chiang of the Miami Herald reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Herro (toe) has been ruled out for Saturday's game against the Pacers.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
-    "player": "Nikola Jovic",
+    "player": "Bam Adebayo",
     "status": "Out",
-    "injury_type": "18 Dec: Jovic (elbow) is considered week-to-week, Anthony Chiang of the Miami Herald reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Adebayo (back) has been ruled out for Saturday's game against the Pacers.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Terry Rozier",
     "status": "Out",
     "injury_type": "24 Oct: The NBA placed Rozier on immediate leave from the Heat on Thursday, ESPN's Shams Charania reports.",
     "est_return": "20 Feb",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Gary Trent Jr.",
     "status": "Day-To-Day",
-    "injury_type": "24 Dec: Trent has been ruled out for the rest of Tuesday's game against the Pacers due to a left calf contusion, Tony East of Forbes.com reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Trent (calf) is questionable for Saturday's game against the Bulls.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Giannis Antetokounmpo",
     "status": "Out",
-    "injury_type": "21 Dec: Antetokounmpo (calf) participated in Saturday's practice, per the Bucks' X page.",
-    "est_return": "31 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Antetokounmpo (calf) is questionable for Saturday's game against the Bulls.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Taurean Prince",
     "status": "Out",
     "injury_type": "14 Nov: Prince underwent surgery Thursday to repair the herniated disc in his neck and will remain out indefinitely.",
     "est_return": "2 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
-    "player": "Jaden McDaniels",
-    "status": "Day-To-Day",
-    "injury_type": "25 Dec: McDaniels (oblique) is listed as questionable for Thursday's game against the Nuggets.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
+    "player": "Terrence Shannon Jr.",
+    "status": "Out",
+    "injury_type": "28 Dec: Shannon underwent an MRI that revealed a left foot abductor hallucis strain and will be re-evaluated in two weeks, Charlie Walton of ZoneCoverage.com reports.",
+    "est_return": "11 Jan",
+    "date": "2025-12-28"
   },
   {
-    "player": "Jordan Poole",
+    "player": "Rob Dillingham",
     "status": "Day-To-Day",
-    "injury_type": "24 Dec: Poole is out  for Tuesday's game against the Cavaliers with left ankle soreness.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Dillingham (illness) is questionable for Saturday's game against the Nets.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Herbert Jones",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Jones (ankle) won't play Tuesday against the Cavaliers.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "status": "Out",
+    "injury_type": "28 Dec: Jones (ankle) has been ruled out for Saturday's game against the Suns.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Dejounte Murray",
     "status": "Out",
     "injury_type": "26 Sep: ESPN's Shams Charania reported Wednesday that Murray (Achilles) could return right after New Years, according to Pelicans Film Room.",
     "est_return": "2 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Josh Hart",
+    "status": "Out",
+    "injury_type": "27 Dec: Hart (ankle) will not play Saturday against the Hawks.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Miles McBride",
     "status": "Out",
-    "injury_type": "25 Dec: McBride (ankle) is out for Thursday's game against the Cavaliers.",
-    "est_return": "3 Jan",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Guerschon Yabusele",
-    "status": "Day-To-Day",
-    "injury_type": "25 Dec: Yabusele (illness) is listed as questionable for Thursday's game against the Cavaliers.",
-    "est_return": "25 Dec",
-    "date": "2025-12-25"
+    "injury_type": "27 Dec: McBride (ankle) is questionable for Saturday's game against the Hawks.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Landry Shamet",
     "status": "Out",
     "injury_type": "25 Dec: Shamet (shoulder) is out for Thursday's game against the Cavaliers.",
     "est_return": "3 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Ajay Mitchell",
+    "status": "Day-To-Day",
+    "injury_type": "26 Dec: Mitchell (concussion) has been ruled out for Thursday's game against the Spurs, Clemente Almanza of USA Today reports.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Ousmane Dieng",
     "status": "Out",
     "injury_type": "25 Dec: Dieng (calf) has been ruled out for Thursday's game against the Spurs, Clemente Almanza of USA Today reports.",
     "est_return": "28 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Jaylin Williams",
     "status": "Out",
     "injury_type": "25 Dec: Williams (heel) has been ruled out for Thursday's game against the Spurs, Clemente Almanza of USA Today reports.",
     "est_return": "28 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Ajay Mitchell",
-    "status": "Out",
-    "injury_type": "25 Dec: Mitchell (concussion) has been ruled out for Thursday's game against the Spurs, Clemente Almanza of USA Today reports.",
-    "est_return": "28 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Nikola Topic",
     "status": "Out",
     "injury_type": "31 Oct: Topic has been diagnosed with testicular cancer, Thunder general manager Sam Presti announced Thursday, Justin Martinez of The Oklahoman reports.",
     "est_return": "20 Feb",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Thomas Sorber",
     "status": "Out",
     "injury_type": "6 Sep: The Thunder announced Friday that Sorber has sustained a torn ACL in his right knee during an offseason workout, NBA reporter Marc Stein reports.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Goga Bitadze",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Bitadze (knee) has been ruled out for Tuesday's game against the Trail Blazers.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Tristan da Silva",
-    "status": "Out",
-    "injury_type": "24 Dec: Da Silva (shoulder) has been ruled out for Tuesday's game against the Trail Blazers.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Jalen Suggs",
-    "status": "Out",
-    "injury_type": "24 Dec: Suggs (hip) won't play Tuesday against the Trail Blazers.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Moritz Wagner",
     "status": "Out",
-    "injury_type": "20 Dec: Orlando recalled Wagner (knee) from the G League's Osceola Magic on Thursday.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Wagner (knee) has been ruled out for Saturday's game against the Nuggets.",
+    "est_return": "2 Jan",
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Goga Bitadze",
+    "status": "Day-To-Day",
+    "injury_type": "28 Dec: Bitadze (knee) is listed as questionable for Saturday's game against the Nuggets.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Franz Wagner",
     "status": "Out",
-    "injury_type": "9 Dec: Wagner was diagnosed with a high left ankle sprain Monday and could miss two-to-four weeks, ESPN's Shams Charania reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Wagner (ankle) has been ruled out for Saturday's game against Denver.",
+    "est_return": "2 Jan",
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Jalen Suggs",
+    "status": "Out",
+    "injury_type": "28 Dec: Suggs (hip) is listed as doubtful for Saturday's game against the Nuggets.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Colin Castleton",
     "status": "Out",
     "injury_type": "25 Nov: The Magic plan to sign Castleton to a two-way deal, Michael Scotto of USA Today reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Quentin Grimes",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Grimes (illness) has been ruled out for Tuesday's game against the Nets, Adam Aaronson of PhillyVoice.com reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "VJ Edgecombe",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Edgecombe (illness) is out for Tuesday's game against the Nets, Adam Aaronson of PhillyVoice.com reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Dominick Barlow",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Barlow is out for Tuesday's game against the Nets due to an illness, Adam Aaronson of PhillyVoice.com reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Kelly Oubre Jr.",
     "status": "Out",
-    "injury_type": "23 Dec: Oubre (knee) has been ruled out for Tuesday's game against the Nets.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "26 Dec: Oubre (knee) is out for Friday's game against the Bulls, Adam Aaronson of PhillyVoice.com reports.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Trendon Watford",
     "status": "Out",
     "injury_type": "23 Dec: Watford (thigh) is out for Tuesday's game against the Nets.",
     "est_return": "28 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Mark Williams",
+    "status": "Day-To-Day",
+    "injury_type": "28 Dec: Williams (knee) is listed as questionable for Saturday's game against New Orleans.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Ryan Dunn",
+    "status": "Day-To-Day",
+    "injury_type": "28 Dec: Dunn (knee) is listed as questionable for Saturday's game against the Pelicans.",
+    "est_return": "27 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Grayson Allen",
     "status": "Out",
-    "injury_type": "24 Dec: Allen (knee) won't play Tuesday against the Lakers.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "28 Dec: Allen (knee) has been ruled out for Saturday's game against the Pelicans.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Jalen Green",
     "status": "Out",
     "injury_type": "23 Dec: Green (hamstring) continues to make good progress in his recovery and will be re-evaluated in 2-to-3 weeks, Kellan Olson of ArizonaSports.com reports.",
     "est_return": "7 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Koby Brea",
     "status": "Out",
     "injury_type": "11 Dec: Brea recorded 29 points (10-18 FG, 5-11 3Pt, 4-5 FT), nine rebounds, three assists and one turnover across 39 minutes of Sunday's 123-105 G League loss to the Stockton Kings.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Robert Williams III",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Williams (rest) won't play Tuesday against the Magic.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Jerami Grant",
     "status": "Out",
-    "injury_type": "24 Dec: Grant (Achilles) will not play Tuesday against the Magic.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "26 Dec: Grant (Achilles) will be sidelined for Friday's matchup against the Clippers.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Scoot Henderson",
     "status": "Out",
     "injury_type": "20 Dec: Henderson (hamstring) has been ruled out for Saturday's matchup against the Kings.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Jrue Holiday",
     "status": "Out",
     "injury_type": "20 Dec: Holiday (calf) has been ruled out for Saturday's game against the Kings.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Matisse Thybulle",
     "status": "Out",
     "injury_type": "14 Dec: Thybulle (thumb) has been ruled out for Sunday's matchup against Golden State.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Blake Wesley",
     "status": "Out",
     "injury_type": "6 Nov: Wesley underwent a successful procedure to repair a fracture of the fifth metatarsal base in his right foot Wednesday, and he's expected to be sidelined for 8-12 weeks, Brett Siegel of ClutchPoints.com reports.",
     "est_return": "30 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Damian Lillard",
     "status": "Out",
     "injury_type": "26 Sep: Lillard won't be back on the court for the 2025-26 season, as he made clear during an interview with YouTube influencer Speed on Wednesday.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Devin Carter",
     "status": "Day-To-Day",
-    "injury_type": "24 Dec: Carter (ankle) has been ruled out for Tuesday's game against the Pistons, James Ham of ESPN 1320 Sacramento reports.",
-    "est_return": "27 Dec",
-    "date": "2025-12-25"
+    "injury_type": "27 Dec: Carter (ankle) is listed as questionable for Saturday's game against Dallas.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Keegan Murray",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Murray won't return to Tuesday's game against the Pistons due to a right calf injury, Sean Cunningham of Fox 40 Sacramento reports.",
-    "est_return": "27 Dec",
-    "date": "2025-12-25"
+    "status": "Out",
+    "injury_type": "27 Dec: Murray was diagnosed with a mild strain in his right calf and will be reevaluated by medical staff in one week, Sean Cunningham of Fox 40 Sacramento reports.",
+    "est_return": "2 Jan",
+    "date": "2025-12-28"
   },
   {
     "player": "Zach LaVine",
     "status": "Out",
     "injury_type": "24 Dec: LaVine (ankle) will be re-evaluated in one week, James Ham of ESPN 1320 Sacramento reports.",
     "est_return": "30 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Domantas Sabonis",
     "status": "Out",
     "injury_type": "20 Dec: Sabonis (knee) will be sidelined for at least 4-to-5 more weeks, NBA reporter Marc Stein reports.",
     "est_return": "18 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Drew Eubanks",
     "status": "Out",
     "injury_type": "14 Dec: Eubanks sustained a left thumb avulsion fracture in Thursday's loss to Denver and will be re-evaluated in three weeks, Sean Cunningham of Fox 40 Sacramento reports.",
     "est_return": "4 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
+  },
+  {
+    "player": "De'Aaron Fox",
+    "status": "Out",
+    "injury_type": "28 Dec: Fox (adductor) has been ruled out for Saturday's game against the Jazz, NBA reporter Matthew Tynan reports.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
+  },
+  {
+    "player": "Collin Murray-Boyles",
+    "status": "Day-To-Day",
+    "injury_type": "28 Dec: Murray-Boyles (illness) is listed as questionable for Sunday's game against Golden State.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Jakob Poeltl",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Poeltl (back) is out for Tuesday's game against the Heat.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "status": "Out",
+    "injury_type": "28 Dec: Poeltl (back) has been ruled out for Sunday's game against the Warriors.",
+    "est_return": "29 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "RJ Barrett",
     "status": "Out",
-    "injury_type": "21 Dec: Barrett (knee) has been cleared to participate in on-court activities, Michael Grange of Sportsnet.ca reports.",
+    "injury_type": "28 Dec: Barrett (knee) is listed as questionable for Sunday's game against the Warriors.",
     "est_return": "28 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
-    "player": "Jusuf Nurkic",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Nurkic is out for Tuesday's game against the Grizzlies for rest purposes.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "player": "Kevin Love",
+    "status": "Out",
+    "injury_type": "28 Dec: Love (rest) has been ruled out for Saturday's game against the Spurs.",
+    "est_return": "30 Dec",
+    "date": "2025-12-28"
   },
   {
-    "player": "Lauri Markkanen",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Markkanen (groin) won't play Tuesday against the Grizzlies.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "player": "Ace Bailey",
+    "status": "Out",
+    "injury_type": "28 Dec: Bailey (hip) has been ruled out for Saturday's game against the Spurs.",
+    "est_return": "30 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Georges Niang",
     "status": "Out",
     "injury_type": "16 Dec: The Jazz announced Monday that Niang (foot) will be re-evaluated in two weeks.",
     "est_return": "30 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Walker Kessler",
     "status": "Out",
     "injury_type": "6 Nov: Kessler will undergo left shoulder surgery and will miss the remainder of the 2025-26 season, Tony Jones of The Athletic reports.",
     "est_return": "1 Oct",
-    "date": "2025-12-25"
-  },
-  {
-    "player": "Bub Carrington",
-    "status": "Day-To-Day",
-    "injury_type": "24 Dec: Carrington logged 15 minutes in Tuesday's 126-109 loss to the Hornets, finishing with six points (2-3 FG, 2-3 3Pt), five rebounds and two assists before exiting due to right foot soreness, according to Varun Shankar of The Washington Post.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   },
   {
     "player": "Corey Kispert",
     "status": "Day-To-Day",
-    "injury_type": "24 Dec: Kispert won't return to Tuesday's game against the Hornets due to left hamstring tightness, Varun Shankar of The Washington Post reports.",
-    "est_return": "26 Dec",
-    "date": "2025-12-25"
+    "injury_type": "27 Dec: Kispert (hamstring) will not play Friday against the Raptors, Varun Shankar of The Washington Post reports.",
+    "est_return": "28 Dec",
+    "date": "2025-12-28"
   },
   {
     "player": "Cam Whitmore",
     "status": "Out",
     "injury_type": "24 Dec: Whitmore is out indefinitely due to deep vein thrombosis in his right shoulder, Shams Charania of ESPN reports.",
     "est_return": "27 Jan",
-    "date": "2025-12-25"
+    "date": "2025-12-28"
   }
 ]
