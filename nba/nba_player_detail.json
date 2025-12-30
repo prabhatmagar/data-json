@@ -1,0 +1,4054 @@
+{
+  "teams": [
+    {
+      "TEAM": "Atlanta Hawks",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Trae Young",
+          "JERSEY": 11,
+          "AGE": 27,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 164
+        },
+        "SECOND": {
+          "NAME": "Luke Kennard",
+          "JERSEY": 3,
+          "AGE": 29,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 206
+        },
+        "THIRD": {
+          "NAME": "Keaton Wallace",
+          "JERSEY": 2.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "Atlanta Hawks",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Dyson Daniels",
+          "JERSEY": 5,
+          "AGE": 22,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 199
+        },
+        "SECOND": {
+          "NAME": "Nickeil Alexander-Walker",
+          "JERSEY": 7,
+          "AGE": 27,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Nikola \u0110uri\u0161i\u0107",
+          "JERSEY": 22.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 214.0
+        }
+      }
+    },
+    {
+      "TEAM": "Atlanta Hawks",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Zaccharie Risacher",
+          "JERSEY": 10,
+          "AGE": 20,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "V\u00edt Krej\u010d\u00ed",
+          "JERSEY": 27,
+          "AGE": 25,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 195
+        },
+        "THIRD": {
+          "NAME": "Caleb Houstan",
+          "JERSEY": 33.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 205.0
+        }
+      }
+    },
+    {
+      "TEAM": "Atlanta Hawks",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jalen Johnson",
+          "JERSEY": 1,
+          "AGE": 24,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 219
+        },
+        "SECOND": {
+          "NAME": "Mouhamed Gueye",
+          "JERSEY": 18,
+          "AGE": 23,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 210
+        },
+        "THIRD": {
+          "NAME": "Asa Newell",
+          "JERSEY": 14.0,
+          "AGE": 20.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 220.0
+        }
+      }
+    },
+    {
+      "TEAM": "Atlanta Hawks",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Onyeka Okongwu",
+          "JERSEY": 17,
+          "AGE": 25,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 240
+        },
+        "SECOND": {
+          "NAME": "N'Faly Dante",
+          "JERSEY": 12,
+          "AGE": 24,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 230
+        },
+        "THIRD": {
+          "NAME": "Asa Newell",
+          "JERSEY": 14.0,
+          "AGE": 20.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 220.0
+        }
+      }
+    },
+    {
+      "TEAM": "Boston Celtics",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Derrick White",
+          "JERSEY": 9,
+          "AGE": 31,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 190
+        },
+        "SECOND": {
+          "NAME": "Anfernee Simons",
+          "JERSEY": 4,
+          "AGE": 26,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Max Shulga",
+          "JERSEY": 44.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "Boston Celtics",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Payton Pritchard",
+          "JERSEY": 11,
+          "AGE": 27,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 195
+        },
+        "SECOND": {
+          "NAME": "Hugo Gonz\u00e1lez",
+          "JERSEY": 28,
+          "AGE": 19,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Baylor Scheierman",
+          "JERSEY": 55.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 205.0
+        }
+      }
+    },
+    {
+      "TEAM": "Boston Celtics",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jaylen Brown",
+          "JERSEY": 7,
+          "AGE": 29,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 223
+        },
+        "SECOND": {
+          "NAME": "Sam Hauser",
+          "JERSEY": 30,
+          "AGE": 28,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 217
+        },
+        "THIRD": {
+          "NAME": "Ron Harper Jr.",
+          "JERSEY": 13.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 233.0
+        }
+      }
+    },
+    {
+      "TEAM": "Boston Celtics",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jordan Walsh",
+          "JERSEY": 27,
+          "AGE": 21,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Josh Minott",
+          "JERSEY": 8,
+          "AGE": 23,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Chris Boucher",
+          "JERSEY": 99.0,
+          "AGE": 32.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 200.0
+        }
+      }
+    },
+    {
+      "TEAM": "Boston Celtics",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Neemias Queta",
+          "JERSEY": 88,
+          "AGE": 26,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 248
+        },
+        "SECOND": {
+          "NAME": "Luka Garza",
+          "JERSEY": 52,
+          "AGE": 27,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 243
+        },
+        "THIRD": {
+          "NAME": "Xavier Tillman",
+          "JERSEY": 26.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 245.0
+        }
+      }
+    },
+    {
+      "TEAM": "Brooklyn Nets",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Egor Demin",
+          "JERSEY": 8,
+          "AGE": 19,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Nolan Traor\u00e9",
+          "JERSEY": 88,
+          "AGE": 19,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 185
+        },
+        "THIRD": {
+          "NAME": "Ben Saraf",
+          "JERSEY": 77.0,
+          "AGE": 19.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 200.0
+        }
+      }
+    },
+    {
+      "TEAM": "Brooklyn Nets",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Cam Thomas",
+          "JERSEY": 24,
+          "AGE": 24,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 210
+        },
+        "SECOND": {
+          "NAME": "Terance Mann",
+          "JERSEY": 14,
+          "AGE": 29,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Tyrese Martin",
+          "JERSEY": 13.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 215.0
+        }
+      }
+    },
+    {
+      "TEAM": "Brooklyn Nets",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Michael Porter Jr.",
+          "JERSEY": 17,
+          "AGE": 27,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 218
+        },
+        "SECOND": {
+          "NAME": "Ziaire Williams",
+          "JERSEY": 1,
+          "AGE": 24,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 185
+        },
+        "THIRD": {
+          "NAME": "Jalen Wilson",
+          "JERSEY": 22.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 220.0
+        }
+      }
+    },
+    {
+      "TEAM": "Brooklyn Nets",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Noah Clowney",
+          "JERSEY": 21,
+          "AGE": 21,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 210
+        },
+        "SECOND": {
+          "NAME": "Danny Wolf",
+          "JERSEY": 2,
+          "AGE": 21,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "E.J. Liddell",
+          "JERSEY": 9.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 240.0
+        }
+      }
+    },
+    {
+      "TEAM": "Brooklyn Nets",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Nicolas Claxton",
+          "JERSEY": 33,
+          "AGE": 26,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Day'Ron Sharpe",
+          "JERSEY": 20,
+          "AGE": 24,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 265
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "Charlotte Hornets",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "LaMelo Ball",
+          "JERSEY": 1,
+          "AGE": 24,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 180
+        },
+        "SECOND": {
+          "NAME": "Tre Mann",
+          "JERSEY": 23,
+          "AGE": 24,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 178
+        },
+        "THIRD": {
+          "NAME": "Collin Sexton",
+          "JERSEY": 8.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 190.0
+        }
+      }
+    },
+    {
+      "TEAM": "Charlotte Hornets",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Brandon Miller",
+          "JERSEY": 24,
+          "AGE": 23,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Collin Sexton",
+          "JERSEY": 8,
+          "AGE": 26,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 190
+        },
+        "THIRD": {
+          "NAME": "KJ Simpson",
+          "JERSEY": 25.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 189.0
+        }
+      }
+    },
+    {
+      "TEAM": "Charlotte Hornets",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Kon Knueppel",
+          "JERSEY": 7,
+          "AGE": 20,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Sion James",
+          "JERSEY": 4,
+          "AGE": 23,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Josh Green",
+          "JERSEY": 10.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 200.0
+        }
+      }
+    },
+    {
+      "TEAM": "Charlotte Hornets",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Miles Bridges",
+          "JERSEY": 0,
+          "AGE": 27,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 225
+        },
+        "SECOND": {
+          "NAME": "Tidjane Sala\u00fcn",
+          "JERSEY": 31,
+          "AGE": 20,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 207
+        },
+        "THIRD": {
+          "NAME": "Liam McNeeley",
+          "JERSEY": 33.0,
+          "AGE": 20.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "Charlotte Hornets",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Ryan Kalkbrenner",
+          "JERSEY": 11,
+          "AGE": 23,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 254
+        },
+        "SECOND": {
+          "NAME": "Moussa Diabat\u00e9",
+          "JERSEY": 14,
+          "AGE": 23,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 210
+        },
+        "THIRD": {
+          "NAME": "Mason Plumlee",
+          "JERSEY": 22.0,
+          "AGE": 35.0,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 254.0
+        }
+      }
+    },
+    {
+      "TEAM": "Chicago Bulls",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Josh Giddey",
+          "JERSEY": 3,
+          "AGE": 23,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 216
+        },
+        "SECOND": {
+          "NAME": "Tre Jones",
+          "JERSEY": 30,
+          "AGE": 25,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 185
+        },
+        "THIRD": {
+          "NAME": "Jevon Carter",
+          "JERSEY": 5.0,
+          "AGE": 30.0,
+          "HEIGHT": "6.00000",
+          "WEIGHT": 200.0
+        }
+      }
+    },
+    {
+      "TEAM": "Chicago Bulls",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Coby White",
+          "JERSEY": 0,
+          "AGE": 25,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 195
+        },
+        "SECOND": {
+          "NAME": "Ayo Dosunmu",
+          "JERSEY": 11,
+          "AGE": 25,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Dalen Terry",
+          "JERSEY": 7.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 195.0
+        }
+      }
+    },
+    {
+      "TEAM": "Chicago Bulls",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Isaac Okoro",
+          "JERSEY": 35,
+          "AGE": 24,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 225
+        },
+        "SECOND": {
+          "NAME": "Kevin Huerter",
+          "JERSEY": 13,
+          "AGE": 27,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 198
+        },
+        "THIRD": {
+          "NAME": "Julian Phillips",
+          "JERSEY": 15.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 198.0
+        }
+      }
+    },
+    {
+      "TEAM": "Chicago Bulls",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Matas Buzelis",
+          "JERSEY": 14,
+          "AGE": 21,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 209
+        },
+        "SECOND": {
+          "NAME": "Jalen Smith",
+          "JERSEY": 25,
+          "AGE": 25,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Emanuel Miller",
+          "JERSEY": 2.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 215.0
+        }
+      }
+    },
+    {
+      "TEAM": "Chicago Bulls",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Nikola Vu\u010devi\u0107",
+          "JERSEY": 9,
+          "AGE": 35,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 260
+        },
+        "SECOND": {
+          "NAME": "Zach Collins",
+          "JERSEY": 12,
+          "AGE": 28,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "Patrick Williams",
+          "JERSEY": 44.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 215.0
+        }
+      }
+    },
+    {
+      "TEAM": "Cleveland Cavaliers",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Darius Garland",
+          "JERSEY": 10,
+          "AGE": 25,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 192
+        },
+        "SECOND": {
+          "NAME": "Lonzo Ball",
+          "JERSEY": 2,
+          "AGE": 28,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 190
+        },
+        "THIRD": {
+          "NAME": "Craig Porter Jr.",
+          "JERSEY": 9.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 180.0
+        }
+      }
+    },
+    {
+      "TEAM": "Cleveland Cavaliers",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Donovan Mitchell",
+          "JERSEY": 45,
+          "AGE": 29,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Sam Merrill",
+          "JERSEY": 5,
+          "AGE": 29,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Tyrese Proctor",
+          "JERSEY": 24.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "Cleveland Cavaliers",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jaylon Tyson",
+          "JERSEY": 20,
+          "AGE": 23,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "De'Andre Hunter",
+          "JERSEY": 12,
+          "AGE": 28,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 221
+        },
+        "THIRD": {
+          "NAME": "Luke Travers",
+          "JERSEY": 33.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 207.0
+        }
+      }
+    },
+    {
+      "TEAM": "Cleveland Cavaliers",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Evan Mobley",
+          "JERSEY": 4,
+          "AGE": 24,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Dean Wade",
+          "JERSEY": 32,
+          "AGE": 29,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 228
+        },
+        "THIRD": {
+          "NAME": "Nae'Qwan Tomlin",
+          "JERSEY": 30.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "Cleveland Cavaliers",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jarrett Allen",
+          "JERSEY": 31,
+          "AGE": 27,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 243
+        },
+        "SECOND": {
+          "NAME": "Thomas Bryant",
+          "JERSEY": 3,
+          "AGE": 28,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 248
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "Dallas Mavericks",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Ryan Nembhard",
+          "JERSEY": 9,
+          "AGE": 22,
+          "HEIGHT": "5.0'11",
+          "WEIGHT": 180
+        },
+        "SECOND": {
+          "NAME": "Brandon Williams",
+          "JERSEY": 10,
+          "AGE": 26,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 190
+        },
+        "THIRD": {
+          "NAME": "D'Angelo Russell",
+          "JERSEY": 5.0,
+          "AGE": 29.0,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 193.0
+        }
+      }
+    },
+    {
+      "TEAM": "Dallas Mavericks",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Naji Marshall",
+          "JERSEY": 13,
+          "AGE": 27,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 220
+        },
+        "SECOND": {
+          "NAME": "Max Christie",
+          "JERSEY": 0,
+          "AGE": 22,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 190
+        },
+        "THIRD": {
+          "NAME": "Jaden Hardy",
+          "JERSEY": 1.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 198.0
+        }
+      }
+    },
+    {
+      "TEAM": "Dallas Mavericks",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Cooper Flagg",
+          "JERSEY": 32,
+          "AGE": 19,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Klay Thompson",
+          "JERSEY": 31,
+          "AGE": 35,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Miles Kelly",
+          "JERSEY": 14.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 190.0
+        }
+      }
+    },
+    {
+      "TEAM": "Dallas Mavericks",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "P.J. Washington",
+          "JERSEY": 25,
+          "AGE": 27,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 230
+        },
+        "SECOND": {
+          "NAME": "Caleb Martin",
+          "JERSEY": 16,
+          "AGE": 30,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Moussa Cisse",
+          "JERSEY": 30.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 220.0
+        }
+      }
+    },
+    {
+      "TEAM": "Dallas Mavericks",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Anthony Davis",
+          "JERSEY": 3,
+          "AGE": 32,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 253
+        },
+        "SECOND": {
+          "NAME": "Daniel Gafford",
+          "JERSEY": 21,
+          "AGE": 27,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 265
+        },
+        "THIRD": {
+          "NAME": "Dwight Powell",
+          "JERSEY": 7.0,
+          "AGE": 34.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 240.0
+        }
+      }
+    },
+    {
+      "TEAM": "Denver Nuggets",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jamal Murray",
+          "JERSEY": 27,
+          "AGE": 28,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Bruce Brown",
+          "JERSEY": 11,
+          "AGE": 29,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 202
+        },
+        "THIRD": {
+          "NAME": "Tamar Bates",
+          "JERSEY": 7.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 195.0
+        }
+      }
+    },
+    {
+      "TEAM": "Denver Nuggets",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Cameron Johnson",
+          "JERSEY": 23,
+          "AGE": 29,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 210
+        },
+        "SECOND": {
+          "NAME": "Tim Hardaway Jr.",
+          "JERSEY": 10,
+          "AGE": 33,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Jalen Pickett",
+          "JERSEY": 24.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 202.0
+        }
+      }
+    },
+    {
+      "TEAM": "Denver Nuggets",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Spencer Jones",
+          "JERSEY": 21,
+          "AGE": 24,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 225
+        },
+        "SECOND": {
+          "NAME": "Julian Strawther",
+          "JERSEY": 3,
+          "AGE": 23,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Hunter Tyson",
+          "JERSEY": 5.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 215.0
+        }
+      }
+    },
+    {
+      "TEAM": "Denver Nuggets",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Peyton Watson",
+          "JERSEY": 8,
+          "AGE": 23,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Zeke Nnaji",
+          "JERSEY": 22,
+          "AGE": 24,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 240
+        },
+        "THIRD": {
+          "NAME": "DaRon Holmes II",
+          "JERSEY": 14.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 225.0
+        }
+      }
+    },
+    {
+      "TEAM": "Denver Nuggets",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Nikola Joki\u0107",
+          "JERSEY": 15,
+          "AGE": 30,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 284
+        },
+        "SECOND": {
+          "NAME": "Jonas Valan\u010di\u016bnas",
+          "JERSEY": 17,
+          "AGE": 33,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 265
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "Detroit Pistons",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Cade Cunningham",
+          "JERSEY": 2,
+          "AGE": 24,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 220
+        },
+        "SECOND": {
+          "NAME": "Jaden Ivey",
+          "JERSEY": 23,
+          "AGE": 23,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 195
+        },
+        "THIRD": {
+          "NAME": "Daniss Jenkins",
+          "JERSEY": 24.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 165.0
+        }
+      }
+    },
+    {
+      "TEAM": "Detroit Pistons",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Duncan Robinson",
+          "JERSEY": 55,
+          "AGE": 31,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Javonte Green",
+          "JERSEY": 31,
+          "AGE": 32,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Marcus Sasser",
+          "JERSEY": 25.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 195.0
+        }
+      }
+    },
+    {
+      "TEAM": "Detroit Pistons",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Ausar Thompson",
+          "JERSEY": 9,
+          "AGE": 22,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Caris LeVert",
+          "JERSEY": 8,
+          "AGE": 31,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Wendell Moore Jr.",
+          "JERSEY": 14.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 215.0
+        }
+      }
+    },
+    {
+      "TEAM": "Detroit Pistons",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Tobias Harris",
+          "JERSEY": 12,
+          "AGE": 33,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 226
+        },
+        "SECOND": {
+          "NAME": "Ron Holland II",
+          "JERSEY": 5,
+          "AGE": 20,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 206
+        },
+        "THIRD": {
+          "NAME": "Tolu Smith",
+          "JERSEY": 35.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 245.0
+        }
+      }
+    },
+    {
+      "TEAM": "Detroit Pistons",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jalen Duren",
+          "JERSEY": 0,
+          "AGE": 22,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 250
+        },
+        "SECOND": {
+          "NAME": "Isaiah Stewart",
+          "JERSEY": 28,
+          "AGE": 24,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "Paul Reed",
+          "JERSEY": 7.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "Golden State Warriors",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Stephen Curry",
+          "JERSEY": 30,
+          "AGE": 37,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 185
+        },
+        "SECOND": {
+          "NAME": "Brandin Podziemski",
+          "JERSEY": 2,
+          "AGE": 22,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Gary Payton II",
+          "JERSEY": 0.0,
+          "AGE": 33.0,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 195.0
+        }
+      }
+    },
+    {
+      "TEAM": "Golden State Warriors",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Moses Moody",
+          "JERSEY": 4,
+          "AGE": 23,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 211
+        },
+        "SECOND": {
+          "NAME": "Buddy Hield",
+          "JERSEY": 7,
+          "AGE": 33,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Will Richard",
+          "JERSEY": 3.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 206.0
+        }
+      }
+    },
+    {
+      "TEAM": "Golden State Warriors",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jimmy Butler III",
+          "JERSEY": 10,
+          "AGE": 36,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 230
+        },
+        "SECOND": {
+          "NAME": "De'Anthony Melton",
+          "JERSEY": 8,
+          "AGE": 27,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Pat Spencer",
+          "JERSEY": 61.0,
+          "AGE": 29.0,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 205.0
+        }
+      }
+    },
+    {
+      "TEAM": "Golden State Warriors",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Draymond Green",
+          "JERSEY": 23,
+          "AGE": 35,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 230
+        },
+        "SECOND": {
+          "NAME": "Jonathan Kuminga",
+          "JERSEY": 1,
+          "AGE": 23,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 225
+        },
+        "THIRD": {
+          "NAME": "Gui Santos",
+          "JERSEY": 15.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "Golden State Warriors",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Quinten Post",
+          "JERSEY": 21,
+          "AGE": 25,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 238
+        },
+        "SECOND": {
+          "NAME": "Trayce Jackson-Davis",
+          "JERSEY": 32,
+          "AGE": 25,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 245
+        },
+        "THIRD": {
+          "NAME": "Al Horford",
+          "JERSEY": 20.0,
+          "AGE": 39.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 240.0
+        }
+      }
+    },
+    {
+      "TEAM": "Houston Rockets",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Amen Thompson",
+          "JERSEY": 1,
+          "AGE": 22,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Aaron Holiday",
+          "JERSEY": 0,
+          "AGE": 29,
+          "HEIGHT": "6.00000",
+          "WEIGHT": 185
+        },
+        "THIRD": {
+          "NAME": "JD Davison",
+          "JERSEY": 4.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 195.0
+        }
+      }
+    },
+    {
+      "TEAM": "Houston Rockets",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Josh Okogie",
+          "JERSEY": 20,
+          "AGE": 27,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 213
+        },
+        "SECOND": {
+          "NAME": "Reed Sheppard",
+          "JERSEY": 15,
+          "AGE": 21,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 185
+        },
+        "THIRD": {
+          "NAME": "Isaiah Crawford",
+          "JERSEY": 27.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 220.0
+        }
+      }
+    },
+    {
+      "TEAM": "Houston Rockets",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Kevin Durant",
+          "JERSEY": 7,
+          "AGE": 37,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 240
+        },
+        "SECOND": {
+          "NAME": "Tari Eason",
+          "JERSEY": 17,
+          "AGE": 24,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Jeff Green",
+          "JERSEY": 32.0,
+          "AGE": 39.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 235.0
+        }
+      }
+    },
+    {
+      "TEAM": "Houston Rockets",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jabari Smith Jr.",
+          "JERSEY": 10,
+          "AGE": 22,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 220
+        },
+        "SECOND": {
+          "NAME": "Dorian Finney-Smith",
+          "JERSEY": 2,
+          "AGE": 32,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Jae'Sean Tate",
+          "JERSEY": 8.0,
+          "AGE": 30.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 230.0
+        }
+      }
+    },
+    {
+      "TEAM": "Houston Rockets",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Alperen Seng\u00fcn",
+          "JERSEY": 28,
+          "AGE": 23,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 243
+        },
+        "SECOND": {
+          "NAME": "Steven Adams",
+          "JERSEY": 12,
+          "AGE": 32,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 265
+        },
+        "THIRD": {
+          "NAME": "Clint Capela",
+          "JERSEY": 30.0,
+          "AGE": 31.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 256.0
+        }
+      }
+    },
+    {
+      "TEAM": "Indiana Pacers",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Andrew Nembhard",
+          "JERSEY": 2,
+          "AGE": 25,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 191
+        },
+        "SECOND": {
+          "NAME": "T.J. McConnell",
+          "JERSEY": 9,
+          "AGE": 33,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 190
+        },
+        "THIRD": {
+          "NAME": "Kam Jones",
+          "JERSEY": 7.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 200.0
+        }
+      }
+    },
+    {
+      "TEAM": "Indiana Pacers",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Bennedict Mathurin",
+          "JERSEY": 0,
+          "AGE": 23,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 210
+        },
+        "SECOND": {
+          "NAME": "Ethan Thompson",
+          "JERSEY": 55,
+          "AGE": 26,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 195
+        },
+        "THIRD": {
+          "NAME": "Quenton Jackson",
+          "JERSEY": 29.0,
+          "AGE": 27.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 173.0
+        }
+      }
+    },
+    {
+      "TEAM": "Indiana Pacers",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Aaron Nesmith",
+          "JERSEY": 23,
+          "AGE": 26,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Johnny Furphy",
+          "JERSEY": 12,
+          "AGE": 21,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Ben Sheppard",
+          "JERSEY": 26.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 190.0
+        }
+      }
+    },
+    {
+      "TEAM": "Indiana Pacers",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Pascal Siakam",
+          "JERSEY": 43,
+          "AGE": 31,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 245
+        },
+        "SECOND": {
+          "NAME": "Jarace Walker",
+          "JERSEY": 5,
+          "AGE": 22,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 235
+        },
+        "THIRD": {
+          "NAME": "Micah Potter",
+          "JERSEY": 33.0,
+          "AGE": 27.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 248.0
+        }
+      }
+    },
+    {
+      "TEAM": "Indiana Pacers",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jay Huff",
+          "JERSEY": 32,
+          "AGE": 28,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 240
+        },
+        "SECOND": {
+          "NAME": "Isaiah Jackson",
+          "JERSEY": 22,
+          "AGE": 23,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Tony Bradley",
+          "JERSEY": 13.0,
+          "AGE": 27.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 248.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Clippers",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "James Harden",
+          "JERSEY": 1,
+          "AGE": 36,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 220
+        },
+        "SECOND": {
+          "NAME": "Cam Christie",
+          "JERSEY": 12,
+          "AGE": 20,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 190
+        },
+        "THIRD": {
+          "NAME": "RayJ Dennis",
+          "JERSEY": 7.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 180.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Clippers",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Kris Dunn",
+          "JERSEY": 8,
+          "AGE": 31,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Bogdan Bogdanovi\u0107",
+          "JERSEY": 10,
+          "AGE": 33,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 225
+        },
+        "THIRD": {
+          "NAME": "Jordan Miller",
+          "JERSEY": 22.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 194.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Clippers",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Kawhi Leonard",
+          "JERSEY": 2,
+          "AGE": 34,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 225
+        },
+        "SECOND": {
+          "NAME": "Derrick Jones Jr.",
+          "JERSEY": 5,
+          "AGE": 28,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 210
+        },
+        "THIRD": {
+          "NAME": "Kobe Sanders",
+          "JERSEY": 4.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 207.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Clippers",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "John Collins",
+          "JERSEY": 20,
+          "AGE": 28,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 226
+        },
+        "SECOND": {
+          "NAME": "Nicolas Batum",
+          "JERSEY": 33,
+          "AGE": 37,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 230
+        },
+        "THIRD": {
+          "NAME": "Kobe Brown",
+          "JERSEY": 24.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 250.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Clippers",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Ivica Zubac",
+          "JERSEY": 40,
+          "AGE": 28,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 240
+        },
+        "SECOND": {
+          "NAME": "Brook Lopez",
+          "JERSEY": 11,
+          "AGE": 37,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 282
+        },
+        "THIRD": {
+          "NAME": "Yanic Konan Niederhauser",
+          "JERSEY": 14.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 242.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Lakers",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Luka Don\u010di\u0107",
+          "JERSEY": 77,
+          "AGE": 26,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 230
+        },
+        "SECOND": {
+          "NAME": "Gabe Vincent",
+          "JERSEY": 7,
+          "AGE": 29,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Nick Smith Jr.",
+          "JERSEY": 3.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Lakers",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Austin Reaves",
+          "JERSEY": 15,
+          "AGE": 27,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 197
+        },
+        "SECOND": {
+          "NAME": "Marcus Smart",
+          "JERSEY": 36,
+          "AGE": 31,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Adou Thiero",
+          "JERSEY": 1.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 220.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Lakers",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "LeBron James",
+          "JERSEY": 23,
+          "AGE": 41,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 250
+        },
+        "SECOND": {
+          "NAME": "Jarred Vanderbilt",
+          "JERSEY": 2,
+          "AGE": 26,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 214
+        },
+        "THIRD": {
+          "NAME": "Dalton Knecht",
+          "JERSEY": 4.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 215.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Lakers",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Rui Hachimura",
+          "JERSEY": 28,
+          "AGE": 27,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 230
+        },
+        "SECOND": {
+          "NAME": "Jake LaRavia",
+          "JERSEY": 12,
+          "AGE": 24,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 235
+        },
+        "THIRD": {
+          "NAME": "Maxi Kleber",
+          "JERSEY": 14.0,
+          "AGE": 33.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 240.0
+        }
+      }
+    },
+    {
+      "TEAM": "Los Angeles Lakers",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Deandre Ayton",
+          "JERSEY": 5,
+          "AGE": 27,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 252
+        },
+        "SECOND": {
+          "NAME": "Jaxson Hayes",
+          "JERSEY": 11,
+          "AGE": 25,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Drew Timme",
+          "JERSEY": 17.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 235.0
+        }
+      }
+    },
+    {
+      "TEAM": "Memphis Grizzlies",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Ja Morant",
+          "JERSEY": 12,
+          "AGE": 26,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 174
+        },
+        "SECOND": {
+          "NAME": "Cam Spencer",
+          "JERSEY": 24,
+          "AGE": 25,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Kobe Bufkin",
+          "JERSEY": 4.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 195.0
+        }
+      }
+    },
+    {
+      "TEAM": "Memphis Grizzlies",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Cedric Coward",
+          "JERSEY": 23,
+          "AGE": 22,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 206
+        },
+        "SECOND": {
+          "NAME": "Vince Williams Jr.",
+          "JERSEY": 5,
+          "AGE": 25,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Javon Small",
+          "JERSEY": 10.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 190.0
+        }
+      }
+    },
+    {
+      "TEAM": "Memphis Grizzlies",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jaylen Wells",
+          "JERSEY": 0,
+          "AGE": 22,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 206
+        },
+        "SECOND": {
+          "NAME": "Kentavious Caldwell-Pope",
+          "JERSEY": 3,
+          "AGE": 32,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 204
+        },
+        "THIRD": {
+          "NAME": "Olivier-Maxence Prosper",
+          "JERSEY": 18.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 230.0
+        }
+      }
+    },
+    {
+      "TEAM": "Memphis Grizzlies",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jaren Jackson Jr.",
+          "JERSEY": 8,
+          "AGE": 26,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 242
+        },
+        "SECOND": {
+          "NAME": "Brandon Clarke",
+          "JERSEY": 15,
+          "AGE": 29,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "GG Jackson II",
+          "JERSEY": 45.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "Memphis Grizzlies",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Santi Aldama",
+          "JERSEY": 7,
+          "AGE": 24,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Jock Landale",
+          "JERSEY": 31,
+          "AGE": 30,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 255
+        },
+        "THIRD": {
+          "NAME": "Christian Koloko",
+          "JERSEY": 35.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 225.0
+        }
+      }
+    },
+    {
+      "TEAM": "Miami Heat",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Davion Mitchell",
+          "JERSEY": 45,
+          "AGE": 27,
+          "HEIGHT": "6.00000",
+          "WEIGHT": 210
+        },
+        "SECOND": {
+          "NAME": "Dru Smith",
+          "JERSEY": 12,
+          "AGE": 28,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Kasparas Jakucionis",
+          "JERSEY": 25.0,
+          "AGE": 19.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 205.0
+        }
+      }
+    },
+    {
+      "TEAM": "Miami Heat",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Tyler Herro",
+          "JERSEY": 14,
+          "AGE": 25,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Pelle Larsson",
+          "JERSEY": 9,
+          "AGE": 24,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Jahmir Young",
+          "JERSEY": 17.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.00000",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "Miami Heat",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Norman Powell",
+          "JERSEY": 24,
+          "AGE": 32,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Jaime Jaquez Jr.",
+          "JERSEY": 11,
+          "AGE": 24,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 230
+        },
+        "THIRD": {
+          "NAME": "Nikola Jovi\u0107",
+          "JERSEY": 5.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 240.0
+        }
+      }
+    },
+    {
+      "TEAM": "Miami Heat",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Andrew Wiggins",
+          "JERSEY": 22,
+          "AGE": 30,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 210
+        },
+        "SECOND": {
+          "NAME": "Simone Fontecchio",
+          "JERSEY": 0,
+          "AGE": 30,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Keshad Johnson",
+          "JERSEY": 16.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 230.0
+        }
+      }
+    },
+    {
+      "TEAM": "Miami Heat",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Bam Adebayo",
+          "JERSEY": 13,
+          "AGE": 28,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 260
+        },
+        "SECOND": {
+          "NAME": "Kel'el Ware",
+          "JERSEY": 7,
+          "AGE": 21,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "Vladislav Goldin",
+          "JERSEY": 50.0,
+          "AGE": 24.0,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 255.0
+        }
+      }
+    },
+    {
+      "TEAM": "Milwaukee Bucks",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Kevin Porter Jr.",
+          "JERSEY": 7,
+          "AGE": 25,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 203
+        },
+        "SECOND": {
+          "NAME": "Ryan Rollins",
+          "JERSEY": 13,
+          "AGE": 23,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 180
+        },
+        "THIRD": {
+          "NAME": "Cole Anthony",
+          "JERSEY": 50.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "Milwaukee Bucks",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "AJ Green",
+          "JERSEY": 20,
+          "AGE": 26,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 190
+        },
+        "SECOND": {
+          "NAME": "Gary Trent Jr.",
+          "JERSEY": 5,
+          "AGE": 26,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 204
+        },
+        "THIRD": {
+          "NAME": "Andre Jackson Jr.",
+          "JERSEY": 44.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 209.0
+        }
+      }
+    },
+    {
+      "TEAM": "Milwaukee Bucks",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Kyle Kuzma",
+          "JERSEY": 18,
+          "AGE": 30,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 221
+        },
+        "SECOND": {
+          "NAME": "Gary Harris",
+          "JERSEY": 11,
+          "AGE": 31,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 210
+        },
+        "THIRD": {
+          "NAME": "Thanasis Antetokounmpo",
+          "JERSEY": 43.0,
+          "AGE": 33.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 219.0
+        }
+      }
+    },
+    {
+      "TEAM": "Milwaukee Bucks",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Giannis Antetokounmpo",
+          "JERSEY": 34,
+          "AGE": 31,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 243
+        },
+        "SECOND": {
+          "NAME": "Bobby Portis",
+          "JERSEY": 9,
+          "AGE": 30,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "Amir Coffey",
+          "JERSEY": 17.0,
+          "AGE": 28.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "Milwaukee Bucks",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Myles Turner",
+          "JERSEY": 3,
+          "AGE": 29,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 250
+        },
+        "SECOND": {
+          "NAME": "Jericho Sims",
+          "JERSEY": 0,
+          "AGE": 27,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "Pete Nance",
+          "JERSEY": 35.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 225.0
+        }
+      }
+    },
+    {
+      "TEAM": "Minnesota Timberwolves",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Donte DiVincenzo",
+          "JERSEY": 0,
+          "AGE": 28,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 208
+        },
+        "SECOND": {
+          "NAME": "Mike Conley",
+          "JERSEY": 10,
+          "AGE": 38,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 183
+        },
+        "THIRD": {
+          "NAME": "Rob Dillingham",
+          "JERSEY": 4.0,
+          "AGE": 20.0,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 170.0
+        }
+      }
+    },
+    {
+      "TEAM": "Minnesota Timberwolves",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Anthony Edwards",
+          "JERSEY": 5,
+          "AGE": 24,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 225
+        },
+        "SECOND": {
+          "NAME": "Bones Hyland",
+          "JERSEY": 8,
+          "AGE": 25,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 185
+        },
+        "THIRD": {
+          "NAME": "Jaylen Clark",
+          "JERSEY": 22.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 208.0
+        }
+      }
+    },
+    {
+      "TEAM": "Minnesota Timberwolves",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jaden McDaniels",
+          "JERSEY": 3,
+          "AGE": 25,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Terrence Shannon Jr.",
+          "JERSEY": 1,
+          "AGE": 25,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 223
+        },
+        "THIRD": {
+          "NAME": "Johnny Juzang",
+          "JERSEY": 9.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 225.0
+        }
+      }
+    },
+    {
+      "TEAM": "Minnesota Timberwolves",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Julius Randle",
+          "JERSEY": 30,
+          "AGE": 31,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 255
+        },
+        "SECOND": {
+          "NAME": "Leonard Miller",
+          "JERSEY": 33,
+          "AGE": 22,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 223
+        },
+        "THIRD": {
+          "NAME": "Joe Ingles",
+          "JERSEY": 7.0,
+          "AGE": 38.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 240.0
+        }
+      }
+    },
+    {
+      "TEAM": "Minnesota Timberwolves",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Rudy Gobert",
+          "JERSEY": 27,
+          "AGE": 33,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 255
+        },
+        "SECOND": {
+          "NAME": "Naz Reid",
+          "JERSEY": 11,
+          "AGE": 26,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 241
+        },
+        "THIRD": {
+          "NAME": "Joan Beringer",
+          "JERSEY": 19.0,
+          "AGE": 19.0,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 239.0
+        }
+      }
+    },
+    {
+      "TEAM": "New Orleans Pelicans",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jeremiah Fears",
+          "JERSEY": 0,
+          "AGE": 19,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 190
+        },
+        "SECOND": {
+          "NAME": "Trey Alexander",
+          "JERSEY": 23,
+          "AGE": 23,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 185
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "New Orleans Pelicans",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Herbert Jones",
+          "JERSEY": 2,
+          "AGE": 27,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 206
+        },
+        "SECOND": {
+          "NAME": "Jordan Poole",
+          "JERSEY": 3,
+          "AGE": 26,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 194
+        },
+        "THIRD": {
+          "NAME": "Bryce McGowens",
+          "JERSEY": 11.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 190.0
+        }
+      }
+    },
+    {
+      "TEAM": "New Orleans Pelicans",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Trey Murphy III",
+          "JERSEY": 25,
+          "AGE": 25,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 206
+        },
+        "SECOND": {
+          "NAME": "Micah Peavy",
+          "JERSEY": 14,
+          "AGE": 24,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Jordan Hawkins",
+          "JERSEY": 24.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 190.0
+        }
+      }
+    },
+    {
+      "TEAM": "New Orleans Pelicans",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Zion Williamson",
+          "JERSEY": 1,
+          "AGE": 25,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 284
+        },
+        "SECOND": {
+          "NAME": "Saddiq Bey",
+          "JERSEY": 41,
+          "AGE": 26,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Karlo Matkovi\u0107",
+          "JERSEY": 17.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 231.0
+        }
+      }
+    },
+    {
+      "TEAM": "New Orleans Pelicans",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Derik Queen",
+          "JERSEY": 22,
+          "AGE": 21,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 250
+        },
+        "SECOND": {
+          "NAME": "Yves Missi",
+          "JERSEY": 21,
+          "AGE": 21,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 235
+        },
+        "THIRD": {
+          "NAME": "Kevon Looney",
+          "JERSEY": 55.0,
+          "AGE": 29.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 222.0
+        }
+      }
+    },
+    {
+      "TEAM": "New York Knicks",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jalen Brunson",
+          "JERSEY": 11,
+          "AGE": 29,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 190
+        },
+        "SECOND": {
+          "NAME": "Tyler Kolek",
+          "JERSEY": 13,
+          "AGE": 24,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 195
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "New York Knicks",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Mikal Bridges",
+          "JERSEY": 25,
+          "AGE": 29,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 209
+        },
+        "SECOND": {
+          "NAME": "Miles McBride",
+          "JERSEY": 2,
+          "AGE": 25,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 195
+        },
+        "THIRD": {
+          "NAME": "Kevin McCullar Jr.",
+          "JERSEY": 9.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "New York Knicks",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "OG Anunoby",
+          "JERSEY": 8,
+          "AGE": 28,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 240
+        },
+        "SECOND": {
+          "NAME": "Jordan Clarkson",
+          "JERSEY": 0,
+          "AGE": 33,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 194
+        },
+        "THIRD": {
+          "NAME": "Tosan Evbuomwan",
+          "JERSEY": 20.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 217.0
+        }
+      }
+    },
+    {
+      "TEAM": "New York Knicks",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Josh Hart",
+          "JERSEY": 3,
+          "AGE": 30,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Mohamed Diawara",
+          "JERSEY": 51,
+          "AGE": 20,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 225
+        },
+        "THIRD": {
+          "NAME": "Guerschon Yabusele",
+          "JERSEY": 28.0,
+          "AGE": 30.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 265.0
+        }
+      }
+    },
+    {
+      "TEAM": "New York Knicks",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Karl-Anthony Towns",
+          "JERSEY": 32,
+          "AGE": 30,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 248
+        },
+        "SECOND": {
+          "NAME": "Mitchell Robinson",
+          "JERSEY": 23,
+          "AGE": 27,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 240
+        },
+        "THIRD": {
+          "NAME": "Ariel Hukporti",
+          "JERSEY": 55.0,
+          "AGE": 23.0,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 246.0
+        }
+      }
+    },
+    {
+      "TEAM": "Oklahoma City Thunder",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Shai Gilgeous-Alexander",
+          "JERSEY": 2,
+          "AGE": 27,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 195
+        },
+        "SECOND": {
+          "NAME": "Cason Wallace",
+          "JERSEY": 22,
+          "AGE": 22,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 195
+        },
+        "THIRD": {
+          "NAME": "Ajay Mitchell",
+          "JERSEY": 25.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 190.0
+        }
+      }
+    },
+    {
+      "TEAM": "Oklahoma City Thunder",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Luguentz Dort",
+          "JERSEY": 5,
+          "AGE": 26,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 220
+        },
+        "SECOND": {
+          "NAME": "Alex Caruso",
+          "JERSEY": 9,
+          "AGE": 31,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 186
+        },
+        "THIRD": {
+          "NAME": "Isaiah Joe",
+          "JERSEY": 11.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 165.0
+        }
+      }
+    },
+    {
+      "TEAM": "Oklahoma City Thunder",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jalen Williams",
+          "JERSEY": 8,
+          "AGE": 24,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 211
+        },
+        "SECOND": {
+          "NAME": "Aaron Wiggins",
+          "JERSEY": 21,
+          "AGE": 26,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 190
+        },
+        "THIRD": {
+          "NAME": "Ousmane Dieng",
+          "JERSEY": 13.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "Oklahoma City Thunder",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Chet Holmgren",
+          "JERSEY": 7,
+          "AGE": 23,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 208
+        },
+        "SECOND": {
+          "NAME": "Jaylin Williams",
+          "JERSEY": 6,
+          "AGE": 23,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 240
+        },
+        "THIRD": {
+          "NAME": "Kenrich Williams",
+          "JERSEY": 34.0,
+          "AGE": 31.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "Oklahoma City Thunder",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Isaiah Hartenstein",
+          "JERSEY": 55,
+          "AGE": 27,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 250
+        },
+        "SECOND": {
+          "NAME": "Branden Carlson",
+          "JERSEY": 15,
+          "AGE": 26,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "Orlando Magic",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jalen Suggs",
+          "JERSEY": 4,
+          "AGE": 24,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Anthony Black",
+          "JERSEY": 0,
+          "AGE": 21,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Tyus Jones",
+          "JERSEY": 2.0,
+          "AGE": 29.0,
+          "HEIGHT": "6.00000",
+          "WEIGHT": 196.0
+        }
+      }
+    },
+    {
+      "TEAM": "Orlando Magic",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Desmond Bane",
+          "JERSEY": 3,
+          "AGE": 27,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Jase Richardson",
+          "JERSEY": 11,
+          "AGE": 20,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 180
+        },
+        "THIRD": {
+          "NAME": "Jett Howard",
+          "JERSEY": 13.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 215.0
+        }
+      }
+    },
+    {
+      "TEAM": "Orlando Magic",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Tristan da Silva",
+          "JERSEY": 23,
+          "AGE": 24,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 217
+        },
+        "SECOND": {
+          "NAME": "Noah Penda",
+          "JERSEY": 93,
+          "AGE": 20,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Jamal Cain",
+          "JERSEY": 8.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 191.0
+        }
+      }
+    },
+    {
+      "TEAM": "Orlando Magic",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Paolo Banchero",
+          "JERSEY": 5,
+          "AGE": 23,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 250
+        },
+        "SECOND": {
+          "NAME": "Jonathan Isaac",
+          "JERSEY": 1,
+          "AGE": 28,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 230
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "Orlando Magic",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Wendell Carter Jr.",
+          "JERSEY": 34,
+          "AGE": 26,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 270
+        },
+        "SECOND": {
+          "NAME": "Goga Bitadze",
+          "JERSEY": 35,
+          "AGE": 26,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "Orlando Robinson",
+          "JERSEY": 7.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 235.0
+        }
+      }
+    },
+    {
+      "TEAM": "Philadelphia 76ers",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Tyrese Maxey",
+          "JERSEY": 0,
+          "AGE": 25,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Jared McCain",
+          "JERSEY": 20,
+          "AGE": 21,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 195
+        },
+        "THIRD": {
+          "NAME": "Kyle Lowry",
+          "JERSEY": 7.0,
+          "AGE": 39.0,
+          "HEIGHT": "6.00000",
+          "WEIGHT": 196.0
+        }
+      }
+    },
+    {
+      "TEAM": "Philadelphia 76ers",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "VJ Edgecombe",
+          "JERSEY": 77,
+          "AGE": 20,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 180
+        },
+        "SECOND": {
+          "NAME": "Quentin Grimes",
+          "JERSEY": 5,
+          "AGE": 25,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 210
+        },
+        "THIRD": {
+          "NAME": "MarJon Beauchamp",
+          "JERSEY": 16.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 199.0
+        }
+      }
+    },
+    {
+      "TEAM": "Philadelphia 76ers",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Paul George",
+          "JERSEY": 8,
+          "AGE": 35,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 220
+        },
+        "SECOND": {
+          "NAME": "Justin Edwards",
+          "JERSEY": 11,
+          "AGE": 22,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 203
+        },
+        "THIRD": {
+          "NAME": "Eric Gordon",
+          "JERSEY": 23.0,
+          "AGE": 37.0,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 215.0
+        }
+      }
+    },
+    {
+      "TEAM": "Philadelphia 76ers",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Dominick Barlow",
+          "JERSEY": 25,
+          "AGE": 22,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Jabari Walker",
+          "JERSEY": 33,
+          "AGE": 23,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 237
+        },
+        "THIRD": {
+          "NAME": "Johni Broome",
+          "JERSEY": 22.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 235.0
+        }
+      }
+    },
+    {
+      "TEAM": "Philadelphia 76ers",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Joel Embiid",
+          "JERSEY": 21,
+          "AGE": 31,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 280
+        },
+        "SECOND": {
+          "NAME": "Andre Drummond",
+          "JERSEY": 1,
+          "AGE": 32,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 279
+        },
+        "THIRD": {
+          "NAME": "Adem Bona",
+          "JERSEY": 30.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 235.0
+        }
+      }
+    },
+    {
+      "TEAM": "Phoenix Suns",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Collin Gillespie",
+          "JERSEY": 12,
+          "AGE": 26,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 195
+        },
+        "SECOND": {
+          "NAME": "Jordan Goodwin",
+          "JERSEY": 23,
+          "AGE": 27,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "Phoenix Suns",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Devin Booker",
+          "JERSEY": 1,
+          "AGE": 29,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 206
+        },
+        "SECOND": {
+          "NAME": "Jamaree Bouyea",
+          "JERSEY": 17,
+          "AGE": 26,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 173
+        },
+        "THIRD": {
+          "NAME": "Isaiah Livers",
+          "JERSEY": 18.0,
+          "AGE": 27.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 232.0
+        }
+      }
+    },
+    {
+      "TEAM": "Phoenix Suns",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Dillon Brooks",
+          "JERSEY": 3,
+          "AGE": 29,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 225
+        },
+        "SECOND": {
+          "NAME": "Grayson Allen",
+          "JERSEY": 8,
+          "AGE": 30,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 198
+        },
+        "THIRD": {
+          "NAME": "Nigel Hayes",
+          "JERSEY": 21.0,
+          "AGE": 31.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 254.0
+        }
+      }
+    },
+    {
+      "TEAM": "Phoenix Suns",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Royce O'Neale",
+          "JERSEY": 0,
+          "AGE": 32,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 226
+        },
+        "SECOND": {
+          "NAME": "Ryan Dunn",
+          "JERSEY": 0,
+          "AGE": 22,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 216
+        },
+        "THIRD": {
+          "NAME": "Rasheer Fleming",
+          "JERSEY": 20.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 240.0
+        }
+      }
+    },
+    {
+      "TEAM": "Phoenix Suns",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Oso Ighodaro",
+          "JERSEY": 11,
+          "AGE": 23,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 235
+        },
+        "SECOND": {
+          "NAME": "Nick Richards",
+          "JERSEY": 2,
+          "AGE": 28,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 245
+        },
+        "THIRD": {
+          "NAME": "Khaman Maluach",
+          "JERSEY": 10.0,
+          "AGE": 19.0,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 250.0
+        }
+      }
+    },
+    {
+      "TEAM": "Portland Trail Blazers",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Deni Avdija",
+          "JERSEY": 8,
+          "AGE": 24,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 228
+        },
+        "SECOND": {
+          "NAME": "Caleb Love",
+          "JERSEY": 2,
+          "AGE": 24,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 212
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "Portland Trail Blazers",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Shaedon Sharpe",
+          "JERSEY": 17,
+          "AGE": 22,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 210
+        },
+        "SECOND": {
+          "NAME": "Rayan Rupert",
+          "JERSEY": 21,
+          "AGE": 21,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 205
+        },
+        "THIRD": {
+          "NAME": "Javonte Cooke",
+          "JERSEY": 18.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "Portland Trail Blazers",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Toumani Camara",
+          "JERSEY": 33,
+          "AGE": 25,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 230
+        },
+        "SECOND": {
+          "NAME": "Kris Murray",
+          "JERSEY": 24,
+          "AGE": 25,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 218
+        },
+        "THIRD": {
+          "NAME": NaN,
+          "JERSEY": NaN,
+          "AGE": NaN,
+          "HEIGHT": NaN,
+          "WEIGHT": NaN
+        }
+      }
+    },
+    {
+      "TEAM": "Portland Trail Blazers",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jerami Grant",
+          "JERSEY": 9,
+          "AGE": 31,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 213
+        },
+        "SECOND": {
+          "NAME": "Sidy Cissoko",
+          "JERSEY": 91,
+          "AGE": 21,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Yang Hansen",
+          "JERSEY": 16.0,
+          "AGE": 20.0,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 270.0
+        }
+      }
+    },
+    {
+      "TEAM": "Portland Trail Blazers",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Donovan Clingan",
+          "JERSEY": 23,
+          "AGE": 21,
+          "HEIGHT": "7.0'2",
+          "WEIGHT": 280
+        },
+        "SECOND": {
+          "NAME": "Robert Williams III",
+          "JERSEY": 35,
+          "AGE": 28,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 249
+        },
+        "THIRD": {
+          "NAME": "Duop Reath",
+          "JERSEY": 26.0,
+          "AGE": 29.0,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 245.0
+        }
+      }
+    },
+    {
+      "TEAM": "Sacramento Kings",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Russell Westbrook",
+          "JERSEY": 18,
+          "AGE": 37,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Dennis Schr\u00f6der",
+          "JERSEY": 17,
+          "AGE": 32,
+          "HEIGHT": "6.0'1",
+          "WEIGHT": 175
+        },
+        "THIRD": {
+          "NAME": "Devin Carter",
+          "JERSEY": 22.0,
+          "AGE": 23.0,
+          "HEIGHT": "6.0'2",
+          "WEIGHT": 188.0
+        }
+      }
+    },
+    {
+      "TEAM": "Sacramento Kings",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Zach LaVine",
+          "JERSEY": 8,
+          "AGE": 30,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Malik Monk",
+          "JERSEY": 0,
+          "AGE": 27,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Keon Ellis",
+          "JERSEY": 23.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 175.0
+        }
+      }
+    },
+    {
+      "TEAM": "Sacramento Kings",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "DeMar DeRozan",
+          "JERSEY": 10,
+          "AGE": 36,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 220
+        },
+        "SECOND": {
+          "NAME": "Nique Clifford",
+          "JERSEY": 5,
+          "AGE": 23,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Doug McDermott",
+          "JERSEY": 7.0,
+          "AGE": 33.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 225.0
+        }
+      }
+    },
+    {
+      "TEAM": "Sacramento Kings",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Keegan Murray",
+          "JERSEY": 13,
+          "AGE": 25,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Precious Achiuwa",
+          "JERSEY": 9,
+          "AGE": 26,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 243
+        },
+        "THIRD": {
+          "NAME": "Dario \u0160ari\u0107",
+          "JERSEY": 20.0,
+          "AGE": 31.0,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 225.0
+        }
+      }
+    },
+    {
+      "TEAM": "Sacramento Kings",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Maxime Raynaud",
+          "JERSEY": 42,
+          "AGE": 22,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 250
+        },
+        "SECOND": {
+          "NAME": "Drew Eubanks",
+          "JERSEY": 19,
+          "AGE": 28,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 245
+        },
+        "THIRD": {
+          "NAME": "Dylan Cardwell",
+          "JERSEY": 32.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 255.0
+        }
+      }
+    },
+    {
+      "TEAM": "San Antonio Spurs",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "De'Aaron Fox",
+          "JERSEY": 4,
+          "AGE": 28,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 185
+        },
+        "SECOND": {
+          "NAME": "Dylan Harper",
+          "JERSEY": 2,
+          "AGE": 19,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Jordan McLaughlin",
+          "JERSEY": 0.0,
+          "AGE": 29.0,
+          "HEIGHT": "5.0'11",
+          "WEIGHT": 185.0
+        }
+      }
+    },
+    {
+      "TEAM": "San Antonio Spurs",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Stephon Castle",
+          "JERSEY": 5,
+          "AGE": 21,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 215
+        },
+        "SECOND": {
+          "NAME": "Keldon Johnson",
+          "JERSEY": 3,
+          "AGE": 26,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Lindy Waters III",
+          "JERSEY": 43.0,
+          "AGE": 28.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "San Antonio Spurs",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Devin Vassell",
+          "JERSEY": 24,
+          "AGE": 25,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Julian Champagnie",
+          "JERSEY": 30,
+          "AGE": 24,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 217
+        },
+        "THIRD": {
+          "NAME": "Carter Bryant",
+          "JERSEY": 11.0,
+          "AGE": 20.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 220.0
+        }
+      }
+    },
+    {
+      "TEAM": "San Antonio Spurs",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Harrison Barnes",
+          "JERSEY": 40,
+          "AGE": 33,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 225
+        },
+        "SECOND": {
+          "NAME": "Jeremy Sochan",
+          "JERSEY": 10,
+          "AGE": 22,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 230
+        },
+        "THIRD": {
+          "NAME": "David Jones-Garcia",
+          "JERSEY": 25.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 210.0
+        }
+      }
+    },
+    {
+      "TEAM": "San Antonio Spurs",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Victor Wembanyama",
+          "JERSEY": 1,
+          "AGE": 21,
+          "HEIGHT": "7.0'4",
+          "WEIGHT": 235
+        },
+        "SECOND": {
+          "NAME": "Luke Kornet",
+          "JERSEY": 7,
+          "AGE": 30,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "Kelly Olynyk",
+          "JERSEY": 8.0,
+          "AGE": 34.0,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 240.0
+        }
+      }
+    },
+    {
+      "TEAM": "Toronto Raptors",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Immanuel Quickley",
+          "JERSEY": 5,
+          "AGE": 26,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 197
+        },
+        "SECOND": {
+          "NAME": "Jamal Shead",
+          "JERSEY": 23,
+          "AGE": 23,
+          "HEIGHT": "6.00000",
+          "WEIGHT": 200
+        },
+        "THIRD": {
+          "NAME": "Chucky Hepburn",
+          "JERSEY": 24.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.00000",
+          "WEIGHT": 193.0
+        }
+      }
+    },
+    {
+      "TEAM": "Toronto Raptors",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "RJ Barrett",
+          "JERSEY": 9,
+          "AGE": 25,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 222
+        },
+        "SECOND": {
+          "NAME": "Ochai Agbaji",
+          "JERSEY": 30,
+          "AGE": 25,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 220
+        },
+        "THIRD": {
+          "NAME": "Ja'Kobe Walter",
+          "JERSEY": 14.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 201.0
+        }
+      }
+    },
+    {
+      "TEAM": "Toronto Raptors",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Brandon Ingram",
+          "JERSEY": 3,
+          "AGE": 28,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Gradey Dick",
+          "JERSEY": 1,
+          "AGE": 22,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 209
+        },
+        "THIRD": {
+          "NAME": "Jamison Battle",
+          "JERSEY": 77.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 218.0
+        }
+      }
+    },
+    {
+      "TEAM": "Toronto Raptors",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Scottie Barnes",
+          "JERSEY": 4,
+          "AGE": 24,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 237
+        },
+        "SECOND": {
+          "NAME": "Collin Murray-Boyles",
+          "JERSEY": 12,
+          "AGE": 20,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 245
+        },
+        "THIRD": {
+          "NAME": "Jonathan Mogbo",
+          "JERSEY": 2.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 219.0
+        }
+      }
+    },
+    {
+      "TEAM": "Toronto Raptors",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jakob Poeltl",
+          "JERSEY": 19,
+          "AGE": 30,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 253
+        },
+        "SECOND": {
+          "NAME": "Sandro Mamukelashvili",
+          "JERSEY": 54,
+          "AGE": 26,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 246
+        },
+        "THIRD": {
+          "NAME": "Mo Bamba",
+          "JERSEY": 11.0,
+          "AGE": 27.0,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 231.0
+        }
+      }
+    },
+    {
+      "TEAM": "Utah Jazz",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Keyonte George",
+          "JERSEY": 3,
+          "AGE": 22,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 185
+        },
+        "SECOND": {
+          "NAME": "Isaiah Collier",
+          "JERSEY": 8,
+          "AGE": 21,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 210
+        },
+        "THIRD": {
+          "NAME": "Elijah Harkless",
+          "JERSEY": 16.0,
+          "AGE": 25.0,
+          "HEIGHT": "6.0'3",
+          "WEIGHT": 195.0
+        }
+      }
+    },
+    {
+      "TEAM": "Utah Jazz",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Ace Bailey",
+          "JERSEY": 19,
+          "AGE": 19,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 200
+        },
+        "SECOND": {
+          "NAME": "Brice Sensabaugh",
+          "JERSEY": 28,
+          "AGE": 22,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 235
+        },
+        "THIRD": {
+          "NAME": "Walter Clayton Jr.",
+          "JERSEY": 13.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 195.0
+        }
+      }
+    },
+    {
+      "TEAM": "Utah Jazz",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Svi Mykhailiuk",
+          "JERSEY": 10,
+          "AGE": 28,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 205
+        },
+        "SECOND": {
+          "NAME": "Taylor Hendricks",
+          "JERSEY": 0,
+          "AGE": 22,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 215
+        },
+        "THIRD": {
+          "NAME": "Cody Williams",
+          "JERSEY": 5.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 190.0
+        }
+      }
+    },
+    {
+      "TEAM": "Utah Jazz",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Lauri Markkanen",
+          "JERSEY": 23,
+          "AGE": 28,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 240
+        },
+        "SECOND": {
+          "NAME": "Kevin Love",
+          "JERSEY": 42,
+          "AGE": 37,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 251
+        },
+        "THIRD": {
+          "NAME": "Kyle Anderson",
+          "JERSEY": 2.0,
+          "AGE": 32.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 230.0
+        }
+      }
+    },
+    {
+      "TEAM": "Utah Jazz",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Jusuf Nurki\u0107",
+          "JERSEY": 30,
+          "AGE": 31,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 290
+        },
+        "SECOND": {
+          "NAME": "Kyle Filipowski",
+          "JERSEY": 22,
+          "AGE": 22,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 250
+        },
+        "THIRD": {
+          "NAME": "Oscar Tshiebwe",
+          "JERSEY": 34.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 255.0
+        }
+      }
+    },
+    {
+      "TEAM": "Washington Wizards",
+      "POS": "PG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "CJ McCollum",
+          "JERSEY": 3,
+          "AGE": 34,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 204
+        },
+        "SECOND": {
+          "NAME": "Bub Carrington",
+          "JERSEY": 7,
+          "AGE": 20,
+          "HEIGHT": "6.0'4",
+          "WEIGHT": 196
+        },
+        "THIRD": {
+          "NAME": "Malaki Branham",
+          "JERSEY": 8.0,
+          "AGE": 22.0,
+          "HEIGHT": "6.0'5",
+          "WEIGHT": 205.0
+        }
+      }
+    },
+    {
+      "TEAM": "Washington Wizards",
+      "POS": "SG",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Bilal Coulibaly",
+          "JERSEY": 0,
+          "AGE": 21,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 203
+        },
+        "SECOND": {
+          "NAME": "Tre Johnson",
+          "JERSEY": 12,
+          "AGE": 19,
+          "HEIGHT": "6.0'6",
+          "WEIGHT": 196
+        },
+        "THIRD": {
+          "NAME": "Corey Kispert",
+          "JERSEY": 24.0,
+          "AGE": 26.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 225.0
+        }
+      }
+    },
+    {
+      "TEAM": "Washington Wizards",
+      "POS": "SF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Kyshawn George",
+          "JERSEY": 18,
+          "AGE": 22,
+          "HEIGHT": "6.0'9",
+          "WEIGHT": 211
+        },
+        "SECOND": {
+          "NAME": "Justin Champagnie",
+          "JERSEY": 9,
+          "AGE": 24,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 210
+        },
+        "THIRD": {
+          "NAME": "Jamir Watkins",
+          "JERSEY": 5.0,
+          "AGE": 24.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 219.0
+        }
+      }
+    },
+    {
+      "TEAM": "Washington Wizards",
+      "POS": "PF",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Khris Middleton",
+          "JERSEY": 22,
+          "AGE": 34,
+          "HEIGHT": "6.0'8",
+          "WEIGHT": 236
+        },
+        "SECOND": {
+          "NAME": "Will Riley",
+          "JERSEY": 27,
+          "AGE": 19,
+          "HEIGHT": "6.0000000",
+          "WEIGHT": 190
+        },
+        "THIRD": {
+          "NAME": "Cam Whitmore",
+          "JERSEY": 1.0,
+          "AGE": 21.0,
+          "HEIGHT": "6.0'7",
+          "WEIGHT": 250.0
+        }
+      }
+    },
+    {
+      "TEAM": "Washington Wizards",
+      "POS": "C",
+      "DEPTH_CHART": {
+        "STARTER": {
+          "NAME": "Alexandre Sarr",
+          "JERSEY": 20,
+          "AGE": 20,
+          "HEIGHT": "7.0'1",
+          "WEIGHT": 236
+        },
+        "SECOND": {
+          "NAME": "Marvin Bagley III",
+          "JERSEY": 35,
+          "AGE": 26,
+          "HEIGHT": "6.0'11",
+          "WEIGHT": 235
+        },
+        "THIRD": {
+          "NAME": "Tristan Vukcevic",
+          "JERSEY": 0.0,
+          "AGE": 22.0,
+          "HEIGHT": "7.00000",
+          "WEIGHT": 241.0
+        }
+      }
+    }
+  ]
+}
