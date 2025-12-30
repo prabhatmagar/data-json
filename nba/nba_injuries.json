@@ -1,15 +1,15 @@
 [
   {
     "player": "Trae Young",
-    "status": "Out",
+    "status": "Day-To-Day",
     "injury_type": "30 Dec: Young is out for Monday's game against the Thunder with a right quad contusion.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
     "player": "Jalen Johnson",
-    "status": "Out",
-    "injury_type": "29 Dec: Johnson is out for Monday's game against the Thunder due to an illness, Brad Rowland of the Locked On Podcast Network reports.",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Johnson is out for Monday's game against the Thunder due to an illness, Brad Rowland of the Locked On Podcast Network reports.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
@@ -35,17 +35,17 @@
     "date": "2025-12-30"
   },
   {
+    "player": "Chris Boucher",
+    "status": "Out",
+    "injury_type": "30 Dec: Boucher (personal) has been ruled out for Tuesday's game against the Jazz.",
+    "est_return": "1 Jan",
+    "date": "2025-12-30"
+  },
+  {
     "player": "Amari Williams",
     "status": "Day-To-Day",
     "injury_type": "30 Dec: Williams (hand) is out for Thursday's game against Bucks, Zack Cox of the Boston Herald reports.",
     "est_return": "31 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Chris Boucher",
-    "status": "Day-To-Day",
-    "injury_type": "30 Dec: Boucher (personal) has been ruled out for Sunday's game against Portland, Justin Turpin of WEEI.com reports.",
-    "est_return": "30 Dec",
     "date": "2025-12-30"
   },
   {
@@ -56,17 +56,24 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Ziaire Williams",
-    "status": "Day-To-Day",
-    "injury_type": "30 Dec: Williams is probable for Monday's game against the Warriors with a right ankle sprain, Erik Slater of ClutchPoints.com reports.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
     "player": "Haywood Highsmith",
     "status": "Out",
     "injury_type": "19 Dec: Highsmith (knee) has progressed to going through on-court work, but he's still not been cleared for full-contact, 5-on-5 drills, Erik Slater of ClutchPoints.com reports.",
     "est_return": "4 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Kon Knueppel",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Knueppel (ankle) is out for Monday's game against the Bucks.",
+    "est_return": "31 Dec",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Miles Bridges",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Bridges exited Monday's game against the Bucks with a right ankle injury and won't return.",
+    "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
@@ -84,20 +91,6 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Kon Knueppel",
-    "status": "Out",
-    "injury_type": "29 Dec: Knueppel (ankle) is out for Monday's game against the Bucks.",
-    "est_return": "31 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Sion James",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: James (illness) is listed as questionable for Monday's game against the Bucks.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
     "player": "Grant Williams",
     "status": "Out",
     "injury_type": "14 Dec: Williams (knee) has been ruled out for Sunday's game against Cleveland.",
@@ -106,23 +99,37 @@
   },
   {
     "player": "Lachlan Olbrich",
-    "status": "Out",
+    "status": "Day-To-Day",
     "injury_type": "30 Dec: Olbrich (calf) will be available Wednesday against the Nets.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
     "player": "Trentyn Flowers",
-    "status": "Out",
+    "status": "Day-To-Day",
     "injury_type": "30 Dec: Flowers won't play Monday against Minnesota due to a right knee hyperextension.",
+    "est_return": "31 Dec",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Josh Giddey",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Giddey has been ruled out for the remainder of Monday's game against the Timberwolves due to a left hamstring injury, K.C. Johnson of Chicago Sports Network reports.",
+    "est_return": "31 Dec",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Coby White",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: White (calf) has been ruled out for the remainder of Monday's game, Joel Lorenzi of The Athletic reports.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
     "player": "Zach Collins",
     "status": "Out",
-    "injury_type": "29 Dec: Collins has been ruled out for Monday's game against the Timberwolves due to right first toe soreness.",
-    "est_return": "31 Dec",
+    "injury_type": "30 Dec: Collins (toe), who won't play in Monday's game against Minnesota, is expected to be out for the rest of the week, K.C. Johnson of Chicago Sports Networkreports.",
+    "est_return": "5 Jan",
     "date": "2025-12-30"
   },
   {
@@ -147,17 +154,10 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Brandon Williams",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: Williams (calf) is questionable for Monday's game against the Trail Blazers.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
     "player": "Anthony Davis",
     "status": "Day-To-Day",
-    "injury_type": "29 Dec: Davis (adductor) is listed as questionable for Monday's game against Portland.",
-    "est_return": "29 Dec",
+    "injury_type": "30 Dec: Davis (thigh) won't play Monday against Portland, Christian Clark of The Athletic reports.",
+    "est_return": "1 Jan",
     "date": "2025-12-30"
   },
   {
@@ -182,6 +182,27 @@
     "date": "2025-12-30"
   },
   {
+    "player": "Nikola Jokic",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Jokic (knee) won't return to Monday's game against the Heat, Sam Amick of The Athletic reports.",
+    "est_return": "31 Dec",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Aaron Gordon",
+    "status": "Out",
+    "injury_type": "30 Dec: Nuggets head coach David Adelman said Saturday that Gordon (hamstring) could return at some point during the back end of the team's ongoing seven-game road trip, Katy Winge of Altitude Sports reports.",
+    "est_return": "5 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Christian Braun",
+    "status": "Out",
+    "injury_type": "30 Dec: Nuggets head coach David Adelman said Saturday that Braun (ankle) could return at some point during the back end of the team's ongoing seven-game road trip, Katy Winge of Altitude Sports reports.",
+    "est_return": "5 Jan",
+    "date": "2025-12-30"
+  },
+  {
     "player": "Cameron Johnson",
     "status": "Out",
     "injury_type": "26 Dec: Johnson will be reevaluated in 4-to-6 weeks due to a right knee contusion, Shams Charania of ESPN reports.",
@@ -196,23 +217,9 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Christian Braun",
-    "status": "Out",
-    "injury_type": "14 Dec: Braun (ankle) was spotted doing some training off to the side during Saturday's practice, Brendan Vogt of TheDNVR.com reports.",
-    "est_return": "5 Jan",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Aaron Gordon",
-    "status": "Out",
-    "injury_type": "10 Dec: Gordon (hamstring) is not expected to return before Christmas, Vinny Benedetto of The Denver Gazette reports.",
-    "est_return": "5 Jan",
-    "date": "2025-12-30"
-  },
-  {
     "player": "Caris LeVert",
     "status": "Day-To-Day",
-    "injury_type": "29 Dec: LeVert will not return to Sunday's game against the Clippers due to left knee soreness, Omari Sankofa II of the Detroit Free Press reports.",
+    "injury_type": "30 Dec: LeVert (knee) is doubtful for Tuesday's game against the Lakers.",
     "est_return": "30 Dec",
     "date": "2025-12-30"
   },
@@ -224,23 +231,16 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Jimmy Butler III",
+    "player": "Al Horford",
     "status": "Day-To-Day",
-    "injury_type": "30 Dec: Butler is probable for Monday's game against the Nets with lower back soreness.",
-    "est_return": "29 Dec",
+    "injury_type": "30 Dec: Horford (rest) has been ruled out for Monday's game against the Raptors, Sam Gordon of the San Francisco Chronicle reports.",
+    "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
     "player": "L.J. Cryer",
     "status": "Day-To-Day",
     "injury_type": "30 Dec: Cryer has been ruled out for Thursday's game against the Mavericks due to a low back strain.",
-    "est_return": "31 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Al Horford",
-    "status": "Out",
-    "injury_type": "29 Dec: Horford (rest) has been ruled out for Monday's game against the Raptors, Sam Gordon of the San Francisco Chronicle reports.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
@@ -253,8 +253,15 @@
   },
   {
     "player": "Alperen Sengun",
-    "status": "Out",
+    "status": "Day-To-Day",
     "injury_type": "30 Dec: Sengun (calf) won't play Monday against the Pacers.",
+    "est_return": "1 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Steven Adams",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Adams has been ruled out for the remainder of Monday's game against the Pacers due to a right ankle sprain, Vanessa Richardson of Space City Home Network reports.",
     "est_return": "1 Jan",
     "date": "2025-12-30"
   },
@@ -296,7 +303,7 @@
   {
     "player": "John Collins",
     "status": "Day-To-Day",
-    "injury_type": "29 Dec: Collins (illness) has been ruled out for Sunday's game against the Pistons, Law Murray of The Athletic reports.",
+    "injury_type": "30 Dec: Collins (illness) is listed as questionable for Tuesday's game against the Kings.",
     "est_return": "30 Dec",
     "date": "2025-12-30"
   },
@@ -322,10 +329,10 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Jaxson Hayes",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: Hayes (ankle) has been ruled out for Sunday's game against the Kings.",
-    "est_return": "30 Dec",
+    "player": "Rui Hachimura",
+    "status": "Out",
+    "injury_type": "30 Dec: Hachimura has been ruled out for Tuesday's game against the Pistons due to right calf soreness.",
+    "est_return": "2 Jan",
     "date": "2025-12-30"
   },
   {
@@ -339,27 +346,27 @@
     "player": "Austin Reaves",
     "status": "Out",
     "injury_type": "27 Dec: Reaves has been diagnosed with a grade 2 left gastrocnemius strain and will be re-evaluated in approximately four weeks, Dan Woike of The Athletic reports.",
-    "est_return": "22 Jan",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Jock Landale",
-    "status": "Day-To-Day",
-    "injury_type": "30 Dec: Landale (calf) is out for Sunday's game against the Wizards.",
-    "est_return": "30 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Kentavious Caldwell-Pope",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: Caldwell-Pope (hamstring) did not return after exiting Sunday's game against the Wizards in the second quarter.",
-    "est_return": "30 Dec",
+    "est_return": "26 Jan",
     "date": "2025-12-30"
   },
   {
     "player": "Vince Williams Jr.",
     "status": "Out",
-    "injury_type": "28 Dec: Williams (knee) has been ruled out for Sunday's game against the Wizards.",
+    "injury_type": "30 Dec: Williams (knee) is out for Tuesday's game against the 76ers.",
+    "est_return": "2 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Kentavious Caldwell-Pope",
+    "status": "Out",
+    "injury_type": "30 Dec: Caldwell-Pope is out for Tuesday's game against the 76ers due to right hamstring soreness.",
+    "est_return": "2 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Jock Landale",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Landale (calf) is questionable for Tuesday's game against the 76ers.",
     "est_return": "30 Dec",
     "date": "2025-12-30"
   },
@@ -399,10 +406,10 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Bam Adebayo",
+    "player": "Pelle Larsson",
     "status": "Day-To-Day",
-    "injury_type": "29 Dec: Adebayo (back) is probable for Monday's game against the Nuggets, Anthony Chiang of the Miami Herald reports.",
-    "est_return": "29 Dec",
+    "injury_type": "30 Dec: Larsson won't return to Monday's game against the Nuggets due to a sprained right ankle, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "est_return": "1 Jan",
     "date": "2025-12-30"
   },
   {
@@ -417,13 +424,6 @@
     "status": "Out",
     "injury_type": "24 Oct: The NBA placed Rozier on immediate leave from the Heat on Thursday, ESPN's Shams Charania reports.",
     "est_return": "20 Feb",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Gary Trent Jr.",
-    "status": "Out",
-    "injury_type": "29 Dec: Trent (calf) is listed as questionable for Monday's game against the Hornets.",
-    "est_return": "29 Dec",
     "date": "2025-12-30"
   },
   {
@@ -455,23 +455,16 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Miles McBride",
-    "status": "Out",
-    "injury_type": "30 Dec: McBride (ankle) is probable for Monday's game against the Pelicans.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Tyler Kolek",
-    "status": "Day-To-Day",
-    "injury_type": "30 Dec: Kolek is questionable for Monday's game against the Pelicans with right ankle soreness.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
     "player": "Mitchell Robinson",
-    "status": "Out",
-    "injury_type": "29 Dec: Robinson has been ruled out for Monday's game against the Pelicans due to left ankle injury management.",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Robinson has been ruled out for Monday's game against the Pelicans due to left ankle injury management.",
+    "est_return": "31 Dec",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Ariel Hukporti",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Hukporti won't return to Monday's game against the Pelicans due to a mouth laceration.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
@@ -490,38 +483,24 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Ajay Mitchell",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: Mitchell (ankle) left Sunday's game against the 76ers in the fourth quarter and did not return.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
     "player": "Isaiah Hartenstein",
     "status": "Day-To-Day",
-    "injury_type": "29 Dec: Hartenstein (ankle) exited Sunday's 129-104 win over the 76ers in the third quarter and did not return.",
+    "injury_type": "30 Dec: Hartenstein won't play Monday against the Hawks due to a left soleus strain.",
     "est_return": "31 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Isaiah Joe",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: Joe has been ruled out for the remainder of Sunday's game against the 76ers due to neck soreness, Rylan Stiles of SI.com reports.",
-    "est_return": "30 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Ousmane Dieng",
-    "status": "Out",
-    "injury_type": "28 Dec: Dieng (calf) is out for Sunday's game against the 76ers.",
-    "est_return": "29 Dec",
     "date": "2025-12-30"
   },
   {
     "player": "Jaylin Williams",
     "status": "Out",
-    "injury_type": "28 Dec: Williams (heel) is out for Sunday's game against the 76ers.",
-    "est_return": "29 Dec",
+    "injury_type": "30 Dec: Williams (heel) will miss Monday's game against the Hawks.",
+    "est_return": "31 Dec",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Ousmane Dieng",
+    "status": "Out",
+    "injury_type": "30 Dec: Dieng is out for Monday's game against the Hawks with a right calf strain.",
+    "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
@@ -539,17 +518,24 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Jalen Suggs",
-    "status": "Out",
-    "injury_type": "29 Dec: Suggs (hip) is listed as doubtful for Monday's game against the Raptors.",
-    "est_return": "29 Dec",
+    "player": "Jonathan Isaac",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: Isaac (knee) didn't return to Monday's game against Toronto.",
+    "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
-    "player": "Goga Bitadze",
+    "player": "Franz Wagner",
     "status": "Out",
-    "injury_type": "29 Dec: Bitadze (knee) is listed as questionable for Monday's game against Toronto.",
-    "est_return": "29 Dec",
+    "injury_type": "30 Dec: Head coach Jamahl Mosley said Monday that Wagner (ankle) is without a timetable for a return to game action, Jason Beede of the Orlando Sentinel reports.",
+    "est_return": "4 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Jalen Suggs",
+    "status": "Out",
+    "injury_type": "30 Dec: Suggs (hip) has been ruled out for Monday's game against the Raptors.",
+    "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
@@ -560,23 +546,16 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Franz Wagner",
-    "status": "Out",
-    "injury_type": "28 Dec: Wagner (ankle) has been ruled out for Saturday's game against Denver.",
-    "est_return": "4 Jan",
-    "date": "2025-12-30"
-  },
-  {
     "player": "Colin Castleton",
     "status": "Out",
     "injury_type": "25 Nov: The Magic plan to sign Castleton to a two-way deal, Michael Scotto of USA Today reports.",
-    "est_return": "31 Jan",
+    "est_return": "4 Jan",
     "date": "2025-12-30"
   },
   {
     "player": "Joel Embiid",
     "status": "Day-To-Day",
-    "injury_type": "30 Dec: Embiid is out for Sunday's game against the Thunder due to a right ankle sprain.",
+    "injury_type": "30 Dec: Embiid (ankle/knee) is listed as questionable for Tuesday's game against the Grizzlies.",
     "est_return": "30 Dec",
     "date": "2025-12-30"
   },
@@ -595,8 +574,15 @@
     "date": "2025-12-30"
   },
   {
+    "player": "Mark Williams",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: The NBA has issued Williams a one-game suspension for his role in an altercation with Jose Alvarado during Saturday's game against the Pelicans, Shams Charania of ESPN reports.",
+    "est_return": "31 Dec",
+    "date": "2025-12-30"
+  },
+  {
     "player": "Ryan Dunn",
-    "status": "Out",
+    "status": "Day-To-Day",
     "injury_type": "30 Dec: Dunn is out for Monday's game against the Wizards due to right knee soreness.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
@@ -616,38 +602,38 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Robert Williams III",
+    "player": "Kris Murray",
     "status": "Day-To-Day",
-    "injury_type": "30 Dec: Williams (injury management) has been ruled out for Sunday's game against the Celtics.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Jerami Grant",
-    "status": "Out",
-    "injury_type": "28 Dec: Grant (Achilles) won't play in Sunday's game against Boston.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Scoot Henderson",
-    "status": "Out",
-    "injury_type": "20 Dec: Henderson (hamstring) has been ruled out for Saturday's matchup against the Kings.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Jrue Holiday",
-    "status": "Out",
-    "injury_type": "20 Dec: Holiday (calf) has been ruled out for Saturday's game against the Kings.",
-    "est_return": "29 Dec",
+    "injury_type": "30 Dec: Murray (quadriceps) is out for Monday's game against the Mavericks.",
+    "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
     "player": "Matisse Thybulle",
     "status": "Out",
-    "injury_type": "14 Dec: Thybulle (thumb) has been ruled out for Sunday's matchup against Golden State.",
-    "est_return": "29 Dec",
+    "injury_type": "30 Dec: Thybulle (thumb) is out for Monday's game against Dallas.",
+    "est_return": "5 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Scoot Henderson",
+    "status": "Out",
+    "injury_type": "30 Dec: Henderson (hamstring) is out for Monday's game against Dallas.",
+    "est_return": "5 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Jrue Holiday",
+    "status": "Out",
+    "injury_type": "30 Dec: Holiday (calf) is out for Monday's game against Dallas.",
+    "est_return": "5 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Jerami Grant",
+    "status": "Out",
+    "injury_type": "30 Dec: Grant (Achilles) is out for Monday's game against the Mavericks.",
+    "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
@@ -665,23 +651,16 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Devin Carter",
+    "player": "Zach LaVine",
     "status": "Out",
-    "injury_type": "29 Dec: Carter (ankle) has been ruled out for Sunday's game against the Lakers.",
-    "est_return": "30 Dec",
+    "injury_type": "30 Dec: LaVine (ankle) has been ruled out for Tuesday's game against the Clippers.",
+    "est_return": "1 Jan",
     "date": "2025-12-30"
   },
   {
     "player": "Keegan Murray",
     "status": "Out",
-    "injury_type": "27 Dec: Murray was diagnosed with a mild strain in his right calf and will be reevaluated by medical staff in one week, Sean Cunningham of Fox 40 Sacramento reports.",
-    "est_return": "2 Jan",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Zach LaVine",
-    "status": "Out",
-    "injury_type": "24 Dec: LaVine (ankle) will be re-evaluated in one week, James Ham of ESPN 1320 Sacramento reports.",
+    "injury_type": "30 Dec: Murray (calf) is questionable for Tuesday's game against the Clippers.",
     "est_return": "30 Dec",
     "date": "2025-12-30"
   },
@@ -693,59 +672,45 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Drew Eubanks",
-    "status": "Out",
-    "injury_type": "14 Dec: Eubanks sustained a left thumb avulsion fracture in Thursday's loss to Denver and will be re-evaluated in three weeks, Sean Cunningham of Fox 40 Sacramento reports.",
-    "est_return": "4 Jan",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "De'Aaron Fox",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: Fox (adductor) is questionable for Monday's game against the Cavaliers.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Collin Murray-Boyles",
-    "status": "Day-To-Day",
-    "injury_type": "30 Dec: Murray-Boyles (illness) is questionable for Monday's game against the Magic, Blake Murphy of Sportsnet.ca reports.",
-    "est_return": "29 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Jakob Poeltl",
-    "status": "Out",
-    "injury_type": "30 Dec: Poeltl (back) will not play Monday against the Magic, Blake Murphy of Sportsnet.ca reports.",
-    "est_return": "31 Dec",
-    "date": "2025-12-30"
-  },
-  {
     "player": "RJ Barrett",
-    "status": "Out",
+    "status": "Day-To-Day",
     "injury_type": "30 Dec: Barrett (rest) will not play Monday against the Magic, Blake Murphy of Sportsnet.ca reports.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
-    "player": "Kevin Love",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: Love (rest) has been ruled out for Saturday's game against the Spurs.",
-    "est_return": "30 Dec",
-    "date": "2025-12-30"
-  },
-  {
-    "player": "Ace Bailey",
-    "status": "Day-To-Day",
-    "injury_type": "29 Dec: Bailey (hip) has been ruled out for Saturday's game against the Spurs.",
-    "est_return": "30 Dec",
+    "player": "Jakob Poeltl",
+    "status": "Out",
+    "injury_type": "30 Dec: Poeltl (back) will be re-evaluated in about one week, Josh Lewenberg of TSN.ca reports.",
+    "est_return": "7 Jan",
     "date": "2025-12-30"
   },
   {
     "player": "Georges Niang",
     "status": "Out",
-    "injury_type": "16 Dec: The Jazz announced Monday that Niang (foot) will be re-evaluated in two weeks.",
+    "injury_type": "30 Dec: Niang (foot) has been ruled out for Tuesday's game against the Celtics.",
+    "est_return": "5 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Keyonte George",
+    "status": "Day-To-Day",
+    "injury_type": "30 Dec: George (illness) is questionable for Tuesday's game against the Celtics.",
     "est_return": "30 Dec",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Kevin Love",
+    "status": "Out",
+    "injury_type": "30 Dec: Love (rest) has been ruled out for Tuesday's game against the Celtics.",
+    "est_return": "1 Jan",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Ace Bailey",
+    "status": "Out",
+    "injury_type": "30 Dec: Bailey (hip) has been ruled out for Tuesday's game against the Celtics.",
+    "est_return": "1 Jan",
     "date": "2025-12-30"
   },
   {
@@ -756,23 +721,23 @@
     "date": "2025-12-30"
   },
   {
-    "player": "Corey Kispert",
-    "status": "Out",
-    "injury_type": "30 Dec: Kispert (hamstring) won't play Monday against the Suns.",
-    "est_return": "31 Dec",
-    "date": "2025-12-30"
-  },
-  {
     "player": "Khris Middleton",
-    "status": "Out",
+    "status": "Day-To-Day",
     "injury_type": "30 Dec: Middleton (knee) won't play Monday against the Suns.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
   {
     "player": "Kyshawn George",
-    "status": "Out",
+    "status": "Day-To-Day",
     "injury_type": "30 Dec: George (hip) will not play Monday against the Suns.",
+    "est_return": "31 Dec",
+    "date": "2025-12-30"
+  },
+  {
+    "player": "Corey Kispert",
+    "status": "Out",
+    "injury_type": "30 Dec: Kispert (hamstring) won't play Monday against the Suns.",
     "est_return": "31 Dec",
     "date": "2025-12-30"
   },
