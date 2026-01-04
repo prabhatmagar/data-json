@@ -98,6 +98,13 @@
     "date": "2026-01-04"
   },
   {
+    "player": "Jalen Smith",
+    "status": "Day-To-Day",
+    "injury_type": "4 Jan: Smith entered the league's concussion protocol following the Bulls' 112-99 loss to the Hornets on Saturday, K.C. Johnson of Chicago Sports Network reports.",
+    "est_return": "5 Jan",
+    "date": "2026-01-04"
+  },
+  {
     "player": "Trentyn Flowers",
     "status": "Out",
     "injury_type": "4 Jan: Flowers (knee) will not play Saturday against the Hornets.",
@@ -172,6 +179,13 @@
     "status": "Out",
     "injury_type": "31 Dec: Strus (foot) won't play Wednesday against the Suns and remains without a timetable to return.",
     "est_return": "10 Jan",
+    "date": "2026-01-04"
+  },
+  {
+    "player": "P.J. Washington",
+    "status": "Day-To-Day",
+    "injury_type": "4 Jan: Washington won't return to Saturday's game against the Rockets due to a right ankle sprain.",
+    "est_return": "6 Jan",
     "date": "2026-01-04"
   },
   {
@@ -266,30 +280,9 @@
     "date": "2026-01-04"
   },
   {
-    "player": "Isaac Jones",
-    "status": "Day-To-Day",
-    "injury_type": "1 Jan: Detroit assigned Jones (knee) to the G League's Motor City Cruise on Saturday.",
-    "est_return": "4 Jan",
-    "date": "2026-01-04"
-  },
-  {
     "player": "Wendell Moore Jr.",
     "status": "Day-To-Day",
     "injury_type": "29 Dec: Moore will sign a two-way contract with the Pistons, Michael Scotto of USA Today reports.",
-    "est_return": "3 Jan",
-    "date": "2026-01-04"
-  },
-  {
-    "player": "Will Richard",
-    "status": "Day-To-Day",
-    "injury_type": "4 Jan: Richard (heel) is probable for Saturday's game against the Jazz.",
-    "est_return": "3 Jan",
-    "date": "2026-01-04"
-  },
-  {
-    "player": "Jonathan Kuminga",
-    "status": "Day-To-Day",
-    "injury_type": "4 Jan: Kuminga (back) is questionable for Saturday's game against the Jazz.",
     "est_return": "3 Jan",
     "date": "2026-01-04"
   },
@@ -298,20 +291,6 @@
     "status": "Out",
     "injury_type": "4 Jan: Horford (back) will not play Saturday against the Jazz.",
     "est_return": "5 Jan",
-    "date": "2026-01-04"
-  },
-  {
-    "player": "Stephen Curry",
-    "status": "Day-To-Day",
-    "injury_type": "4 Jan: Curry (ankle) is listed as questionable for Saturday's game against Utah.",
-    "est_return": "3 Jan",
-    "date": "2026-01-04"
-  },
-  {
-    "player": "Jimmy Butler III",
-    "status": "Day-To-Day",
-    "injury_type": "4 Jan: Butler (illness) is questionable for Saturday's game against Utah.",
-    "est_return": "3 Jan",
     "date": "2026-01-04"
   },
   {
@@ -326,6 +305,13 @@
     "status": "Out",
     "injury_type": "29 Dec: Curry underwent an MRI that revealed a sciatic nerve issue in his lower back/pelvis and will be re-evaluated in two weeks, Anthony Slater of ESPN.com reports.",
     "est_return": "13 Jan",
+    "date": "2026-01-04"
+  },
+  {
+    "player": "Alperen Sengun",
+    "status": "Day-To-Day",
+    "injury_type": "4 Jan: Sengun (ankle) has been ruled out for the rest of Saturday's game against the Mavericks, Tim MacMahom of ESPN reports.",
+    "est_return": "5 Jan",
     "date": "2026-01-04"
   },
   {
@@ -368,6 +354,13 @@
     "status": "Out",
     "injury_type": "8 Jul: Haliburton will miss the entire 2025-26 season while recovering from surgery on his right Achilles tendon, Shams Charania of ESPN reports.",
     "est_return": "1 Oct",
+    "date": "2026-01-04"
+  },
+  {
+    "player": "Derrick Jones Jr.",
+    "status": "Day-To-Day",
+    "injury_type": "4 Jan: Jones suffered a right knee injury during the fourth quarter of the Clippers' 146-115 loss to the Celtics on Saturday and did not return, Joey Linn of SI.com reports.",
+    "est_return": "5 Jan",
     "date": "2026-01-04"
   },
   {
@@ -415,8 +408,22 @@
   {
     "player": "Vince Williams Jr.",
     "status": "Out",
-    "injury_type": "2 Jan: Williams (knee) has been ruled out for Friday's game against the Lakers.",
+    "injury_type": "4 Jan: Williams (knee) has been ruled out for Sunday's game against the Lakers.",
     "est_return": "6 Jan",
+    "date": "2026-01-04"
+  },
+  {
+    "player": "Santi Aldama",
+    "status": "Day-To-Day",
+    "injury_type": "4 Jan: Aldama is questionable for Sunday's game against the Lakers with right ankle soreness.",
+    "est_return": "4 Jan",
+    "date": "2026-01-04"
+  },
+  {
+    "player": "Ja Morant",
+    "status": "Day-To-Day",
+    "injury_type": "4 Jan: Morant is questionable for Sunday's game against the Lakers with a right calf contusion.",
+    "est_return": "4 Jan",
     "date": "2026-01-04"
   },
   {
@@ -774,13 +781,6 @@
     "status": "Out",
     "injury_type": "4 Jan: Nurkic (toe) has been ruled out for Saturday's game against Golden State.",
     "est_return": "5 Jan",
-    "date": "2026-01-04"
-  },
-  {
-    "player": "Lauri Markkanen",
-    "status": "Day-To-Day",
-    "injury_type": "4 Jan: Markkanen (knee) is now probable for Saturday's game against Golden State.",
-    "est_return": "3 Jan",
     "date": "2026-01-04"
   },
   {
