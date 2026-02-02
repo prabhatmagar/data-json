@@ -1,772 +1,758 @@
 [
   {
-    "player": "Vit Krejci",
-    "status": "Day-To-Day",
-    "injury_type": "2 Feb: Krejci (ankle) has been ruled out for Saturday's game against the Pacers.",
-    "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "player": "Duop Reath",
+    "status": "Out",
+    "injury_type": "2 Feb: The Trail Blazers traded Reath (foot) and two future second-round picks to the Hawks on Sunday in exchange for Vit Krejci (ankle), Shams Charania of ESPN reports.",
+    "est_return": "1 Oct",
+    "date": "2026-02-03"
   },
   {
     "player": "Onyeka Okongwu",
     "status": "Out",
     "injury_type": "30 Jan: The Hawks are considering Okongwu day-to-day after undergoing a successful dental procedure Thursday morning.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Kristaps Porzingis",
     "status": "Out",
     "injury_type": "27 Jan: Porzingis (Achilles) will be re-evaluated in one week, the Hawks announced Monday.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "N'Faly Dante",
     "status": "Out",
     "injury_type": "24 Dec: Dante will undergo season-ending surgery to repair a torn ACL in his right knee, Michael Scotto of USA Today reports.",
     "est_return": "1 Jan",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Ron Harper Jr.",
-    "status": "Day-To-Day",
-    "injury_type": "2 Feb: Harper amassed three points (1-2 FG, 1-1 3Pt) and three rebounds over six minutes during Saturday's 132-106 victory over Atlanta.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Jayson Tatum",
     "status": "Out",
     "injury_type": "10 Oct: The Celtics have not ruled Tatum (Achilles) out for the 2025-26 season, ESPN's Shams Charania reported on the Pat McAfee Show on Thursday.",
     "est_return": "1 Apr",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Michael Porter Jr.",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Porter (personal) has been ruled out for Sunday's game against the Pistons.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Haywood Highsmith",
     "status": "Out",
     "injury_type": "1 Feb: Highsmith (knee) ha been ruled out for Sunday's game against the Pistons.",
     "est_return": "9 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Ziaire Williams",
     "status": "Out",
     "injury_type": "1 Feb: Williams (calf) has been ruled out for Sunday's game against Detroit.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Noah Clowney",
     "status": "Out",
     "injury_type": "1 Feb: Clowney (back) has been ruled out for Sunday's game against the Pistons.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "KJ Simpson",
     "status": "Out",
     "injury_type": "26 Jan: Simpson (hip) has been ruled out for Monday's game against the 76ers.",
-    "est_return": "2 Feb",
-    "date": "2026-02-02"
+    "est_return": "5 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Mason Plumlee",
     "status": "Out",
     "injury_type": "1 Jan: Plumlee underwent surgery to address his right groin injury and will be reevaluated in six weeks, the Hornets announced.",
     "est_return": "19 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
-    "player": "Nikola Vucevic",
+    "player": "Kevin Huerter",
     "status": "Day-To-Day",
-    "injury_type": "2 Feb: Vucevic (rest) will not play Saturday against Miami.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Josh Giddey",
-    "status": "Day-To-Day",
-    "injury_type": "2 Feb: Giddey (hamstring) has been ruled out for Saturday's game against the Heat.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Coby White",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: White (calf) has been ruled out for Saturday's game against the Heat.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Jalen Smith",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Smith (calf) has been ruled out for Saturday's game against the Heat.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Huerter (back) has been ruled out for Sunday's game against the Heat.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Dario Saric",
     "status": "Day-To-Day",
-    "injury_type": "1 Feb: Saric was traded to the Bulls along with two second-round picks Saturday, ESPN's Shams Charania reports. Keon Ellis and Dennis Schroder were traded to the Cavaliers for De'Andre Hunter in this three-team deal.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Saric did not play during Sunday's 134-91 loss to the Heat.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Jalen Smith",
+    "status": "Out",
+    "injury_type": "2 Feb: Smith (calf) has been ruled out for Sunday's game against Miami.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Josh Giddey",
+    "status": "Out",
+    "injury_type": "2 Feb: Giddey (hamstring) has been ruled out for Sunday's game against the Heat.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Tre Jones",
     "status": "Out",
     "injury_type": "31 Jan: Jones (hamstring) will not play Saturday against Miami.",
     "est_return": "7 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Zach Collins",
     "status": "Out",
     "injury_type": "15 Jan: Head coach Billy Donovan said he doesn't think Collins (toe) will return before the All-Star break, which begins Feb. 13, K.C. Johnson of Chicago Sports Network reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Noa Essengue",
     "status": "Out",
     "injury_type": "4 Dec: Essengue will undergo left shoulder surgery and will miss the remainder of the 2025-26 season, K.C. Johnson of Chicago Sports Network reports.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Dennis Schroder",
     "status": "Day-To-Day",
-    "injury_type": "1 Feb: Schroder was traded to Cleveland along with Keon Ellis in exchange for De'Andre Hunter on Saturday, ESPN's Shams Charania reports.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Schroder (recently traded) is expected to meet the Cavaliers in Los Angeles for Wednesday's game against the Clippers, Chris Fedor of The Cleveland Plain Dealer reports.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Keon Ellis",
     "status": "Day-To-Day",
-    "injury_type": "1 Feb: Ellis was traded alongside Dennis Schroder to the Cavaliers in exchange for De'Andre Hunter, ESPN's Shams Charania reports.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Craig Porter Jr.",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Porter (knee) is questionable for Sunday's game against the Trail Blazers.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Ellis (recently traded) is expected to meet the Cavaliers in Los Angeles for Wednesday's game against the Clippers, Chris Fedor of The Cleveland Plain Dealer reports.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Darius Garland",
     "status": "Out",
     "injury_type": "1 Feb: Garland (toe) will not play  Sunday against Portland.",
     "est_return": "4 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Evan Mobley",
     "status": "Out",
     "injury_type": "28 Jan: Mobley (calf) is expected to miss at least one week, Chris Haynes of NBA TV reports.",
     "est_return": "11 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Max Strus",
     "status": "Out",
     "injury_type": "7 Jan: Strus (foot) is expected to miss at least four more weeks, Marc J. Spears of ESPN.com reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Brandon Williams",
     "status": "Day-To-Day",
     "injury_type": "2 Feb: Williams suffered a right lower leg contusion Saturday against the Rockets and will not return, Christian Clark of The Athletic reports.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "P.J. Washington",
     "status": "Day-To-Day",
     "injury_type": "2 Feb: Washington suffered a head contusion during Saturday's game against Houston and will not return.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Anthony Davis",
     "status": "Out",
     "injury_type": "14 Jan: A second opinion revealed Davis (finger) won't require surgery, and he'll be re-evaluated in six weeks, Shams Charania of ESPN reports.",
     "est_return": "1 Mar",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Dereck Lively II",
     "status": "Out",
     "injury_type": "22 Dec: Lively successfully underwent surgery on his right foot Sunday.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Kyrie Irving",
     "status": "Out",
     "injury_type": "14 Dec: Irving (knee) remains out indefinitely and doesn't have a return timetable, Mavericks reporter Grant Afseth said during an appearance on HoopsHype's podcast 'Around the Beat' on Friday.",
     "est_return": "12 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Dante Exum",
     "status": "Out",
     "injury_type": "21 Nov: The Mavericks announced Thursday that Exum will undergo season-ending knee surgery.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Jamal Murray",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Murray (hip/hamstring) is probable for Sunday's game against the Thunder.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Christian Braun",
     "status": "Out",
-    "injury_type": "1 Feb: Braun (ankle) is listed as doubtful for Sunday's game against the Thunder.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Nikola Jokic",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Jokic (knee) is listed as probable for Sunday's game against the Thunder.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Braun is out for Sunday's game against the Thunder, Vinny Benedetto of The Denver Gazette reports.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Cameron Johnson",
     "status": "Out",
     "injury_type": "30 Jan: Nuggets head coach David Adelman told reporters Thursday that the hope is that Johnson (knee) is cleared to return before the All-Star break in mid-February, Vinny Benedetto of The Denver Gazette reports.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Aaron Gordon",
     "status": "Out",
     "injury_type": "30 Jan: Gordon (hamstring) will be re-evaluated in 4-to-6 weeks, Shams Charania of ESPN reported Thursday.",
     "est_return": "27 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Tamar Bates",
     "status": "Out",
     "injury_type": "23 Dec: The Nuggets announced Monday that Bates (foot) will be re-evaluated in 12 weeks.",
     "est_return": "1 Apr",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Caris LeVert",
     "status": "Out",
     "injury_type": "1 Feb: LeVert (illness) is questionable for Sunday's game against the Nets.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Cade Cunningham",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Cunningham (hip) is listed as probable for Sunday's game against the Nets.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Tolu Smith",
     "status": "Day-To-Day",
     "injury_type": "31 Jan: Smith accumulated nine points (1-7 FG, 7-8 FT), 14 rebounds, one assist, four blocks and one steal in 26 minutes during Saturday's 98-92 loss to the Clippers.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Seth Curry",
     "status": "Out",
     "injury_type": "1 Feb: The Warriors announced Saturday that Curry (back) has progressed to on-court workouts and will be re-evaluated again in two weeks.",
     "est_return": "19 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Stephen Curry",
     "status": "Day-To-Day",
     "injury_type": "1 Feb: The Warriors announced Saturday that Curry is day-to-day with his right knee soreness, Dalton Johnson of NBC Sports Bay Area reports.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "L.J. Cryer",
     "status": "Out",
     "injury_type": "30 Jan: Cryer (hamstring) won't play Friday against the Pistons.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Jonathan Kuminga",
     "status": "Out",
     "injury_type": "26 Jan: The Warriors announced Sunday that Kuminga has been diagnosed with a bone bruise in his left knee and a re-evaluation date will be determined in the coming days.",
     "est_return": "9 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Jimmy Butler III",
     "status": "Out",
     "injury_type": "21 Jan: Butler's injury from Monday Night's game involves a torn right ACL and he will be out for the rest of the season, per Shams Charania of ESPN.",
     "est_return": "1 Dec",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Kevin Durant",
+    "status": "Out",
+    "injury_type": "2 Feb: Durant (ankle) has been ruled out for Monday's game against the Pacers.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Steven Adams",
     "status": "Out",
     "injury_type": "29 Jan: The Rockets announced Wednesday that Adams has undergone season-ending left ankle surgery, per Shams Charania of ESPN.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Fred VanVleet",
     "status": "Out",
     "injury_type": "23 Sep: VanVleet suffered a torn ACL and may be out for the entire 2025-26 campaign, Shams Charania of ESPN reports.",
     "est_return": "1 Jun",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Obi Toppin",
     "status": "Out",
     "injury_type": "1 Feb: Toppin (foot) is ahead of schedule in his recovery, but coach Rick Carlisle said he doesn't have a timetable yet, Dustin Dopirak of The Indianapolis Star reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Tyrese Haliburton",
     "status": "Out",
     "injury_type": "28 Jan: Haliburton said Tuesday in his appearance on the \"Mind the Game\" podcast that he has resumed taking part in 3-on-3 and 4-on-4 work on the court while he continues to recover from right Achilles surgery.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "TyTy Washington Jr.",
     "status": "Out",
-    "injury_type": "1 Feb: Washington (hamstring) has been ruled out for Sunday's game against the Nets.",
+    "injury_type": "3 Feb: Washington (hamstring) has been ruled out for Sunday's game against the Nets.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "James Harden",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Harden (personal) has been ruled out for Sunday's game against the Suns, NBA writer Justin Russo reports.",
     "est_return": "2 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Derrick Jones Jr.",
     "status": "Out",
     "injury_type": "1 Feb: Los Angeles recalled Jones (knee) from the G League's San Diego Clippers on Friday.",
     "est_return": "2 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Bradley Beal",
     "status": "Out",
     "injury_type": "13 Nov: Beal will undergo season-ending surgery on his left hip, ESPN's Shams Charania reports.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Bronny James",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: James (lower leg) is listed as questionable for Sunday's game against the Knicks.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Austin Reaves",
     "status": "Out",
-    "injury_type": "1 Feb: Reaves (calf) is listed as questionable for Sunday's game against the Knicks.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "3 Feb: Lakers head coach JJ Redick said after Sunday's 112-100 loss to the Knicks that Reaves (calf) is day-to-day, and he's hopeful the guard will be back in action Tuesday in Brooklyn, Law Murray of The Athletic reports.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Bronny James",
+    "status": "Day-To-Day",
+    "injury_type": "3 Feb: James (lower leg) has been ruled out for Sunday's game against the Knicks.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Adou Thiero",
     "status": "Out",
     "injury_type": "1 Jan: Thiero will miss at least four weeks with a right MCL sprain, Law Murray of The Athletic reports.",
-    "est_return": "2 Feb",
-    "date": "2026-02-02"
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Jaren Jackson Jr.",
     "status": "Day-To-Day",
-    "injury_type": "2 Feb: Jackson (quadriceps) is out for Saturday's game against the Timberwolves.",
+    "injury_type": "3 Feb: Jackson (quadriceps) has been upgraded to probable for Monday's game against the Timberwolves.",
     "est_return": "2 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "John Konchar",
-    "status": "Day-To-Day",
-    "injury_type": "2 Feb: Konchar (neck) will not play Saturday against the Timberwolves.",
-    "est_return": "2 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Scotty Pippen Jr.",
     "status": "Out",
-    "injury_type": "1 Feb: Pippen (toe) has been ruled out for Saturday's game against the Timberwolves.",
-    "est_return": "2 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Pippen (toe) is out for Monday's game against the Timberwolves.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "John Konchar",
+    "status": "Out",
+    "injury_type": "2 Feb: Konchar (neck) is out for Monday's game against the Timberwolves.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Santi Aldama",
     "status": "Out",
-    "injury_type": "1 Feb: Aldama (knee) has been ruled out for Saturday's game against the Timberwolves.",
-    "est_return": "2 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Aldama (knee) has been ruled out for Monday's game against the Timberwolves.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Ja Morant",
     "status": "Out",
     "injury_type": "25 Jan: Morant (elbow) will be reevaluated in approximately three weeks, the Grizzlies announced Saturday.",
     "est_return": "20 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Zach Edey",
     "status": "Out",
     "injury_type": "15 Jan: The Grizzlies announced Wednesday that Edey continues to recover from a stress reaction in his left ankle and will maintain his current plan of offloading and rehabilitation before being re-evaluated in six weeks.",
     "est_return": "4 Mar",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Brandon Clarke",
     "status": "Out",
     "injury_type": "15 Jan: Clarke is progressing well from his Grade 2 right calf strain and is expected to return in four to six weeks, the Grizzlies announced Wednesday.",
     "est_return": "20 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Norman Powell",
     "status": "Day-To-Day",
-    "injury_type": "2 Feb: Powell won't play Saturday against the Bulls due to personal reasons.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Powell (personal) has been ruled out for Sunday's game against the Bulls, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
-    "player": "Davion Mitchell",
-    "status": "Out",
-    "injury_type": "1 Feb: Mitchell (shoulder) has been ruled out for Saturday's game against the Bulls.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "player": "Nikola Jovic",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Jovic (hip) has been ruled out for Sunday's game against the Bulls, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Tyler Herro",
     "status": "Out",
-    "injury_type": "31 Jan: Herro (ribs) will not play Saturday against the Bulls.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Herro (ribs) has been ruled out for Sunday's game against the Bulls.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Terry Rozier",
     "status": "Out",
     "injury_type": "24 Oct: The NBA placed Rozier on immediate leave from the Heat on Thursday, ESPN's Shams Charania reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Gary Harris",
     "status": "Day-To-Day",
-    "injury_type": "1 Feb: Harris (hamstring) is listed as probable for Sunday's game against the Celtics.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Harris (hamstring) has been ruled out for Sunday's game against the Celtics.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Giannis Antetokounmpo",
     "status": "Out",
     "injury_type": "29 Jan: Antetokounmpo (calf) is \"ready for a new home at the Feb. 5 NBA trade deadline or in the offseason as several rival teams make aggressive offers to the Milwaukee Bucks for him, ESPN's Shams Charania reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Kevin Porter Jr.",
     "status": "Out",
     "injury_type": "22 Jan: Doc Rivers said that Porter (oblique) won't play \"any time soon,\" and he's without an official timetable to return, Justin Garcia of Locked On Bucks reports.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Taurean Prince",
     "status": "Out",
     "injury_type": "2 Jan: The Bucks applied for a Disabled Player Exception for Prince earlier this month, indicating that they anticipate that he's \"substantially more likely than not\" to be unable to play through June 15, Eric Nehm of The Athletic reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Anthony Edwards",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Edwards is questionable for Monday's game against the Grizzlies due to back spasms.",
+    "est_return": "2 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Terrence Shannon Jr.",
     "status": "Out",
-    "injury_type": "31 Jan: Shannon (foot) has been ruled out for Saturday's game against the Grizzlies.",
+    "injury_type": "2 Feb: Shannon (foot) has been ruled out for Monday's game against Memphis.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Julius Randle",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Randle is questionable for Monday's game against the Grizzlies due to left thumb soreness.",
     "est_return": "2 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Hunter Dickinson",
+    "status": "Day-To-Day",
+    "injury_type": "3 Feb: Dickinson logged 12 points (6-9 FG), five rebounds, three assists and two steals across 23 minutes of Thursday's 132-125 preseason loss to Orlando.",
+    "est_return": "7 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Dejounte Murray",
     "status": "Out",
     "injury_type": "8 Jan: Pelicans head coach James Borrego said Sunday that Murray (Achilles) is \"making a lot of progress\" but doesn't appear to be close to making his season debut, Rod Walker of The New Orleans Times-Picayune reports. \"We hope to get him back in our building here soon. He's doing a lot of work getting ready to get back here,\" Borrego said of Murray. \"I say in the next month we'll have a little bit more clarity on where he's at. But he's made a lot of progress. Significant progress.\"",
     "est_return": "20 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Kevin McCullar Jr.",
+    "status": "Out",
+    "injury_type": "3 Feb: McCullar generated 23 points (7-16 FG, 3-10 3Pt, 3-3 FT), eight rebounds, eight assists, two steals and two blocks in 37 minutes during Friday's 114-104 G League win over the Windy City Bulls.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Miles McBride",
     "status": "Out",
     "injury_type": "1 Feb: McBride (ankle) will not play Sunday against the Lakers.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Kevin McCullar Jr.",
-    "status": "Day-To-Day",
-    "injury_type": "31 Jan: McCullar generated 23 points (7-16 FG, 3-10 3Pt, 3-3 FT), eight rebounds, eight assists, two steals and two blocks in 37 minutes during Friday's 114-104 G League win over the Windy City Bulls.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Alex Caruso",
     "status": "Out",
     "injury_type": "1 Feb: Caruso (adductor) has been ruled out for Sunday's game against the Nuggets.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Ajay Mitchell",
     "status": "Out",
     "injury_type": "1 Feb: Mitchell (abdomen) has been ruled out for Sunday's game against the Nuggets.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Jalen Williams",
     "status": "Out",
     "injury_type": "20 Jan: Williams (hamstring) will be re-evaluated in two weeks, Justin Martinez of The Oklahoman reports.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Nikola Topic",
     "status": "Out",
     "injury_type": "31 Oct: Topic has been diagnosed with testicular cancer, Thunder general manager Sam Presti announced Thursday, Justin Martinez of The Oklahoman reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Thomas Sorber",
     "status": "Out",
     "injury_type": "6 Sep: The Thunder announced Friday that Sorber has sustained a torn ACL in his right knee during an offseason workout, NBA reporter Marc Stein reports.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Franz Wagner",
     "status": "Out",
     "injury_type": "1 Feb: Wagner (ankle injury management) has been ruled out for Sunday's game against the Spurs.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Colin Castleton",
     "status": "Out",
     "injury_type": "25 Nov: The Magic plan to sign Castleton to a two-way deal, Michael Scotto of USA Today reports.",
-    "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "est_return": "5 Feb",
+    "date": "2026-02-03"
   },
   {
-    "player": "Jalen Green",
+    "player": "Joel Embiid",
     "status": "Day-To-Day",
-    "injury_type": "1 Feb: Green (hip/hamstring) is questionable for Sunday's game against the Clippers.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Embiid (ankle) is probable for Monday's game against the Clippers.",
+    "est_return": "2 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Devin Booker",
     "status": "Out",
-    "injury_type": "1 Feb: Booker (ankle) will not play Sunday against the Clippers.",
+    "injury_type": "3 Feb: Suns head coach Jordan Ott said prior to Sunday's 117-93 loss to the Clippers that Booker (ankle) is \"making tremendous progress\" and is \"trending in a good spot,\" though the guard is uncertain to be available for the team's next game Tuesday in Portland, Duane Rankin of The Arizona Republic reports. \"As soon as he can get out there, he's going to get out there, whether the All-Star break is tomorrow or in two weeks. He's going to rehab like crazy.\"",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
-    "player": "Robert Williams III",
+    "player": "Jalen Green",
     "status": "Day-To-Day",
-    "injury_type": "1 Feb: Williams (knee) is listed as questionable for Sunday's game against Cleveland.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "2 Feb: Green (hip/hamstring) has been ruled out for Sunday's game against the Clippers.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
-    "player": "Blake Wesley",
-    "status": "Out",
-    "injury_type": "1 Feb: Wesley (foot) is questionable for Sunday's game against the Cavaliers.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "player": "Jrue Holiday",
+    "status": "Day-To-Day",
+    "injury_type": "3 Feb: Holiday (personal) will not play Sunday against the Cavaliers.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Vit Krejci",
+    "status": "Day-To-Day",
+    "injury_type": "3 Feb: The Hawks traded Krejci (ankle) to the Trail Blazers on Sunday in exchange for Duop Reath (foot) and two future second-round picks, Shams Charania of ESPN reports.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Deni Avdija",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Avdija (back) has been ruled out for Sunday's game against the Cavaliers.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Matisse Thybulle",
     "status": "Out",
     "injury_type": "1 Feb: Thybulle (thumb/knee) has been ruled out for Sunday's game against the Cavaliers.",
     "est_return": "9 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Jrue Holiday",
-    "status": "Out",
-    "injury_type": "1 Feb: Holiday (personal) will not play Sunday against the Cavaliers.",
-    "est_return": "3 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Deni Avdija",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Avdija (back) is listed as questionable for Sunday's game against the Cavaliers.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Scoot Henderson",
     "status": "Out",
     "injury_type": "1 Feb: Henderson (hamstring) will not play Sunday against the Cavaliers.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Kris Murray",
     "status": "Out",
     "injury_type": "30 Jan: Murray (back) won't play Friday in New York.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Duop Reath",
-    "status": "Out",
-    "injury_type": "30 Jan: The Trail Blazers announced Thursday that Reath has undergone season-ending right foot surgery.",
-    "est_return": "1 Oct",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Damian Lillard",
     "status": "Out",
     "injury_type": "26 Sep: Lillard won't be back on the court for the 2025-26 season, as he made clear during an interview with YouTube influencer Speed on Wednesday.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "De'Andre Hunter",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: The Cavaliers traded Hunter to the Kings in exchange for Dennis Schroder and Keon Ellis on Saturday, ESPN's Shams Charania reports.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Russell Westbrook",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Westbrook (foot) is questionable for Sunday's game against the Wizards.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Malik Monk",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Monk (heel) is listed as questionable for Sunday's game against the Wizards.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Keegan Murray",
     "status": "Out",
-    "injury_type": "7 Jan: Murray (ankle), who won't play in Monday's game against Dallas, is expected to miss at least three weeks, NBA reporter Marc Stein reports.",
+    "injury_type": "3 Feb: Murray (ankle) has been ramping up his activity and has recently taken part in the Kings' pregame warmups, potentially putting him on track to return to action at some point during the team's upcoming three-game homestand, Kyle Draper of NBC Sports California reported Wednesday during his radio appearance on Sactown Sports 1140.",
     "est_return": "4 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Domantas Sabonis",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Sabonis (back) is out for Sunday's game against the Wizards.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "De'Andre Hunter",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Hunter has yet to join the Kings and won't play in Sunday's game against the Wizards, Jason Anderson of The Sacramento Bee reports.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Russell Westbrook",
+    "status": "Out",
+    "injury_type": "2 Feb: Westbrook (foot) has been ruled out for Sunday's game against the Wizards.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Stephon Castle",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Castle (thigh) is out for Sunday's game against the Magic, Michael C. Wright of ESPN.com reports.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Jeremy Sochan",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Sochan (quad) has been ruled out for Saturday's game in Charlotte.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "status": "Out",
+    "injury_type": "2 Feb: Sochan (quadriceps) has been ruled out for Sunday's game against the Magic.",
+    "est_return": "4 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Jakob Poeltl",
     "status": "Out",
     "injury_type": "26 Jan: Poeltl returned to Toronto on Sunday to receive targeted pain relief treatment for his back injury and does not have an established timeline of return, Blake Murphy of Sportsnet.ca reports.",
     "est_return": "8 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Chucky Hepburn",
     "status": "Out",
     "injury_type": "7 Jan: Hepburn produced 17 points (6-10 FG, 1-4 3Pt, 2-2 FT), 15 assists, two rebounds and three steals in 35 minutes of Wednesday's 115-108 G League win over the Delaware Blue Coats.",
     "est_return": "19 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
-    "player": "Jusuf Nurkic",
+    "player": "Keyonte George",
     "status": "Day-To-Day",
-    "injury_type": "1 Feb: Nurkic (illness) is questionable for Sunday's game against the Kings.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "injury_type": "3 Feb: George (ankle) has been ruled out for Sunday's game against the Raptors.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Georges Niang",
     "status": "Out",
     "injury_type": "1 Feb: Niang (foot) has been ruled out for Sunday's game against Toronto.",
     "est_return": "9 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Keyonte George",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: George is listed as questionable for Sunday's game against the Raptors due to a sprained left ankle.",
-    "est_return": "3 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Kevin Love",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Love (illness) is questionable for Sunday's game against the Raptors.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Elijah Harkless",
     "status": "Out",
     "injury_type": "31 Jan: Harkless (hamstring) said Friday that he expects to miss about two more weeks, Andy Larsen of The Salt Lake Tribune reports.",
     "est_return": "12 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Walker Kessler",
     "status": "Out",
     "injury_type": "6 Nov: Kessler will undergo left shoulder surgery and will miss the remainder of the 2025-26 season, Tony Jones of The Athletic reports.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
+  },
+  {
+    "player": "Alex Sarr",
+    "status": "Day-To-Day",
+    "injury_type": "2 Feb: Sarr (calf) has been ruled out for Sunday's game against the Kings.",
+    "est_return": "3 Feb",
+    "date": "2026-02-03"
   },
   {
     "player": "Tristan Vukcevic",
     "status": "Out",
     "injury_type": "1 Feb: Vukcevic (hamstring) will not play Sunday against the Kings.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
-  },
-  {
-    "player": "Alex Sarr",
-    "status": "Day-To-Day",
-    "injury_type": "1 Feb: Sarr is questionable for Sunday's game against the Kings with right calf soreness.",
-    "est_return": "1 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Tre Johnson",
     "status": "Out",
     "injury_type": "1 Feb: Johnson (ankle) will not play Sunday against the Kings.",
     "est_return": "3 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Cam Whitmore",
     "status": "Out",
     "injury_type": "16 Jan: Whitmore has begun the recovery process for a diagnosed venous condition and he will miss the remainder of the 2025-26 season.",
     "est_return": "1 Oct",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   },
   {
     "player": "Trae Young",
     "status": "Out",
     "injury_type": "15 Jan: Young (knee, quadriceps) will be re-evaluated following the mid-February All-Star break, Shams Charania of ESPN reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-02"
+    "date": "2026-02-03"
   }
 ]
