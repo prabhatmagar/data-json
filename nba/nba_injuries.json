@@ -1,814 +1,989 @@
 [
   {
-    "player": "Kristaps Porzingis",
-    "status": "Out",
-    "injury_type": "4 Feb: Porzingis (illness) is out for Tuesday's game against Miami, Brad Rowland of the Locked On Podcast Network reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
-  },
-  {
     "player": "Onyeka Okongwu",
     "status": "Out",
-    "injury_type": "3 Feb: Okongwu is out for Tuesday's game against the Heat due to a dental fracture, per Brad Rowland of the Locked On Podcast Network.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Okongwu (mouth) is out for Thursday's game against Utah, Brad Rowland of the Locked On Podcast Network reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Duop Reath",
+    "player": "Gabe Vincent",
     "status": "Out",
-    "injury_type": "2 Feb: The Trail Blazers traded Reath (foot) and two future second-round picks to the Hawks on Sunday in exchange for Vit Krejci (ankle), Shams Charania of ESPN reports.",
-    "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: The Lakers traded Vincent and a second-round pick to the Hawks on Thursday in exchange for Luke Kennard, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "N'Faly Dante",
+    "player": "Buddy Hield",
     "status": "Out",
-    "injury_type": "24 Dec: Dante will undergo season-ending surgery to repair a torn ACL in his right knee, Michael Scotto of USA Today reports.",
-    "est_return": "1 Jan",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: The Warriors traded Hield and Jonathan Kuminga (knee) to the Hawks in exchange for Kristaps Porzingis (illness), Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Nikola Vucevic",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: The Bulls traded Vucevic to the Celtics in exchange for Anfernee Simons on Tuesday, Shams Charania of ESPN reports.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Chris Boucher",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Boucher (personal) is out for Tuesday's game against Dallas.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "player": "Jonathan Kuminga",
+    "status": "Out",
+    "injury_type": "5 Feb: The Warriors traded Kuminga (knee), along with Buddy Hield, to the Hawks in exchange for Kristaps Porzingis, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Jayson Tatum",
     "status": "Out",
     "injury_type": "10 Oct: The Celtics have not ruled Tatum (Achilles) out for the 2025-26 season, ESPN's Shams Charania reported on the Pat McAfee Show on Thursday.",
     "est_return": "1 Apr",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "Haywood Highsmith",
+    "player": "Tyrese Martin",
     "status": "Out",
-    "injury_type": "1 Feb: Highsmith (knee) ha been ruled out for Sunday's game against the Pistons.",
-    "est_return": "9 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Martin won't play in Thursday's game against Orlando for personal reasons, per Brian Lewis of the New York Post.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Hunter Tyson",
+    "status": "Out",
+    "injury_type": "6 Feb: The Nuggets are trading Tyson and a 2032 second-round pick to the Nets for a 2026 second-rounder, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Josh Minott",
+    "status": "Out",
+    "injury_type": "6 Feb: The Celtics traded Minott to the Nets on Thursday, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Ochai Agbaji",
+    "status": "Out",
+    "injury_type": "6 Feb: Agbaji (not with team) has been ruled out for Thursday's game in Orlando.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Xavier Tillman",
+    "status": "Out",
+    "injury_type": "6 Feb: Tillman was traded from Boston to Charlotte on Thursday in exchange for cash considerations, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Coby White",
+    "status": "Out",
+    "injury_type": "6 Feb: White will be held out through the All-Star break in an abundance of caution to help rest his ailing right calf, Roderick Boone of The Charlotte Observer reports.",
+    "est_return": "19 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "KJ Simpson",
     "status": "Out",
-    "injury_type": "26 Jan: Simpson (hip) has been ruled out for Monday's game against the 76ers.",
+    "injury_type": "5 Feb: Simpson (hip) is out for Thursday's game in Houston.",
     "est_return": "7 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "Mason Plumlee",
+    "player": "Tidjane Salaun",
+    "status": "Day-To-Day",
+    "injury_type": "5 Feb: Salaun is listed as questionable for Thursday's game against Houston due to illness.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Guerschon Yabusele",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The Knicks traded Yabusele to Chicago in exchange for Dalen Terry, Shams Charania of ESPN reports.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Nick Richards",
     "status": "Out",
-    "injury_type": "1 Jan: Plumlee underwent surgery to address his right groin injury and will be reevaluated in six weeks, the Hornets announced.",
-    "est_return": "19 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Richards has been traded to the Bulls on Thursday, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Julian Phillips",
+    "player": "Collin Sexton",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Phillips (wrist) has been ruled out for Tuesday's game against Milwaukee.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Sexton (recently traded) is listed as questionable for Thursday's game against the Raptors.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Mike Conley",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Conley (recently traded) is not expected to stay in Chicago after being acquired by the Bulls from the Timberwolves on Wednesday, Chris Haynes of NBA TV reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "player": "Tre Jones",
+    "status": "Out",
+    "injury_type": "6 Feb: Jones (hamstring) has been ruled out for Thursday's game against the Raptors.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Anfernee Simons",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: The Bulls agreed to trade Nikola Vucevic and a second-round pick to the Celtics in exchange for Simons and a second-round pick Tuesday, Shams Charania of ESPN reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "player": "Leonard Miller",
+    "status": "Out",
+    "injury_type": "6 Feb: The Timberwolves traded Miller and Rob Dillignham to the Bulls in exchange for Ayo Dosunmu on Thursday, Jon Krawczynski of The Athletic reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Jaden Ivey",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Ivey was traded from the Pistons to the Bulls in a three-team trade Tuesday, ESPN's Shams Charania reports. Minnesota will send Mike Conley to the Bulls, while Kevin Huerter and Dario Saric will head to Detroit.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "player": "Rob Dillingham",
+    "status": "Out",
+    "injury_type": "6 Feb: Minnesota is including Dillingham in a trade package for Ayo Dosunmu (quadriceps) from the Bulls, Jon Krawczynski of The Athletic reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Josh Giddey",
     "status": "Out",
-    "injury_type": "3 Feb: Giddey is out for Tuesday's game against the Bucks with a left hamstring strain.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: Giddey (hamstring) has been ruled out for Thursday's game against Toronto.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Zach Collins",
     "status": "Out",
     "injury_type": "15 Jan: Head coach Billy Donovan said he doesn't think Collins (toe) will return before the All-Star break, which begins Feb. 13, K.C. Johnson of Chicago Sports Network reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Noa Essengue",
     "status": "Out",
     "injury_type": "4 Dec: Essengue will undergo left shoulder surgery and will miss the remainder of the 2025-26 season, K.C. Johnson of Chicago Sports Network reports.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "James Harden",
     "status": "Out",
-    "injury_type": "5 Feb: The Clippers traded Harden (personal) to the Cavaliers on Tuesday in exchange for Darius Garland  (toe) and a second-round pick, Shams Charania of ESPN reports.",
+    "injury_type": "5 Feb: Harden (recently traded) is expected to make his Cavalier debut against the Kings on Saturday, Chris Haynes of NBA TV reports.",
     "est_return": "7 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Evan Mobley",
     "status": "Out",
     "injury_type": "28 Jan: Mobley (calf) is expected to miss at least one week, Chris Haynes of NBA TV reports.",
     "est_return": "11 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Max Strus",
     "status": "Out",
     "injury_type": "7 Jan: Strus (foot) is expected to miss at least four more weeks, Marc J. Spears of ESPN.com reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Tyus Jones",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Jones is being traded to the Mavericks in exchange for Malaki Branham, Shams Charania of ESPN reports.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "P.J. Washington",
+    "status": "Out",
+    "injury_type": "5 Feb: Washington (concussion) has been ruled out for Thursday's game against the Spurs.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Brandon Williams",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Williams (lower leg) has been ruled out for Tuesday's game against the Celtics, Eddie Sefko of the Mavericks' official site reports.",
+    "injury_type": "5 Feb: Williams (lower leg) is listed as questionable for Thursday's game against the Spurs.",
     "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "P.J. Washington",
+    "player": "Daniel Gafford",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Washington (head) has been ruled out for Tuesday's game against the Celtics.",
+    "injury_type": "5 Feb: Gafford is questionable for Thursday's game versus the Spurs due to a sprained right ankle.",
     "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "D'Angelo Russell",
+    "player": "Khris Middleton",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Russell (illness) is out for Tuesday's game against the Celtics, Eddie Sefko of the Mavericks' official site reports.",
+    "injury_type": "5 Feb: The Wizards traded Middleton, AJ Johnson, Malaki Branham, Marvin Bagley, two first-round picks and three second-round picks to the Mavericks on Wednesday in exchange for Anthony Davis, Jaden Hardy, D'Angelo Russell and Dante Exum, Shams Charania of ESPN reports.",
     "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "AJ Johnson",
+    "status": "Day-To-Day",
+    "injury_type": "5 Feb: Johnson is being sent to the Mavericks on Wednesday as part of the Anthony Davis deal, Shams Charania of ESPN reports. Khris Middleton, Malaki Branham and Marvin Bagley will join Johnson in Dallas with Davis, D'Angelo Russell, Jaden Hardy and Dante Exum moving to Washington.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Marvin Bagley III",
+    "status": "Day-To-Day",
+    "injury_type": "5 Feb: Washington traded Bagley, Khris Middleton, AJ Johnson, Malaki Branham, two first-round picks and three second-round picks to Dallas on Wednesday. The Mavericks sent back Anthony Davis (finger), Dante Exum (knee), D'Angelo Russell (illness) and Jaden Hardy.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Kyrie Irving",
     "status": "Out",
     "injury_type": "4 Feb: Mavericks head coach Jason Kidd said Jan. 22 that Irving (knee) \"probably\" won't be ready to make his season debut until after the All-Star break, Dwain Price of the team's official site reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Anthony Davis",
-    "status": "Out",
-    "injury_type": "14 Jan: A second opinion revealed Davis (finger) won't require surgery, and he'll be re-evaluated in six weeks, Shams Charania of ESPN reports.",
-    "est_return": "1 Mar",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Dereck Lively II",
     "status": "Out",
     "injury_type": "22 Dec: Lively successfully underwent surgery on his right foot Sunday.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "Dante Exum",
-    "status": "Out",
-    "injury_type": "21 Nov: The Mavericks announced Thursday that Exum will undergo season-ending knee surgery.",
-    "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "player": "Spencer Jones",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The Nuggets will convert Jones (head) to a standard contract, Chris Haynes of NBA TV reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Peyton Watson",
+    "status": "Day-To-Day",
+    "injury_type": "5 Feb: Watson (hamstring) left Wednesday's 134-127 double overtime loss to the Knicks in the fourth quarter and did not return.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Cameron Johnson",
     "status": "Out",
-    "injury_type": "3 Feb: Johnson (knee) has been ruled out for Tuesday's game against Detroit, Brendan Vogt of TheDNVR.com reports.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: Johnson (knee) has been ruled out for Wednesday's game against the Knicks.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Aaron Gordon",
     "status": "Out",
     "injury_type": "30 Jan: Gordon (hamstring) will be re-evaluated in 4-to-6 weeks, Shams Charania of ESPN reported Thursday.",
     "est_return": "27 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Tamar Bates",
     "status": "Out",
     "injury_type": "23 Dec: The Nuggets announced Monday that Bates (foot) will be re-evaluated in 12 weeks.",
     "est_return": "1 Apr",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Dario Saric",
+    "status": "Out",
+    "injury_type": "5 Feb: Saric (recently traded) won't play in Thursday's game against Washington.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Tobias Harris",
+    "status": "Day-To-Day",
+    "injury_type": "5 Feb: Harris is questionable for Thursday's game against the Wizards due to a sore left hip.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Cade Cunningham",
+    "status": "Day-To-Day",
+    "injury_type": "5 Feb: Cunningham is listed as questionable for Thursday's game against the Wizards due to right wrist injury management.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Tolu Smith",
     "status": "Out",
     "injury_type": "5 Feb: Smith accumulated nine points (1-7 FG, 7-8 FT), 14 rebounds, one assist, four blocks and one steal in 26 minutes during Saturday's 98-92 loss to the Clippers.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Kevin Huerter",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: The Pistons are acquiring Huerter (back) in a three-team trade with the Bulls and Timberwolves on Tuesday, Shams Charania of ESPN reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Dario Saric",
-    "status": "Out",
-    "injury_type": "4 Feb: The Pistons, Bulls and Timberwolves agreed to a three-team trade Tuesday that sends Saric to Detroit, Shams Charania of ESPN reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Stephen Curry",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Curry (knee) will not play Tuesday against the 76ers, Danny Emerman of SFStandard.com reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "L.J. Cryer",
     "status": "Out",
-    "injury_type": "3 Feb: Cryer (hamstring) is out for Tuesday's game against the 76ers.",
+    "injury_type": "6 Feb: Cryer (hamstring) has been ruled out for Thursday's game against the Suns.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "De'Anthony Melton",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Melton (knee) is questionable for Thursday's game against the Suns.",
     "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Kristaps Porzingis",
+    "status": "Out",
+    "injury_type": "5 Feb: The Hawks traded Porzingis (illness) to the Warriors in exchange for Jonathan Kuminga and Buddy Hield, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Stephen Curry",
+    "status": "Out",
+    "injury_type": "5 Feb: Curry (knee) has been ruled out for Thursday's game against the Suns.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Seth Curry",
     "status": "Out",
     "injury_type": "1 Feb: The Warriors announced Saturday that Curry (back) has progressed to on-court workouts and will be re-evaluated again in two weeks.",
     "est_return": "19 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Jonathan Kuminga",
-    "status": "Out",
-    "injury_type": "26 Jan: The Warriors announced Sunday that Kuminga has been diagnosed with a bone bruise in his left knee and a re-evaluation date will be determined in the coming days.",
-    "est_return": "9 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Jimmy Butler III",
     "status": "Out",
     "injury_type": "21 Jan: Butler's injury from Monday Night's game involves a torn right ACL and he will be out for the rest of the season, per Shams Charania of ESPN.",
     "est_return": "1 Dec",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "Dorian Finney-Smith",
+    "player": "Jae'Sean Tate",
     "status": "Out",
-    "injury_type": "4 Feb: Finney-Smith is out for Wednesday's game against the Celtics due to left ankle injury management.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Tate won't play Thursday against the Hornets due to a left wrist contusion.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Kevin Durant",
+    "player": "Tari Eason",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Durant (ankle) is probable for Wednesday's game against the Celtics.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Eason is questionable for Thursday's game against the Hornets due to left lower-leg injury management.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Steven Adams",
     "status": "Out",
     "injury_type": "29 Jan: The Rockets announced Wednesday that Adams has undergone season-ending left ankle surgery, per Shams Charania of ESPN.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Fred VanVleet",
     "status": "Out",
     "injury_type": "23 Sep: VanVleet suffered a torn ACL and may be out for the entire 2025-26 campaign, Shams Charania of ESPN reports.",
     "est_return": "1 Jun",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "Pascal Siakam",
+    "player": "Kobe Brown",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Siakam will be rested against the Jazz on Tuesday.",
+    "injury_type": "6 Feb: Brown and Ivica Zubac are being sent to the Pacers on Thursday in exchange for Bennedict Mathurin, Isaiah Jackson and two first-round picks, Shams Charania of ESPN reports.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Ivica Zubac",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Zubac is being traded to the Pacers on Thursday, Shams Charania of ESPN reports.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Micah Potter",
     "status": "Day-To-Day",
     "injury_type": "4 Feb: Potter (hip) has been ruled out for Tuesday's game against the Jazz, Tony East of Forbes.com reports.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Aaron Nesmith",
     "status": "Day-To-Day",
     "injury_type": "4 Feb: Nesmith will be rested Tuesday against the Jazz.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Andrew Nembhard",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Nembhard will be rested Tuesday against the Jazz.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "T.J. McConnell",
     "status": "Day-To-Day",
     "injury_type": "4 Feb: McConnell will be rested Tuesday against the Jazz.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Bennedict Mathurin",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Mathurin (rest) is out  for Tuesday's game against Utah.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Obi Toppin",
     "status": "Out",
     "injury_type": "1 Feb: Toppin (foot) is ahead of schedule in his recovery, but coach Rick Carlisle said he doesn't have a timetable yet, Dustin Dopirak of The Indianapolis Star reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Tyrese Haliburton",
     "status": "Out",
     "injury_type": "28 Jan: Haliburton said Tuesday in his appearance on the \"Mind the Game\" podcast that he has resumed taking part in 3-on-3 and 4-on-4 work on the court while he continues to recover from right Achilles surgery.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Isaiah Jackson",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The Pacers traded Jackson, Bennedict Mathurin (rest), two first-round picks and one second-round pick to the Clippers in exchange for Ivica Zubac and Kobe Brown, Shams Charania of ESPN reports.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Bennedict Mathurin",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The Pacers are sending Mathurin to the Clippers as part of the trade centered around Ivica Zubac on Thursday, Michael Scotto of USA Today reports.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Darius Garland",
     "status": "Out",
     "injury_type": "4 Feb: The Cavaliers traded Garland (toe) and a second-round pick to the Clippers in exchange for James Harden (personal) on Tuesday, Shams Charania of ESPN reports.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "TyTy Washington Jr.",
-    "status": "Out",
-    "injury_type": "3 Feb: Washington (hamstring) has been ruled out for Sunday's game against the Nets.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Bradley Beal",
     "status": "Out",
     "injury_type": "13 Nov: Beal will undergo season-ending surgery on his left hip, ESPN's Shams Charania reports.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Luke Kennard",
+    "status": "Out",
+    "injury_type": "6 Feb: The Hawks traded Kennard to the Lakers in exchange for Gabe Vincent on Thursday, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Adou Thiero",
     "status": "Out",
-    "injury_type": "3 Feb: Thiero (knee) will not play Tuesday against the Nets.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Taylor Hendricks",
-    "status": "Out",
-    "injury_type": "4 Feb: Hendricks (recently traded) is out for Wednesday's game against Sacramento.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: Thiero (knee) is out for Thursday's game against the 76ers, Jovan Buha of The Athletic reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Walter Clayton Jr.",
-    "status": "Out",
-    "injury_type": "4 Feb: Clayton (recently traded) has been ruled out for Wednesday's game against the Kings.",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Clayton (recently traded) has been ruled out for Wednesday's game against the Kings.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Taylor Hendricks",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Hendricks (recently traded) is out for Wednesday's game against Sacramento.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Kyle Anderson",
-    "status": "Out",
-    "injury_type": "4 Feb: Anderson (illness/recently traded) has been ruled out for Wednesday's game against the Kings.",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Anderson (illness/recently traded) has been ruled out for Wednesday's game against the Kings.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Scotty Pippen Jr.",
     "status": "Out",
-    "injury_type": "4 Feb: Pippen (toe) is doubtful for Wednesday's game against Sacramento.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Santi Aldama",
-    "status": "Out",
-    "injury_type": "4 Feb: Aldama (knee) is questionable for Wednesday's game against the Kings.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Georges Niang",
-    "status": "Out",
-    "injury_type": "4 Feb: The Jazz are trading Niang (foot) to the Grizzlies as part of the deal centered around Jaren Jackson on Tuesday, per Shams Charania of ESPN.",
-    "est_return": "9 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: Pippen (toe) has been ruled out for Wednesday's game against the Kings.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Ja Morant",
     "status": "Out",
     "injury_type": "25 Jan: Morant (elbow) will be reevaluated in approximately three weeks, the Grizzlies announced Saturday.",
     "est_return": "20 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Zach Edey",
     "status": "Out",
     "injury_type": "15 Jan: The Grizzlies announced Wednesday that Edey continues to recover from a stress reaction in his left ankle and will maintain his current plan of offloading and rehabilitation before being re-evaluated in six weeks.",
     "est_return": "4 Mar",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Brandon Clarke",
     "status": "Out",
     "injury_type": "15 Jan: Clarke is progressing well from his Grade 2 right calf strain and is expected to return in four to six weeks, the Grizzlies announced Wednesday.",
     "est_return": "20 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Andrew Wiggins",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Wiggins is out for Tuesday's game against the Hawks with left hamstring tightness.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Norman Powell",
-    "status": "Out",
-    "injury_type": "4 Feb: Powell (personal) is out for Tuesday's game against the Hawks.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Tyler Herro",
     "status": "Out",
-    "injury_type": "3 Feb: Herro (ribs) will not play Tuesday against Atlanta.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Herro (ribs) is not traveling with the Heat for their two-game road trip, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "est_return": "9 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Terry Rozier",
     "status": "Out",
     "injury_type": "24 Oct: The NBA placed Rozier on immediate leave from the Heat on Thursday, ESPN's Shams Charania reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Bobby Portis",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Portis (hip) is out  for Tuesday's game against the Bulls.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Kevin Porter Jr.",
-    "status": "Out",
-    "injury_type": "4 Feb: Head coach Doc Rivers said Tuesday that Porter (oblique) is getting close to returning and could play as soon as Wednesday against the Pelicans, Eric Nehm of The Athletic reports.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Portis (hip) is questionable for Friday's game versus the Pacers.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Gary Harris",
     "status": "Out",
-    "injury_type": "3 Feb: Harris (hamstring) will not play Tuesday against the Bulls.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Harris is questionable for Friday's game against the Pacers due to a left hamstring strain.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Ousmane Dieng",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The Bulls traded Dieng to Milwaukee with Nick Richards going to Chicago, Shams Charania of ESPN reports.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Nigel Hayes-Davis",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Hayes-Davis and Nick Richards were traded from the Bucks to the Suns on Thursday in exchange for Cole Anthony and Amir Coffey, Shams Charania of ESPN reports.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Giannis Antetokounmpo",
     "status": "Out",
-    "injury_type": "29 Jan: Antetokounmpo (calf) is \"ready for a new home at the Feb. 5 NBA trade deadline or in the offseason as several rival teams make aggressive offers to the Milwaukee Bucks for him, ESPN's Shams Charania reports.",
+    "injury_type": "6 Feb: The Bucks have indicated to teams that they intend to keep Antetokounmpo (calf) through Thursday's trade deadline, Shams Charania of ESPN reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Taurean Prince",
     "status": "Out",
     "injury_type": "2 Jan: The Bucks applied for a Disabled Player Exception for Prince earlier this month, indicating that they anticipate that he's \"substantially more likely than not\" to be unable to play through June 15, Eric Nehm of The Athletic reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Julius Randle",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Randle (thumb) is listed as questionable for Wednesday's game against the Raptors.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Randle is questionable for Friday's game against the Pelicans due to left thumb soreness.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Julian Phillips",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The Bulls traded Phillips (wrist) to the Timberwolves in exchange for Rob Dillingham and Leonard Miller, Jon Krawczynski of The Athletic reports. Ayo Dosunmu was also sent to Minnesota, with four second-round picks going to Chicago.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The Bulls are trading Dosunmu (quadriceps) to the Timberwolves on Thursday, Shams Charania of ESPN reports.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Terrence Shannon Jr.",
     "status": "Out",
     "injury_type": "4 Feb: Shannon (foot) is out for Wednesday's game against Toronto.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "Anthony Edwards",
+    "player": "Dalen Terry",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Edwards is questionable for Wednesday's game against the Raptors due to left elbow soreness.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: The Knicks traded Terry and two second-round picks to the Knicks on Thursday in exchange for Jose Alvarado, Ian Begley of SportsNet New York reports.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Hunter Dickinson",
     "status": "Day-To-Day",
     "injury_type": "3 Feb: Dickinson logged 12 points (6-9 FG), five rebounds, three assists and two steals across 23 minutes of Thursday's 132-125 preseason loss to Orlando.",
     "est_return": "7 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Dejounte Murray",
     "status": "Out",
     "injury_type": "8 Jan: Pelicans head coach James Borrego said Sunday that Murray (Achilles) is \"making a lot of progress\" but doesn't appear to be close to making his season debut, Rod Walker of The New Orleans Times-Picayune reports. \"We hope to get him back in our building here soon. He's doing a lot of work getting ready to get back here,\" Borrego said of Murray. \"I say in the next month we'll have a little bit more clarity on where he's at. But he's made a lot of progress. Significant progress.\"",
     "est_return": "20 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
-    "player": "Mitchell Robinson",
+    "player": "OG Anunoby",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Robinson is out for Tuesday's game against the Wizards due to left ankle injury management.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Anunoby is probable  for Friday's game against the Pistons due to right toe soreness.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Josh Hart",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Hart (undisclosed) exited to the locker room in the third quarter of Tuesday's 132-101 win over the Wizards and did not return.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Hart (ankle) is questionable for Friday's game in Detroit.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Mohamed Diawara",
+    "player": "Karl-Anthony Towns",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Diawara (ankle) has been ruled out for the remainder of Tuesday's game against Washington.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Towns (eye laceration) is questionable for Friday's game against the Pistons.",
+    "est_return": "6 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Miles McBride",
     "status": "Out",
-    "injury_type": "3 Feb: McBride is out for Tuesday's game against the Wizards due to left ankle injury management.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: McBride will undergo surgery for a core muscle injury and may be sidelined until the playoffs, James L. Edwards III of The Athletic reports.",
+    "est_return": "1 Apr",
+    "date": "2026-02-06"
   },
   {
-    "player": "Kevin McCullar Jr.",
-    "status": "Out",
-    "injury_type": "3 Feb: McCullar generated 23 points (7-16 FG, 3-10 3Pt, 3-3 FT), eight rebounds, eight assists, two steals and two blocks in 37 minutes during Friday's 114-104 G League win over the Windy City Bulls.",
+    "player": "Jose Alvarado",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The Pelicans traded Alvarado to the Knicks on Thursday, Shams Charania of ESPN reports. Dalen Terry and two second-round picks will head the opposite direction.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Jared McCain",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: The 76ers traded McCain to the Thunder on Wednesday in exchange for a 2026 Rockets first-round pick and three second-round picks, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Chet Holmgren",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Holmgren (back) will not play Wednesday against the Spurs.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Isaiah Hartenstein",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Hartenstein (eye) will not play Wednesday against the Spurs.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Luguentz Dort",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Dort (knee) has been ruled out for Wednesday's game against the Spurs.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Alex Caruso",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Caruso (adductor) has been ruled out for Wednesday's game in San Antonio.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Ajay Mitchell",
+    "status": "Out",
+    "injury_type": "5 Feb: Mitchell (abdomen) has been ruled out for Wednesday's game against the Spurs.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "status": "Out",
+    "injury_type": "5 Feb: Gilgeous-Alexander is dealing with an abdominal injury and he'll be re-evaluated after the All-Star break, Shams Charania of ESPN reports.",
+    "est_return": "20 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Jalen Williams",
     "status": "Out",
     "injury_type": "3 Feb: Williams (hamstring) has been ruled out for Tuesday's game against the Magic.",
     "est_return": "7 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Ajay Mitchell",
-    "status": "Out",
-    "injury_type": "3 Feb: Mitchell is out for Tuesday's game against the Magic with an abdominal strain, per Rylan Stiles of SI.com.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Nikola Topic",
     "status": "Out",
     "injury_type": "31 Oct: Topic has been diagnosed with testicular cancer, Thunder general manager Sam Presti announced Thursday, Justin Martinez of The Oklahoman reports.",
     "est_return": "20 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Thomas Sorber",
     "status": "Out",
     "injury_type": "6 Sep: The Thunder announced Friday that Sorber has sustained a torn ACL in his right knee during an offseason workout, NBA reporter Marc Stein reports.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Franz Wagner",
     "status": "Out",
-    "injury_type": "3 Feb: Wagner (ankle) has been ruled out for Tuesday's game against the Thunder.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: Wagner (ankle) has been ruled out for Thursday's game versus the Nets, Jason Beede of the Orlando Sentinel reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Colin Castleton",
     "status": "Out",
     "injury_type": "25 Nov: The Magic plan to sign Castleton to a two-way deal, Michael Scotto of USA Today reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Dominick Barlow",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Barlow's availability for Thursday's game against the Lakers is in question while the 76ers work to piece together a 15-man roster prior to the 10 p.m. ET tipoff, Adam Aaronson of PhillyVoice.com reports.",
     "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Joel Embiid",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Embiid is out for Tuesday's game against the Warriors due to right ankle and knee injury management.",
+    "injury_type": "5 Feb: Embiid (ankle) is questionable for Thursday's game versus the Lakers.",
     "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Jalen Green",
     "status": "Out",
-    "injury_type": "4 Feb: Green (hip/hamstring) has been ruled out for Tuesday's game against the Trail Blazers, Amanda Pflugrad of 3TV Phoenix reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Green (hamstring, hip) is out for Thursday's game against the Warriors.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Amir Coffey",
+    "status": "Out",
+    "injury_type": "6 Feb: The Bucks traded Coffey and Cole Anthony to the Suns on Thursday in exchange for Nick Richards and Nigel Hayes-Davis, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Cole Anthony",
+    "status": "Out",
+    "injury_type": "6 Feb: The Bucks traded Anthony and Amir Coffey to the Suns for Nick Richards and Nigel Hayes-Davis, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Devin Booker",
     "status": "Out",
-    "injury_type": "3 Feb: Booker (ankle) has been ruled out for Tuesday's game against the Trail Blazers, Kellan Olson of ArizonaSports.com reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: Booker (ankle) is listed as out for Thursday's game against Golden State.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Deni Avdija",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Avdija (back) is out for Tuesday's game against the Suns.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Scoot Henderson",
-    "status": "Out",
-    "injury_type": "4 Feb: Henderson (hamstring) is out for Tuesday's game against the Suns.",
-    "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Avdija (back) practiced Thursday, but is unlikely to play Friday against the Grizzlies, Sean Highkin of Rip City Radio 620 Portland reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Kris Murray",
     "status": "Out",
     "injury_type": "3 Feb: Murray (back) has been ruled out for Tuesday's game against the Suns.",
     "est_return": "6 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Matisse Thybulle",
     "status": "Out",
     "injury_type": "1 Feb: Thybulle (thumb/knee) has been ruled out for Sunday's game against the Cavaliers.",
     "est_return": "9 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Damian Lillard",
     "status": "Out",
     "injury_type": "26 Sep: Lillard won't be back on the court for the 2025-26 season, as he made clear during an interview with YouTube influencer Speed on Wednesday.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Domantas Sabonis",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Sabonis (back) is listed as questionable for Wednesday's game against the Grizzlies.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Keegan Murray",
     "status": "Out",
     "injury_type": "4 Feb: Murray (ankle) will be re-evaluated in two weeks, Jason Anderson of The Sacramento Bee reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Dylan Harper",
-    "status": "Day-To-Day",
-    "injury_type": "5 Feb: Harper is listed as questionable for Wednesday's game against the Thunder due to right ankle soreness.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Jeremy Sochan",
-    "status": "Out",
-    "injury_type": "4 Feb: Sochan (quadriceps) has been ruled out for Wednesday's game against the Thunder.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Lindy Waters III",
     "status": "Out",
-    "injury_type": "4 Feb: Waters is out  for Wednesday's game against the Thunder with a left knee hypertension.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Waters (knee) is out for Thursday's game against the Mavericks.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Stephon Castle",
+    "player": "Jeremy Sochan",
+    "status": "Out",
+    "injury_type": "6 Feb: Sochan won't play in Thursday's game against the Mavericks due to a left quadriceps strain, NBA reporter Matthew Tynan reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Kelly Olynyk",
     "status": "Day-To-Day",
-    "injury_type": "4 Feb: Castle (thigh) is questionable for Wednesday's game against the Thunder.",
-    "est_return": "4 Feb",
-    "date": "2026-02-05"
+    "injury_type": "6 Feb: Olynyk (foot) is questionable for Thursday's game against the Mavericks, NBA reporter Matthew Tynan reports.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Luke Kornet",
+    "status": "Out",
+    "injury_type": "6 Feb: Kornet (ankle) has been ruled out for Thursday's game against the Mavericks, NBA reporter Matthew Tynan reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Dylan Harper",
+    "status": "Day-To-Day",
+    "injury_type": "6 Feb: Harper (ankle) is questionable for Thursday's game against the Mavericks, NBA reporter Matthew Tynan reports.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "David Jones Garcia",
+    "status": "Out",
+    "injury_type": "5 Feb: Jones Garcia underwent ankle surgery Wednesday and will miss the remainder of the 2025-26 season, Tom Orsborn of the San Antonio Express-News reports.",
+    "est_return": "2 Jul",
+    "date": "2026-02-06"
   },
   {
     "player": "Jakob Poeltl",
     "status": "Out",
-    "injury_type": "26 Jan: Poeltl returned to Toronto on Sunday to receive targeted pain relief treatment for his back injury and does not have an established timeline of return, Blake Murphy of Sportsnet.ca reports.",
+    "injury_type": "6 Feb: Poeltl (back) has been reacting well to increased workloads and the Raptors are hopeful he can return before the All-Star break, Blake Murphy of Sportsnet.ca reports.",
     "est_return": "8 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "RJ Barrett",
+    "status": "Out",
+    "injury_type": "6 Feb: Barrett (knee) has been ruled out for Thursday's game against the Bulls.",
+    "est_return": "8 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Trayce Jackson-Davis",
+    "status": "Out",
+    "injury_type": "6 Feb: The Warriors traded Jackson-Davis to the Raptors in exchange for a 2026 second-round pick, Shams Charania of ESPN reports.",
+    "est_return": "8 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Chucky Hepburn",
     "status": "Out",
     "injury_type": "7 Jan: Hepburn produced 17 points (6-10 FG, 1-4 3Pt, 2-2 FT), 15 assists, two rebounds and three steals in 35 minutes of Wednesday's 115-108 G League win over the Delaware Blue Coats.",
     "est_return": "19 Feb",
-    "date": "2026-02-05"
-  },
-  {
-    "player": "Vince Williams Jr.",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: The Grizzlies are trading Williams to the Jazz as part of the deal centered around Jaren Jackson on Tuesday, Shams Charania of ESPN reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Kevin Love",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: Love (illness) is out for Tuesday's game against the Pacers.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "status": "Out",
+    "injury_type": "6 Feb: Love (illness) has been ruled out for Thursday's game against the Hawks.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Jock Landale",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: The Jazz are acquiring Landale in a trade centered around Jaren Jackson on Tuesday, Shams Charania of ESPN reports.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "player": "Lonzo Ball",
+    "status": "Out",
+    "injury_type": "6 Feb: Utah is expected to waive Ball after acquiring him in a three-team trade with the Cavaliers and Hawks on Wednesday, Shams Charania of ESPN reports.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Vince Williams Jr.",
+    "status": "Out",
+    "injury_type": "5 Feb: Williams (trade pending) is out for Thursday's game against the Hawks.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Jaren Jackson Jr.",
-    "status": "Day-To-Day",
-    "injury_type": "4 Feb: The Grizzlies traded Jackson to the Jazz on Tuesday in exchange for Walter Clayton, Kyle Anderson, Taylor Hendricks, Georges Niang (foot) and three future first-round picks, ESPN's Shams Charania reports. Memphis also included Vince Williams, John Konchar and Jock Landale in the deal.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "status": "Out",
+    "injury_type": "5 Feb: Jackson (recently traded) has been ruled out for Thursday's game against Atlanta.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "John Konchar",
     "status": "Out",
-    "injury_type": "4 Feb: The Jazz are adding Konchar (neck) in a trade centered around Jaren Jackson on Tuesday, per Shams Charania of ESPN.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: Konchar (neck/recently traded) has been ruled out for Thursday's game against the Hawks.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Keyonte George",
     "status": "Out",
-    "injury_type": "3 Feb: George (ankle) has been ruled out for Tuesday's game against the Pacers.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: George (ankle) has been ruled out for Thursday's game in Atlanta.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
     "player": "Elijah Harkless",
     "status": "Out",
     "injury_type": "31 Jan: Harkless (hamstring) said Friday that he expects to miss about two more weeks, Andy Larsen of The Salt Lake Tribune reports.",
     "est_return": "12 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Walker Kessler",
     "status": "Out",
     "injury_type": "6 Nov: Kessler will undergo left shoulder surgery and will miss the remainder of the 2025-26 season, Tony Jones of The Athletic reports.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Tre Johnson",
     "status": "Out",
-    "injury_type": "3 Feb: Johnson (ankle) will not play Tuesday against the Knicks.",
-    "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "injury_type": "5 Feb: Johnson (ankle) will remain on the inactive list for Thursday's game in Detroit.",
+    "est_return": "7 Feb",
+    "date": "2026-02-06"
   },
   {
-    "player": "Tristan Vukcevic",
-    "status": "Out",
-    "injury_type": "3 Feb: Vukcevic (hamstring) will not play Tuesday against the Knicks.",
+    "player": "Jaden Hardy",
+    "status": "Day-To-Day",
+    "injury_type": "5 Feb: Hardy is being traded to the Wizards on Wednesday, Shams Charania of ESPN reports. Anthony Davis, D'Angelo Russell and Dante Exum will join Hardy in Washington with Khris Middleton, AJ Johnson, Malaki Branham, Marvin Bagley heading to Dallas.",
     "est_return": "5 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Dante Exum",
+    "status": "Out",
+    "injury_type": "5 Feb: Exum (knee) was traded alongside Anthony Davis (finger), Jaden Hardy and D'Angelo Russell (illness) from Dallas to Washington on Wednesday, ESPN's Shams Charania reports. The Wizards sent back Khris Middleton, AJ Johnson, Malaki Branham, Marvin Bagley, two first-round picks and three second-round picks.",
+    "est_return": "1 Oct",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "D'Angelo Russell",
+    "status": "Day-To-Day",
+    "injury_type": "5 Feb: The Mavericks traded Russell (illness) to the Wizards on Wednesday, ESPN's Shams Charania reports. Anthony Davis, Jaden Hardy and Dante Exum (knee) were also sent to the Wizards for Khris Middleton, AJ Johnson, Malaki Branham, Marvin Bagley, two first-round picks and three second-round picks.",
+    "est_return": "5 Feb",
+    "date": "2026-02-06"
+  },
+  {
+    "player": "Anthony Davis",
+    "status": "Out",
+    "injury_type": "5 Feb: Davis (finger) was traded from Dallas to Washington on Wednesday, ESPN's Shams Charania reports. Jaden Hardy, D'Angelo Russell and Dante Exum were also sent to Washington with Khris Middleton, AJ Johnson, Malaki Branham and Marvin Bagley going to Dallas along with two first-round picks and three second-round picks.",
+    "est_return": "2 Mar",
+    "date": "2026-02-06"
   },
   {
     "player": "Cam Whitmore",
     "status": "Out",
     "injury_type": "16 Jan: Whitmore has begun the recovery process for a diagnosed venous condition and he will miss the remainder of the 2025-26 season.",
     "est_return": "1 Oct",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   },
   {
     "player": "Trae Young",
     "status": "Out",
     "injury_type": "15 Jan: Young (knee, quadriceps) will be re-evaluated following the mid-February All-Star break, Shams Charania of ESPN reports.",
     "est_return": "19 Feb",
-    "date": "2026-02-05"
+    "date": "2026-02-06"
   }
 ]
